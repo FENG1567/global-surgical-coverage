@@ -1,0 +1,1363 @@
+[
+  {
+    "file": "data/tables/Table_S10.csv",
+    "origin": "PROJECT/04_补充材料/源表/Table_S10.csv",
+    "source_sha256": "dc85c7c6173360ffcc6eb23efa9c79750cb04872c2ea5b403c3eb4a2a7c791c5",
+    "role": "author-result"
+  },
+  {
+    "file": "data/tables/Main_Table_1_full_fields.csv",
+    "origin": "PROJECT/04_补充材料/源表/Main_Table_1_full_fields.csv",
+    "source_sha256": "01c1bdd56a063b58a128e6bb08b7e640b259657e97467aafc0597b14cd62cf15",
+    "role": "author-result"
+  },
+  {
+    "file": "data/tables/Table_S17.csv",
+    "origin": "PROJECT/04_补充材料/源表/Table_S17.csv",
+    "source_sha256": "ee112a7860960f2ed7350eb1f1e99b0169b8493fe1d1a160a02f67ba9b70d5bb",
+    "role": "author-result"
+  },
+  {
+    "file": "data/tables/Table_S9.csv",
+    "origin": "PROJECT/04_补充材料/源表/Table_S9.csv",
+    "source_sha256": "915ff9f5dc5e60bec284cee5f0bdb1d72ead190648814f7feb17d37e46587356",
+    "role": "author-result"
+  },
+  {
+    "file": "data/tables/Main_Table_3.csv",
+    "origin": "PROJECT/04_补充材料/源表/Main_Table_3.csv",
+    "source_sha256": "af8ca57687fd29b9cb729f99752aa371d7bced9aa13c00ade4b77fbd4041effd",
+    "role": "author-result"
+  },
+  {
+    "file": "data/tables/Table_S15.csv",
+    "origin": "PROJECT/04_补充材料/源表/Table_S15.csv",
+    "source_sha256": "e25abf397010f01f38876011f9af769839b0a600654ebe1c449146afa1bf0d4e",
+    "role": "author-result"
+  },
+  {
+    "file": "data/tables/Table_S20.csv",
+    "origin": "PROJECT/04_补充材料/源表/Table_S20.csv",
+    "source_sha256": "47349e3ecd2bd40af95f88ca49747bc59a027f39f9095358a8a436867ca8d34e",
+    "role": "author-result"
+  },
+  {
+    "file": "data/tables/Table_S16.csv",
+    "origin": "PROJECT/04_补充材料/源表/Table_S16.csv",
+    "source_sha256": "7b8c824683579c71aad339d08cbd0689e24a082657d5cdce2fe4832016af9f0c",
+    "role": "author-result"
+  },
+  {
+    "file": "data/tables/Main_Table_2.csv",
+    "origin": "PROJECT/04_补充材料/源表/Main_Table_2.csv",
+    "source_sha256": "e0fc114dc2b5ac157beae1aa882251c10ccb57b7a383dddd6221063a4a928f4f",
+    "role": "author-result"
+  },
+  {
+    "file": "data/tables/Table_S12.csv",
+    "origin": "PROJECT/04_补充材料/源表/Table_S12.csv",
+    "source_sha256": "7d0f381a90d3022e6125b5ca707461810f347f473c4930bb5d020810f2b96036",
+    "role": "author-result"
+  },
+  {
+    "file": "data/tables/Main_Table_4.csv",
+    "origin": "PROJECT/04_补充材料/源表/Main_Table_4.csv",
+    "source_sha256": "2f53dea8c9bd196002d7c5ffb309a7cdad239b03c9686f9d7e1de521c4f67b19",
+    "role": "author-result"
+  },
+  {
+    "file": "data/tables/Table_S23.csv",
+    "origin": "PROJECT/04_补充材料/源表/Table_S23.csv",
+    "source_sha256": "c1cf6d9c01ed029d123d50a9ce26ed456182e79987fdb1d55fcb28318697864b",
+    "role": "author-result"
+  },
+  {
+    "file": "data/tables/Table_S18.csv",
+    "origin": "PROJECT/04_补充材料/源表/Table_S18.csv",
+    "source_sha256": "889fecbcd83dd80df35058089fa99fd8d4f5948ce75b5b9acd39b523d6a11c08",
+    "role": "author-result"
+  },
+  {
+    "file": "data/tables/Table_S19.csv",
+    "origin": "PROJECT/04_补充材料/源表/Table_S19.csv",
+    "source_sha256": "836a5e10522d86883af64be22a7154b23a2ce1e90f1f1acc6cd2a765af1595eb",
+    "role": "author-result"
+  },
+  {
+    "file": "data/tables/Table_S21.csv",
+    "origin": "PROJECT/04_补充材料/源表/Table_S21.csv",
+    "source_sha256": "3561ba508eeadd35f3461a29fc90685643293879dc6ce2ca3d6dee57e5f51f42",
+    "role": "author-result"
+  },
+  {
+    "file": "data/tables/Table_S13.csv",
+    "origin": "PROJECT/04_补充材料/源表/Table_S13.csv",
+    "source_sha256": "2f53dea8c9bd196002d7c5ffb309a7cdad239b03c9686f9d7e1de521c4f67b19",
+    "role": "author-result"
+  },
+  {
+    "file": "data/tables/Table_S11.csv",
+    "origin": "PROJECT/04_补充材料/源表/Table_S11.csv",
+    "source_sha256": "87cf38b963474d51c263bf92609aa3e628a7007b57d0859981a166623bccf371",
+    "role": "author-result"
+  },
+  {
+    "file": "data/tables/Table_S14.csv",
+    "origin": "PROJECT/04_补充材料/源表/Table_S14.csv",
+    "source_sha256": "a22556fea072cfc1348526102aa132a2bcdc09ef3e0f3c970c5b28955755e72e",
+    "role": "author-result"
+  },
+  {
+    "file": "data/tables/Table_S22.csv",
+    "origin": "PROJECT/04_补充材料/源表/Table_S22.csv",
+    "source_sha256": "ec3eed457c0b9f98cb7ec74bc934e0010a6a09a89f6984b257b46f4d09e09c76",
+    "role": "author-result"
+  },
+  {
+    "file": "data/figure_sources/multiservice_validation_panel_source.csv",
+    "origin": "PROJECT/04_补充材料/图源数据/multiservice_validation_panel_source.csv",
+    "source_sha256": "007eb735d7819be683642596153489e6e092a4e8f181b0badd0bbc02f58442fc",
+    "role": "author-result"
+  },
+  {
+    "file": "data/figure_sources/Figure_6_errors_source_data.csv",
+    "origin": "PROJECT/04_补充材料/图源数据/Figure_6_errors_source_data.csv",
+    "source_sha256": "ac8c42eeff13b6481181b71cf5aae9e84e268741fd709e63503cfd6f4c70b393",
+    "role": "author-result"
+  },
+  {
+    "file": "data/figure_sources/information_value_panel_source.csv",
+    "origin": "PROJECT/04_补充材料/图源数据/information_value_panel_source.csv",
+    "source_sha256": "3b77c0c9fdf3d506f816994ef418e5419d879e3fe7bd6149e0fe170fa8c2a019",
+    "role": "author-result"
+  },
+  {
+    "file": "data/figure_sources/mexico_panel_source.csv",
+    "origin": "PROJECT/04_补充材料/图源数据/mexico_panel_source.csv",
+    "source_sha256": "9eebee9c21aa593517800335dcacc9c99eb88232732ee9151299852b8e2da58e",
+    "role": "author-result"
+  },
+  {
+    "file": "data/figure_sources/Figure_6_rank_source_data.csv",
+    "origin": "PROJECT/04_补充材料/图源数据/Figure_6_rank_source_data.csv",
+    "source_sha256": "af4e7753bfb031c17fa6dc793c7c5f8ae8601b06d7f4dc63a4d57f46788a1b9f",
+    "role": "author-result"
+  },
+  {
+    "file": "data/figure_sources/Figure_1_source_data.csv",
+    "origin": "PROJECT/04_补充材料/图源数据/Figure_1_source_data.csv",
+    "source_sha256": "13e25c6353f8a2c029d257a5f9704a30ccc952069438edbb613a0aecd6ccd15e",
+    "role": "author-result"
+  },
+  {
+    "file": "data/figure_sources/Figure_4_source_data.csv",
+    "origin": "PROJECT/04_补充材料/图源数据/Figure_4_source_data.csv",
+    "source_sha256": "bc91839daf2fcac52cd4a48af514432e9a82798a1cad9c755172e3faafc8936c",
+    "role": "author-result"
+  },
+  {
+    "file": "data/figure_sources/Figure_3_source_data.csv",
+    "origin": "PROJECT/04_补充材料/图源数据/Figure_3_source_data.csv",
+    "source_sha256": "3acf67ddb3e5d30e0c62b9dc873721ddf746d532aaa03c3c8cb0d1d35bf3a242",
+    "role": "author-result"
+  },
+  {
+    "file": "data/figure_sources/validation_panel_source.csv",
+    "origin": "PROJECT/04_补充材料/图源数据/validation_panel_source.csv",
+    "source_sha256": "d5bf48676d2fba4a83ce76190cf9abd1a9f268a51a6cd696aebd176f4d011002",
+    "role": "author-result"
+  },
+  {
+    "file": "data/figure_sources/Figure_5_spatial_source_data.csv",
+    "origin": "PROJECT/04_补充材料/图源数据/Figure_5_spatial_source_data.csv",
+    "source_sha256": "7f1f5beec9645e4abe106dcbec7a7dd1970faaf05bc1e2807a1e6b6dea3b8706",
+    "role": "author-result"
+  },
+  {
+    "file": "data/figure_sources/Figure_5_temporal_source_data.csv",
+    "origin": "PROJECT/04_补充材料/图源数据/Figure_5_temporal_source_data.csv",
+    "source_sha256": "f166b98adc5821660edbd7b0b100e7a5a122fc7ed666110b2d692a67fb646af7",
+    "role": "author-result"
+  },
+  {
+    "file": "data/figure_sources/strong_baseline_panel_source.csv",
+    "origin": "PROJECT/04_补充材料/图源数据/strong_baseline_panel_source.csv",
+    "source_sha256": "50bc80f74dbb7a8837a48f387a789153f9da3e9406579e2e52e2beae81878c07",
+    "role": "author-result"
+  },
+  {
+    "file": "data/figure_sources/state_constraint_panel_source.csv",
+    "origin": "PROJECT/04_补充材料/图源数据/state_constraint_panel_source.csv",
+    "source_sha256": "a01207bce9c6b84ab5a5a3a263a7bc713277c41c5b960021ac8d339643dc7952",
+    "role": "author-result"
+  },
+  {
+    "file": "data/figure_sources/brazil_panel_source.csv",
+    "origin": "PROJECT/04_补充材料/图源数据/brazil_panel_source.csv",
+    "source_sha256": "a2f9626d57c1d99c4f092a74ead93f159eae915b8204a32311699c190ac0791f",
+    "role": "author-result"
+  },
+  {
+    "file": "reference/figures/Figure_4.pdf",
+    "origin": "PROJECT/02_主图/Figure_4.pdf",
+    "source_sha256": "f18ba03eae973c86f9375b25a860e848052078e629f98c8ad12fae103e1a4679",
+    "role": "author-result"
+  },
+  {
+    "file": "reference/figures/Figure_2.pdf",
+    "origin": "PROJECT/02_主图/Figure_2.pdf",
+    "source_sha256": "82ddfccee4d7ba303a82bdcf9d297daba60279bad5b074a614440d446132b18e",
+    "role": "author-result"
+  },
+  {
+    "file": "reference/figures/Figure_1.pdf",
+    "origin": "PROJECT/02_主图/Figure_1.pdf",
+    "source_sha256": "56d43286c5430e67f277108a09d04ea3e9967e1541f2df51d9bbc368b18547cc",
+    "role": "author-result"
+  },
+  {
+    "file": "reference/figures/Figure_6.pdf",
+    "origin": "PROJECT/02_主图/Figure_6.pdf",
+    "source_sha256": "880269c72c799483173b8781a3429ff3e8229a5d1fe8268ef9e8b4e2db7b49ba",
+    "role": "author-result"
+  },
+  {
+    "file": "reference/figures/Figure_5.pdf",
+    "origin": "PROJECT/02_主图/Figure_5.pdf",
+    "source_sha256": "883cbd3ebe88197f8e0f9722cdcf062fd58e231e4f2d94dbc8e6cd32b33ee208",
+    "role": "author-result"
+  },
+  {
+    "file": "reference/figures/Figure_3.pdf",
+    "origin": "PROJECT/02_主图/Figure_3.pdf",
+    "source_sha256": "b39b4364261c69e9129d262d299fe9e4621b74b20911abf1f1b1ffc319d64f00",
+    "role": "author-result"
+  },
+  {
+    "file": "reference/figures/Figure_S2.pdf",
+    "origin": "PROJECT/04_补充材料/补充图片/Figure_S2.pdf",
+    "source_sha256": "b1444bd864f6beb0ce99fde600d30b982c69388612f19fbfd28d2f8b072fe564",
+    "role": "author-result"
+  },
+  {
+    "file": "reference/figures/Figure_S3.pdf",
+    "origin": "PROJECT/04_补充材料/补充图片/Figure_S3.pdf",
+    "source_sha256": "18881315a0293a6c55a88c0f2d081951aefafd5593ec79fa28419f01ac30c518",
+    "role": "author-result"
+  },
+  {
+    "file": "reference/figures/Figure_S1.pdf",
+    "origin": "PROJECT/04_补充材料/补充图片/Figure_S1.pdf",
+    "source_sha256": "32c375b40a6ead8460095828376410e6d784ed482a2c60b46b6c6c7b321738ec",
+    "role": "author-result"
+  },
+  {
+    "file": "reference/figures/Figure_S4.pdf",
+    "origin": "PROJECT/04_补充材料/补充图片/Figure_S4.pdf",
+    "source_sha256": "d98796f63b4ac90804ccd1b2d866c9ff13b34d52a4b2d239119785228d63f92e",
+    "role": "author-result"
+  },
+  {
+    "file": "data/figure_sources/Figure_2_original_assignments.csv",
+    "origin": "STAGING/local_sources/Figure_2_original_assignments.csv",
+    "source_sha256": "5c61967a2995b31920024b7eeb3f6097cddd696e8543e7a101b58927e45cae6d",
+    "role": "author-result"
+  },
+  {
+    "file": "data/figure_sources/Figure_2_budget_sensitivity.csv",
+    "origin": "STAGING/local_sources/Figure_2_budget_sensitivity.csv",
+    "source_sha256": "7c882963279b54e118082524a0e4b6ac651577f94b7ced8681455cce4506d948",
+    "role": "author-result"
+  },
+  {
+    "file": "data/figure_sources/Figure_2_country_exact_composition.csv",
+    "origin": "STAGING/local_sources/Figure_2_country_exact_composition.csv",
+    "source_sha256": "2262251d25160480e86664ed815058f889dc7d670d4a9fad8d6fe11b932ffbe0",
+    "role": "author-result"
+  },
+  {
+    "file": "data/figure_sources/temporal_validation.csv",
+    "origin": "STAGING/local_sources/temporal_validation.csv",
+    "source_sha256": "b9f9d7e245004a78175f1827803fa34c3b26e58cc2fae2dd60f9a25128d991d5",
+    "role": "author-result"
+  },
+  {
+    "file": "data/figure_sources/stronger_constraint_widths.csv",
+    "origin": "STAGING/local_sources/stronger_constraint_widths.csv",
+    "source_sha256": "1b8c6288ae95a50e3e41aadbe6ae31fc3d1713ddf1901f62bb97da79ed67a7a9",
+    "role": "author-result"
+  },
+  {
+    "file": "data/exact_cases/exhaustive_endpoints.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/information_value_v2/exhaustive_endpoints.csv",
+    "source_sha256": "b30cb9198b0d3f29fe99b767afa8b0732c8d12b41a2d1ecb5aa0ca2d1b71dc0a",
+    "role": "author-result"
+  },
+  {
+    "file": "data/exact_cases/design.json",
+    "origin": "PROJECT/upgrade_20261112/derived/information_value_v2/design.json",
+    "source_sha256": "46fa33283a8dfc31639c670de2dcd18a03305173c6f85cd2d86272f69fb34107",
+    "role": "author-result"
+  },
+  {
+    "file": "data/exact_cases/GNB.npz",
+    "origin": "PROJECT/upgrade_20261112/derived/exact_cases/GNB.npz",
+    "source_sha256": "d074bf4ab675be7fe6de6dd8a26b573ceb16613bcf85a6ed97059df908126af1",
+    "role": "author-result"
+  },
+  {
+    "file": "data/exact_cases/BLZ.npz",
+    "origin": "PROJECT/upgrade_20261112/derived/exact_cases/BLZ.npz",
+    "source_sha256": "5735d8182b12e381095b72c632a539090dc01acbbece770c296357da50f701d6",
+    "role": "author-result"
+  },
+  {
+    "file": "data/exact_cases/DJI.npz",
+    "origin": "PROJECT/upgrade_20261112/derived/exact_cases/DJI.npz",
+    "source_sha256": "613d2684b4afc596b5e722479a5134f0a9d96a3083f0f2f1789b2d72122b57d8",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/global/input_script_hashes.csv",
+    "origin": "PROJECT/revision_20261113/global/input_script_hashes.csv",
+    "source_sha256": "99ba3edf07fafb369cc494d804da278233b2942e89b50c3b5b5049db985ff9d3",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/global/country_budget_provenance.csv",
+    "origin": "PROJECT/revision_20261113/global/country_budget_provenance.csv",
+    "source_sha256": "530fa8b314d40c6b60635ac50004df3b12b5402599c2dcd92e07e1bbdc1930db",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/global/global_sensitivity_summary.csv",
+    "origin": "PROJECT/revision_20261113/global/global_sensitivity_summary.csv",
+    "source_sha256": "4bbd29ecc1e525ec9c4ed7f755f34f93d2a7b91f7ae3423f16ac9b5977fb2f33",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/global/all_country_quota_checks.csv",
+    "origin": "PROJECT/revision_20261113/global/all_country_quota_checks.csv",
+    "source_sha256": "e2621421f84cefba5aad780d16247d66eb38529139883bc7fbc1af217a3ed287",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/global/all_country_coverages.csv",
+    "origin": "PROJECT/revision_20261113/global/all_country_coverages.csv",
+    "source_sha256": "2f7dad748f624e70c2b0bf93c52bf768b1bc907c0d02d6457947b31552a41208",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/global/scenario_budget_final.csv",
+    "origin": "PROJECT/work/scenario_budget_final.csv",
+    "source_sha256": "4f606ae0d67c59236da436664049740ed7633d2522da9f2ec52a9ba47aaa7961",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/global/scenario_budget_final.json",
+    "origin": "PROJECT/work/scenario_budget_final.json",
+    "source_sha256": "52507d95b814154ad5a6447df78b4c1cf52587d44a58cb3984140595a2dd9cd3",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/global/scenario_budget.csv",
+    "origin": "PROJECT/work/scenario_budget.csv",
+    "source_sha256": "b2778db75cdd55739cf4ce3d9ac35b28446767c3fd3849af46ed671a9bc2dfeb",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/global/country_budget_reference.csv",
+    "origin": "PROJECT/work/country_budget_reference.csv",
+    "source_sha256": "3a9cdd79353ac397e5a68ad7ea5ecda3651045df62e39082e39ee4e07a756c29",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/global/selection_cluster_budget.csv",
+    "origin": "PROJECT/work/selection_cluster_budget.csv",
+    "source_sha256": "115edde3f2e4668a279916eaa3f315bd865cca6fe390246e0ca57eb9b2ec99f6",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/global/selection_rand_budget.csv",
+    "origin": "PROJECT/work/selection_rand_budget.csv",
+    "source_sha256": "115edde3f2e4668a279916eaa3f315bd865cca6fe390246e0ca57eb9b2ec99f6",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/clinical/state_population_denominators.csv",
+    "origin": "PROJECT/revision_20261113/clinical/results_reconciled_20261113/state_population_denominators.csv",
+    "source_sha256": "1e534ff522a684d305f7d80afdc58be23dd67e7870df96a164089a70ac9b1c00",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/clinical/boundary120_recomputed.csv",
+    "origin": "PROJECT/revision_20261113/clinical/results_reconciled_20261113/boundary120_recomputed.csv",
+    "source_sha256": "edbc30515b291e4a0c3b2d6d322278bb27ba4f89f9bb8fdd52e40f5cb7693f71",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/clinical/m1_state_coverage.csv",
+    "origin": "PROJECT/revision_20261113/clinical/results_reconciled_20261113/m1_state_coverage.csv",
+    "source_sha256": "dc8b4ffec27be907804fcd4b288022d1f8d76de224089f909a3c2493855b5fa0",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/clinical/m1_scenarios.csv",
+    "origin": "PROJECT/revision_20261113/clinical/results_reconciled_20261113/m1_scenarios.csv",
+    "source_sha256": "3deacc56230cf2fc1a19709bd23ec9bcc1dc4dc54a5f2915d57021762cb421ca",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/clinical/selection_quota_audit.json",
+    "origin": "PROJECT/revision_20261113/clinical/results_reconciled_20261113/selection_quota_audit.json",
+    "source_sha256": "ff4c6f2900f032c6be549ce8aae8bf3005d83c3451630db21b5691b3baf5414b",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/clinical/full_original_all9_bounds.csv",
+    "origin": "PROJECT/revision_20261113/clinical/results_reconciled_20261113/full_original_all9_bounds.csv",
+    "source_sha256": "46437bc6677ccc41dd1f254ec152de8395fd06e86107eb3f622ac09b560b4e0f",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/clinical/m2_scenarios.csv",
+    "origin": "PROJECT/revision_20261113/clinical/results_reconciled_20261113/m2_scenarios.csv",
+    "source_sha256": "193941e88a83e06330597665030c5d48e2a515389288c9bef47c82bec8913d13",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/clinical/run_manifest.json",
+    "origin": "PROJECT/revision_20261113/clinical/results_reconciled_20261113/run_manifest.json",
+    "source_sha256": "a0d3f9f65ed6d00b90b2fa452211b153a9d27652edc363b1e2c29b15f2221180",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/clinical/m2_state_coverage.csv",
+    "origin": "PROJECT/revision_20261113/clinical/results_reconciled_20261113/m2_state_coverage.csv",
+    "source_sha256": "e245f62be9ef0cc4125654dea095b1755342968b26a2da3fd16efe3075286df0",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/clinical/selection_group_quota_audit.csv",
+    "origin": "PROJECT/revision_20261113/clinical/results_reconciled_20261113/selection_group_quota_audit.csv",
+    "source_sha256": "647a4bd6dc8ac5b07b22404e4eb16250919b63c09e06a7d579618472379ce6f7",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/clinical/observed_reference_comparison.json",
+    "origin": "PROJECT/revision_20261113/clinical/results_reconciled_20261113/observed_reference_comparison.json",
+    "source_sha256": "6f885b617faf9df44f795048c1f896bc0903cbba82065cf4a168e7d7ae817952",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/clinical/m1_scenario_metrics.csv",
+    "origin": "PROJECT/revision_20261113/clinical/results_reconciled_20261113/m1_scenario_metrics.csv",
+    "source_sha256": "fc0cfd72a8030d4eac5b91c9d66c82fbef6718653c1f3f0105adb1b56aa9db0a",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/clinical/eligibility_status.csv",
+    "origin": "PROJECT/revision_20261113/clinical/results_reconciled_20261113/eligibility_status.csv",
+    "source_sha256": "f2956bcde6b6571d9fdb4b3d41399ee263b08021238ccbeb672f04b03b68c470",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/clinical/boundary120_audit.json",
+    "origin": "PROJECT/revision_20261113/clinical/results_reconciled_20261113/boundary120_audit.json",
+    "source_sha256": "8133dbf6fd50e5e7f2ddb3a8a43bed7c27933a0efe13f3b49bf47951d6a28852",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/clinical/m2_combined_screen_bounds.csv",
+    "origin": "PROJECT/revision_20261113/clinical/results_reconciled_20261113/m2_combined_screen_bounds.csv",
+    "source_sha256": "09a5041eff3127be307e13a5413fbab3090a366176e1fba123d350786686c21c",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/clinical/selection_quota_audit.csv",
+    "origin": "PROJECT/revision_20261113/clinical/results_reconciled_20261113/selection_quota_audit.csv",
+    "source_sha256": "4f669555c48f9bbbe789bed779cd367b372de56f6ea099a7063a850960bf7ab7",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/clinical/boundary120_recomputed_states.csv",
+    "origin": "PROJECT/revision_20261113/clinical/results_reconciled_20261113/boundary120_recomputed_states.csv",
+    "source_sha256": "4a67b9087980a3ad795c86cd99cfe3267bc972f559c203d54be6b70dd6205f2f",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/clinical/population_denominator_audit.json",
+    "origin": "PROJECT/revision_20261113/clinical/results_reconciled_20261113/population_denominator_audit.json",
+    "source_sha256": "29f3a7b69cbcaa6dfda1f39a00a3d905fb2e5d5f0e770bff5eab5f80b59d3de8",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/clinical/m2_bounds.csv",
+    "origin": "PROJECT/revision_20261113/clinical/results_reconciled_20261113/m2_bounds.csv",
+    "source_sha256": "c03fc854b19184b2d317c16914ef4535735c2aea0c27fed8115e0bb9dc070236",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/clinical/m1_state_rank_change.csv",
+    "origin": "PROJECT/revision_20261113/clinical/results_reconciled_20261113/m1_state_rank_change.csv",
+    "source_sha256": "65a502cc9fabab5662e839e39b0500dad9073c63072b30d2e2c7e6f977c5cf71",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/primary/denominator_spatial_block_bootstrap.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/attempt3/analysis/denominator_spatial_block_bootstrap.csv",
+    "source_sha256": "afaaaf4e9554f852ce363b75a3e07d7fd60fbb7eeaba2a6bc61fe6ac49c02f16",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/primary/denominator_spatial_absolute_performance.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/attempt3/analysis/denominator_spatial_absolute_performance.csv",
+    "source_sha256": "f85195d957e25af9c4a30d7181280feda0a3313ac3f85686e3425f55008a2cc5",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/primary/inclusion_characteristics.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/attempt3/analysis/inclusion_characteristics.csv",
+    "source_sha256": "2916aa7d49d88be1143dd5530b9c1fc2b41fc2647be301a920db16cbd4435c1a",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/primary/temporal_denominator_absolute_performance.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/attempt3/analysis/temporal_denominator_absolute_performance.csv",
+    "source_sha256": "7cb68119eede1bb494f3d48183482ef8c3539a7a3ac2294d044b4186a483b626",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/primary/binary_spatial_increment_summary.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/attempt3/analysis/binary_spatial_increment_summary.csv",
+    "source_sha256": "3b83454a4e0896bbb5ed0a732dfc09e4789ca52a68b12e55ce145bbe7679fb83",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/primary/temporal_denominator_block_bootstrap.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/attempt3/analysis/temporal_denominator_block_bootstrap.csv",
+    "source_sha256": "5b936f7334f80bad4d0fa1ea166d3d985bec8df7c830331b917f5c5635f25e05",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/primary/observed_denominator_rates.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/attempt3/analysis/observed_denominator_rates.csv",
+    "source_sha256": "3dc2fa50ae6c1cf04fe7b491a661b6bcd6fe31c733b524ec96aebbe183981544",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/primary/binary_spatial_absolute_performance.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/attempt3/analysis/binary_spatial_absolute_performance.csv",
+    "source_sha256": "e6b695635fd88c6cf20d71a05f6a16e5e2abd31231bbb952641055b521794c27",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/primary/feature_source_paths.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/attempt3/analysis/feature_source_paths.csv",
+    "source_sha256": "fc1f7a9950ee9cc63e2ddc6213069f1d93462ef2b9d95b93a1cc6034843cb9e3",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/primary/binary_spatial_fold_manifest.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/attempt3/analysis/binary_spatial_fold_manifest.csv",
+    "source_sha256": "84214c94ec4eb9379c43614137a6f6e9e1c1443f493a797f5d88e2f3df9b9b21",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/primary/inclusion_counts.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/attempt3/analysis/inclusion_counts.csv",
+    "source_sha256": "96e8277ae1e106e38d4daf406649365c7ddfd457b6991c17d40b9f1e5edf6168",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/primary/denominator_spatial_scores_by_repartition.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/attempt3/analysis/denominator_spatial_scores_by_repartition.csv",
+    "source_sha256": "b700cef49a753d877ccfb09c8eb9498a0eb048781e93647d48a68c21505dffdc",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/primary/binary_spatial_scores_by_repartition.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/attempt3/analysis/binary_spatial_scores_by_repartition.csv",
+    "source_sha256": "73114ad1f0687a915c3e2a02388c0599ebf546534f122c23a7ae82b8efbb2b3b",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/primary/historical_union_survivorship_by_active_years.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/attempt3/analysis/historical_union_survivorship_by_active_years.csv",
+    "source_sha256": "2db2af2b8eb9b131d2e0334685a1fdbb3308ac4eb35210d6cab3a31b7346882d",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/primary/denominator_glm_fold_diagnostics.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/attempt3/analysis/denominator_glm_fold_diagnostics.csv",
+    "source_sha256": "5174b6e2fba25af53c8ae774ccb07bfdf297a73bec5dc651cddc02f94e1ead4e",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/primary/annual_hospital_CNES2025_linkage.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/attempt3/analysis/annual_hospital_CNES2025_linkage.csv",
+    "source_sha256": "54a7550098b3fd3c0df881c96972d656b27094bcf7fd8c1f72d9e193fb75b4bd",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/primary/denominator_spatial_increment_summary.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/attempt3/analysis/denominator_spatial_increment_summary.csv",
+    "source_sha256": "cb693d11a92417f3420ec41f86dd2a1089a6f38f26f8310957a19e14d6e1599b",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/flexible_n1_fixed/flexible_threshold1_scores_by_repartition.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/root_completion/flexible_n1_fixed/flexible_threshold1_scores_by_repartition.csv",
+    "source_sha256": "c2ed59d41607000acad2ec9107129dcdf36c4e4bf4d8679a2a604db2c61668d9",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/flexible_n1_fixed/denominator_spatial_increment_summary_merged.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/root_completion/flexible_n1_fixed/denominator_spatial_increment_summary_merged.csv",
+    "source_sha256": "edf363ad317f625b87eb6242138a379488dd6cb3f481a5a35c30d64b6c6d0e7b",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/flexible_n1_fixed/flexible_threshold1_fold_diagnostics.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/root_completion/flexible_n1_fixed/flexible_threshold1_fold_diagnostics.csv",
+    "source_sha256": "55bc67344dfd0026f0c876dd6e8497bf2a1b87a6703a16fe058ad747dfae5593",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/flexible_n1_fixed/denominator_spatial_scores_by_repartition_merged.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/root_completion/flexible_n1_fixed/denominator_spatial_scores_by_repartition_merged.csv",
+    "source_sha256": "4ac7d9a8e9eaf4024a76be353db88d77dcc0c432380a850f8228fd8cf6b71f14",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/flexible_n1_fixed/result_manifest.json",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/root_completion/flexible_n1_fixed/result_manifest.json",
+    "source_sha256": "abfad469ed5867a7ca8bfe46019936735d17bf88f25008e3fc30255bde2f74ae",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/flexible_n1_fixed/denominator_spatial_absolute_performance_merged.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/root_completion/flexible_n1_fixed/denominator_spatial_absolute_performance_merged.csv",
+    "source_sha256": "1305dddadf827a0a13bc7acbb667da342301c5a0696c1673e7ceceaa35919b35",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/flexible_n1_fixed/denominator_glm_fold_diagnostics_merged.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/root_completion/flexible_n1_fixed/denominator_glm_fold_diagnostics_merged.csv",
+    "source_sha256": "f6f585c7f800382a0a0fa543a6d5f1a088c5deacc5b18360170428cb363aedbf",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/flexible_n1_fixed/denominator_spatial_block_bootstrap_merged.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/root_completion/flexible_n1_fixed/denominator_spatial_block_bootstrap_merged.csv",
+    "source_sha256": "ff840a15471d2246f74555ea3d1133ccf56389bdf87b1347d1121b7d888118a5",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/temporal_processing/analysis_design.json",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/root_completion/temporal_processing/analysis_design.json",
+    "source_sha256": "76446b77759f95e910233076caf5d7c42f93e1ff848472927b197cfd91897732",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/temporal_processing/denominator_temporal_absolute_performance.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/root_completion/temporal_processing/denominator_temporal_absolute_performance.csv",
+    "source_sha256": "7cb68119eede1bb494f3d48183482ef8c3539a7a3ac2294d044b4186a483b626",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/temporal_processing/binary_temporal_absolute_performance.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/root_completion/temporal_processing/binary_temporal_absolute_performance.csv",
+    "source_sha256": "34aaa13b28a37b4038819328bbdbb0376f3b74b22c1d51f6c346d30beab3e1a5",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/temporal_processing/denominator_temporal_block_bootstrap.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/root_completion/temporal_processing/denominator_temporal_block_bootstrap.csv",
+    "source_sha256": "5b936f7334f80bad4d0fa1ea166d3d985bec8df7c830331b917f5c5635f25e05",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/temporal_processing/binary_temporal_block_bootstrap.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/root_completion/temporal_processing/binary_temporal_block_bootstrap.csv",
+    "source_sha256": "e86c6d30f8be142a43117944c08d71fc41ee00753088a09bb68e1de434a984da",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/temporal_same_admission/analysis_design.json",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/root_completion/temporal_same_admission/analysis_design.json",
+    "source_sha256": "872708a1acbf52fd0ac6b54d0bafb702d6b13c2741ac53e5c7c8122e0aa7312d",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/temporal_same_admission/denominator_temporal_absolute_performance.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/root_completion/temporal_same_admission/denominator_temporal_absolute_performance.csv",
+    "source_sha256": "10c383f48a90fc86363eeb464ee81bd4f7a70ea2ac3a29e3799d90e0f8c9ffee",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/temporal_same_admission/binary_temporal_absolute_performance.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/root_completion/temporal_same_admission/binary_temporal_absolute_performance.csv",
+    "source_sha256": "313316aea568c41281fae023373ea8623c17afec10901c2675d84640a52d7cbc",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/temporal_same_admission/denominator_temporal_block_bootstrap.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/root_completion/temporal_same_admission/denominator_temporal_block_bootstrap.csv",
+    "source_sha256": "baffad4bfbd3df51e3c496bced846f44780ba578fbd15ad79a083daef6c46a39",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/prediction/temporal_same_admission/binary_temporal_block_bootstrap.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/root_completion/temporal_same_admission/binary_temporal_block_bootstrap.csv",
+    "source_sha256": "d7613fc66b4174b4409198b84caed9352044cd860eaacfbcf1c2c8d5c43ff2ae",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/record_time/date_lag_summary.csv",
+    "origin": "PROJECT/input/raw_time/date_lag_summary.csv",
+    "source_sha256": "6381750f1315e53e6ca9eade818b29bd6e06e1f7588fa2c044d550966d5dc06e",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/record_time/input_manifest.csv",
+    "origin": "PROJECT/input/raw_time/input_manifest.csv",
+    "source_sha256": "854524d4d38abf4f0ba5cedee2addd425535689dce647f1dc7ee9470fc7a05e4",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/record_time/cross_year_identifier_overlap_counts.csv",
+    "origin": "PROJECT/input/raw_time/cross_year_identifier_overlap_counts.csv",
+    "source_sha256": "15d2e81ae058dcbbb7077c9e51cc9c311fbee4c9564a4586ab994870fa8b1ac6",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/record_time/audit_summary.json",
+    "origin": "PROJECT/input/raw_time/audit_summary.json",
+    "source_sha256": "4c9dbe085ea35a13ec632f17807e7d304901bca9f51e40b34ebd0c2fddc1c105",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/record_time/within_year_duplicate_summary.csv",
+    "origin": "PROJECT/input/raw_time/within_year_duplicate_summary.csv",
+    "source_sha256": "15a4ed3751f6a916150fa87cc97b7e90c1423e520d767eee96875c56fb3de97f",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/record_time/input_completeness.csv",
+    "origin": "PROJECT/input/raw_time/input_completeness.csv",
+    "source_sha256": "3aff555914d75812a4ae148927dd26bd23bebd1a42d18b0eda72ccc576a72c84",
+    "role": "author-result"
+  },
+  {
+    "file": "data/results/record_time/aggregate_reconciliation.json",
+    "origin": "PROJECT/input/raw_time/aggregate_reconciliation.json",
+    "source_sha256": "fb8abd932300efd31bc1216bdd1613900550180556f3a86d99a94a2860b4429d",
+    "role": "author-result"
+  },
+  {
+    "file": "metadata/country_report_source_inventory.csv",
+    "origin": "PROJECT/04_补充材料/country_report_source_inventory.csv",
+    "source_sha256": "85507131a56e4e1dce498a83b59dc65b5b71f1e0695cf8861241736779bb6f8f",
+    "role": "third-party source citations and author source audit"
+  },
+  {
+    "file": "metadata/original_data_inventory.csv",
+    "origin": "PROJECT/00_admin/data_inventory.csv",
+    "source_sha256": "18d18da8cad0f96ef3128628a7662f6677c20655cd0b1a8077a05265e4aaacd1",
+    "role": "third-party source metadata, not data relicensing"
+  },
+  {
+    "file": "metadata/grid_metadata.json",
+    "origin": "PROJECT/work/grid/meta.json",
+    "source_sha256": "607ebf2361c0d65b43a098c7b9bbdcdb9b5a5d3a268d10e36664264994f7a8b0",
+    "role": "author-result"
+  },
+  {
+    "file": "metadata/budget_scenario_parameters.csv",
+    "origin": "PROJECT/outputs/hospital_capability.csv",
+    "source_sha256": "ab5907e88b5772782639d014fcf8ec2095ef41d088a15d3f6f21e4eeefdbef34",
+    "role": "author scenario assumptions, not clinical calibration"
+  },
+  {
+    "file": "code/analysis/src/01_build_grid.py",
+    "origin": "PROJECT/src/01_build_grid.py",
+    "source_sha256": "cad66e92baa23a7d55597bb135d9f27124cd646f652203070ae7dd497c899eb0",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "2fd4e0525770138c832488c08715625221855066191653a1d5b5ed225df917a0"
+  },
+  {
+    "file": "code/analysis/src/02_build_sources.py",
+    "origin": "PROJECT/src/02_build_sources.py",
+    "source_sha256": "11e885504e53ef7ca11b08ce70c5ba436d0a5ba5fbfde99585a48443aa947187",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "911eef0dce391e7c0386136146c6463451d414525cc14ef16d1ec51963e20770"
+  },
+  {
+    "file": "code/analysis/src/03_osm_hospitals.py",
+    "origin": "PROJECT/src/03_osm_hospitals.py",
+    "source_sha256": "6009b1d7d0e826879eecdd0453b80f3f0c11c4c8685266a38983c4586d52fb73",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "4882d7464f462138784dbee7e5ee2bbb4f3509a759c61bcdda01ad8e48040903"
+  },
+  {
+    "file": "code/analysis/src/04_validate.py",
+    "origin": "PROJECT/src/04_validate.py",
+    "source_sha256": "bd0fefea48b734dc0de8bfb296385547fd5b102e86dbaac7cec1ed17d7e9cc62",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "71b8384ccd3f5a6db4b03887ad80ee6783e95fb5287e740b671189bc5f4606d8"
+  },
+  {
+    "file": "code/analysis/src/05_aggregate.py",
+    "origin": "PROJECT/src/05_aggregate.py",
+    "source_sha256": "0e21e7298cc3c7d0a48cab91aed2b1c6bfdbf72d4db10fdf9a2699142be76262",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "7d4b8bb78d0c34f45181b68b69a62a18d65716eb0320c19e64956dfb9cba901a"
+  },
+  {
+    "file": "code/analysis/src/06_capability.py",
+    "origin": "PROJECT/src/06_capability.py",
+    "source_sha256": "2226a3f21acf22ab740df61b3ef0a60d61a5528db49d1ae45fbde135844acbd1",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "6151f6909da15f48b448d8bbc6aedd106fcd74c7ead70981ec19c345bc313203"
+  },
+  {
+    "file": "code/analysis/src/09_v12_fixes.py",
+    "origin": "PROJECT/src/09_v12_fixes.py",
+    "source_sha256": "cd784b380622daec7acf25aef76a3e16134ce7e5f66cf645007bff8c2f7e26ba",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "9bda656490b4924953fa10d707d3bd8214b847746724efd55e11b6c047aad7d4"
+  },
+  {
+    "file": "code/analysis/src/10_aggregate_v12.py",
+    "origin": "PROJECT/src/10_aggregate_v12.py",
+    "source_sha256": "f6642be9ec6f5ac19b8098849b99dae2b5cf8f5326fba44828a25132ada02bc3",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "329b34a3bf91a9f0da9e5057bb618446dced402cf152368be4ff86e4a8d8fb2e"
+  },
+  {
+    "file": "code/analysis/src/11_sara_pc.py",
+    "origin": "PROJECT/src/11_sara_pc.py",
+    "source_sha256": "524b933257b69999213c309b35419838dcde58323df20a87372d7c9f3b3c89f5",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "e53ec834660df57a27ba6169444f51797bc33623c1839195f2de53b9d40cc557"
+  },
+  {
+    "file": "code/analysis/src/12_aggregate_meas.py",
+    "origin": "PROJECT/src/12_aggregate_meas.py",
+    "source_sha256": "67a999d3bd22b3c51dbd6faf33cca08ab0ceb820c45d887da7bbfdb3373648bf",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "9a4d72a993851f09069a51105ac31a507c0caecf7de4bad19d0a234645e287b7"
+  },
+  {
+    "file": "code/analysis/src/13_osm_precision.py",
+    "origin": "PROJECT/src/13_osm_precision.py",
+    "source_sha256": "4e83edc89d3c81f85962f9ffe6dc1771c4984bf456e019ca697ee449640cc88d",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "04ac94ed66e05101ca90dac41ce7ace324733d94de3a55da9e6ae4e23e54fdb2"
+  },
+  {
+    "file": "code/analysis/src/14_osm_correction.py",
+    "origin": "PROJECT/src/14_osm_correction.py",
+    "source_sha256": "70b5c40c84c1da2673c93462b573c8165b300c3d32f6d3d1c7ca412c3fb7ea53",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "104cd8ddb62cd77a1e572ca8b2278042a294e2b1eb2f49b5092b0a179d2b7ad4"
+  },
+  {
+    "file": "code/analysis/src/15_aggregate_corr.py",
+    "origin": "PROJECT/src/15_aggregate_corr.py",
+    "source_sha256": "7b2aa1983c96f0a5c65e4e43412bdc9a49671e869bcc53db05c8aeacd6c2cdb8",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "6fdfe806f86282eebb6bf55d066b372ae8a601497372ff6dbe9d2d9fc3891563"
+  },
+  {
+    "file": "code/analysis/src/16_v15_30min.py",
+    "origin": "PROJECT/src/16_v15_30min.py",
+    "source_sha256": "dfd805cda832f450238d11e2d209ed22a2c6d2983d93ebbd66da57a1a1e6c418",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "8e0831fe00c5527d22da2df44979fd618d57e75a0b2aa0b3b6311263350494f7"
+  },
+  {
+    "file": "code/analysis/src/18_brazil_validation.py",
+    "origin": "PROJECT/src/18_brazil_validation.py",
+    "source_sha256": "fb4074e6d5441f820c4c58d9c9d98f839098f992f4c912b016997025a4a09db0",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "859712cd05cd6a9a51fa72c4f447ed65bddb7a0ca7d8acc5800d59fe065b1115"
+  },
+  {
+    "file": "code/analysis/src/20_aggregate_spatial.py",
+    "origin": "PROJECT/src/20_aggregate_spatial.py",
+    "source_sha256": "9610229239b85f2bf4c7e780636a41601c47a4ef7499ae6f443f2681966dd527",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "a8ba92196209acfa86fc62ee1fba38dc023b74fd2b55076c3cb6733052606822"
+  },
+  {
+    "file": "code/analysis/src/21_tail_validation.py",
+    "origin": "PROJECT/src/21_tail_validation.py",
+    "source_sha256": "b764e6c9104fe1197d3b8cb18953daaf2db392a9bc8365eedd55c8d63f275e4c",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "449c306dbcdb163544761113b6c3ffb6c140a00f1dfacb0bc680fd300e688df5"
+  },
+  {
+    "file": "code/analysis/src/22_france_prep.py",
+    "origin": "PROJECT/src/22_france_prep.py",
+    "source_sha256": "64ada8629f1d7bedfa2a84878fd82b1a75e58bae3a1aa75ead6cacc508d42206",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "529f5308798e49aad863cc100d83a993784f83d12280700e11f69edcd068fe1b"
+  },
+  {
+    "file": "code/analysis/src/23_flow_validation.py",
+    "origin": "PROJECT/src/23_flow_validation.py",
+    "source_sha256": "9cd5bb5cdb440e93fe85b9c0439aa7b519f5632491cd0525bf5eb0f8532cdc72",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "e8a0afa43264e10af7b8aee0153692aff9c4d4157280c7d67916fc042cc3b420"
+  },
+  {
+    "file": "code/analysis/src/24_lagged_mask.py",
+    "origin": "PROJECT/src/24_lagged_mask.py",
+    "source_sha256": "cb51f05bd6cc6d2b07025f94987d54be29e47bdd7de395842c4185d578e8b7e3",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "018af30129877254a37dfdb740411aa5efcd118e1e526e2ee1b04519c59bf295"
+  },
+  {
+    "file": "code/analysis/src/25_workforce_and_ranking.py",
+    "origin": "PROJECT/src/25_workforce_and_ranking.py",
+    "source_sha256": "8963794b38b3848493404d48e39296704f92c99e64d36ddebada03db9bd791ad",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "56fed2703812d32c7f9656c7fe9c0d6cb43570138c7356f28c1d21f87c5ab669"
+  },
+  {
+    "file": "code/analysis/src/26_lagged_masks.py",
+    "origin": "PROJECT/src/26_lagged_masks.py",
+    "source_sha256": "9e46c25b0544b602de97dda2b1138699b3f49a69f987aec522714d34ababdead",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "ceff76f44c7a7d63e709d09f581f437b818b4dbf28ed4e0b1530b9609804df4c"
+  },
+  {
+    "file": "code/analysis/src/27_flow_holdout.py",
+    "origin": "PROJECT/src/27_flow_holdout.py",
+    "source_sha256": "1db5a499c711abaad9d9972e84b4bcfeb024fb7661919d8eb800ef0c0f5cfa52",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "f3581d83a593f92a649ec665b2e166271c1e6dcb30b45ed10045cacb9a5f6701"
+  },
+  {
+    "file": "code/analysis/src/28_urban_share_curve.py",
+    "origin": "PROJECT/src/28_urban_share_curve.py",
+    "source_sha256": "7f2302a9b8ba8d0e862760c8c4233d9c0cee4438d7b878c1a7728877c2f34a03",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "f4557635068fdf0b9bac8f4afaf26d879e163a35ac6d8da2009e3e29c2ef03fd"
+  },
+  {
+    "file": "code/analysis/src/29_framework_analytic.py",
+    "origin": "PROJECT/src/29_framework_analytic.py",
+    "source_sha256": "1252a6944086359156f7cae8e3c975fe6a9aa81e937ef95df98c20081222d5fc",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "fc7f919670156e31412c01f783c0dd4bd2e209cbe84a73b4fabace1cda13fb5a"
+  },
+  {
+    "file": "code/analysis/src/30_conditional_set.py",
+    "origin": "PROJECT/src/30_conditional_set.py",
+    "source_sha256": "3a1fbd7150a5cee6ac4add0267c5bd5f4c872b468c6a11fef8fcf2ea51faa0f0",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "a78b8a5b2dfa676d1141651de8b2b94fec8f94c027c681583c85c252ff51527e"
+  },
+  {
+    "file": "code/analysis/src/32_greedy_bounds_brazil.py",
+    "origin": "PROJECT/src/32_greedy_bounds_brazil.py",
+    "source_sha256": "0d5e4336525b3725590a287dfa6e58ca86be286dae19af0af13af66770debac3",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "0ea5d334924526e4c4cd37ba17d8076331ef1260262cf319b67f583f85a2f877"
+  },
+  {
+    "file": "code/analysis/src/33_bounds_agg.py",
+    "origin": "PROJECT/src/33_bounds_agg.py",
+    "source_sha256": "bfab25fb4e03eaa2ad9e657a65ab2faf2696b28344080124671003835f97172f",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "801de531f6cde00b4a29af960e1a106b619cbb26a5a6a9e46fafe2977e93e525"
+  },
+  {
+    "file": "code/analysis/src/41_certified_bounds.py",
+    "origin": "PROJECT/src/41_certified_bounds.py",
+    "source_sha256": "239308bf360346ccbb76a3b98dd71f46a985b4a2442cc0dc29bd417e45177fbd",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "981c67e1dc771f61fdd1254899cadfa28c95333f0f3f5bd39d01736e1ee3366d"
+  },
+  {
+    "file": "code/analysis/src/42_voi.py",
+    "origin": "PROJECT/src/42_voi.py",
+    "source_sha256": "b6f06488bab2973e8d2cf5a14efc303e3b4b47b0af48f17eb26e3f74d402ebd2",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "46c168fbb6f35234ab150933787d6d30b3a2b535c9ca34e3790ab2b181e91ab7"
+  },
+  {
+    "file": "code/analysis/src/43_certify_many.py",
+    "origin": "PROJECT/src/43_certify_many.py",
+    "source_sha256": "0cbca53685a12c041309e3c1c6286a46b3932f6802f3701189ed20a4ff2cc8ba",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "9479a8cf3d1c6a2ad289b49984f0ef2d971e13fd5495893f1de235ddbc8d2456"
+  },
+  {
+    "file": "code/analysis/src/44_frag.py",
+    "origin": "PROJECT/src/44_frag.py",
+    "source_sha256": "320c4df7aef7b8e0c13a89a8206133550e32097dfb2833e09f886fda16084f5d",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "2447125b05627486226e25f12a454265e688c29163e1d56995f38738f77ccb24"
+  },
+  {
+    "file": "code/analysis/src/44b_frag.py",
+    "origin": "PROJECT/src/44b_frag.py",
+    "source_sha256": "22daf326d3aafb95474e189bd3d79609237fdc5f83339048295a8a3bb0e041ee",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "b55b00727717bb51d19ebd5ca6b82feefa250cfb8b03acb09f6a868bfa7ce9a3"
+  },
+  {
+    "file": "code/analysis/src/45_diag.py",
+    "origin": "PROJECT/src/45_diag.py",
+    "source_sha256": "2fc12d3e5494a98c69251fc65ee7f705895b995adc9acdba3b8d48c0e23e04da",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "bbbbbfcf463414ec8aecabbc59c69700f3f05972fa2fe1adb4af0c9979f818f1"
+  },
+  {
+    "file": "code/analysis/src/46_stress.py",
+    "origin": "PROJECT/src/46_stress.py",
+    "source_sha256": "1d030034d079fe695ec568302d4f728186fd65a829e78e2fbd5393a1c42420fc",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "da0dec9e5687f8faa34929a6d19b58616c22328fc198b4df8f2191300b3c6561"
+  },
+  {
+    "file": "code/analysis/src/47_spatial_auc.py",
+    "origin": "PROJECT/src/47_spatial_auc.py",
+    "source_sha256": "d9c1b3b598e33c298f9200181abc6e2f825bad4fa8ac5b190c688a872bab62df",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "40bb4a2d542a8623665506e63aa4737598211658c276cabc9c0d729e900f87e8"
+  },
+  {
+    "file": "code/analysis/src/48_urban_profile.py",
+    "origin": "PROJECT/src/48_urban_profile.py",
+    "source_sha256": "5d4759862b70b916071c016c0aebe1045a190fe84802289571e3059b2103e3e6",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "873d01e0ee41707890d1d9e7092695836be8e91586c9afcd8d3e91b74d98c7a9"
+  },
+  {
+    "file": "code/analysis/src/54_cluster_budget.py",
+    "origin": "PROJECT/src/54_cluster_budget.py",
+    "source_sha256": "59bfaf67b46b5d6f03bf486ccfde03da8a1a8b07b561e075ceb97ba19a531c72",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "d6551bff6a9e640e5285a21c995f9371bac5385c031d59e8d990391ffd3f36e0"
+  },
+  {
+    "file": "code/analysis/src/59_export_selection.py",
+    "origin": "PROJECT/src/59_export_selection.py",
+    "source_sha256": "a63b375729efb82496b53b526faad5d433dd94b4c9b39917d7d49d095535ac34",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "ce15958751716d80df442e215aabf47a862b9de0164f731be8c2873ab1c0f72d"
+  },
+  {
+    "file": "code/analysis/src/ttdijkstra.c",
+    "origin": "PROJECT/src/ttdijkstra.c",
+    "source_sha256": "fdd013d532a3cad92a630e22bfea29f91167ad43924007901dd7aeda3881b752",
+    "role": "MIT author code; path tokens substituted only"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/code/exact_information_value.py",
+    "origin": "PROJECT/upgrade_20261112/code/exact_information_value.py",
+    "source_sha256": "a6ff6313d0ec1f820c4f0d3929d4204f30283f24dc1a61265ff20a5d2ee18c78",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "c440bdc079d0c4905298dc6ab6981b0ae133f9b4e7aa6d29075aabec3a2cd043"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/code/audit_activity_vintages.py",
+    "origin": "PROJECT/upgrade_20261112/code/audit_activity_vintages.py",
+    "source_sha256": "48974977eb052a8cd3cfcac782d6c5462b145da33006f4e29faceabc116db299",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "6566b5071322160f12094b04693e19f56e3aa641f3a68d3ff6a2378eb932c475"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/code/validate_spatial_auc.py",
+    "origin": "PROJECT/upgrade_20261112/code/validate_spatial_auc.py",
+    "source_sha256": "785f3c34d56e82270add5b4284087ed986b74ad51537147323ad265b8454b4a8",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "785f3c34d56e82270add5b4284087ed986b74ad51537147323ad265b8454b4a8"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/code/validation_extensions.py",
+    "origin": "PROJECT/upgrade_20261112/code/validation_extensions.py",
+    "source_sha256": "82d52ab5095b8601cecd4ec800e5b51660f69cceb9a5ba0efd8d4ce28bec014c",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "c50e631da641811bd5158e75231656736feffa8b2c99ac431bc563c678ae18fd"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/code/brazil_multiservice_validation.py",
+    "origin": "PROJECT/upgrade_20261112/code/brazil_multiservice_validation.py",
+    "source_sha256": "9138ecfd1b38723fbce5e9c019787bf6908879bee046343aa7364e290c342694",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "551541b4050ed787790c583956c7426f266ad3d16f2668ade0cfed67fb292282"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/code/brazil_boundary_check.py",
+    "origin": "PROJECT/upgrade_20261112/code/brazil_boundary_check.py",
+    "source_sha256": "03cb04294c3204b2e0adcd9279c486d6400d4b8672af99bdfdf036da93324287",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "c8a6a12efa05133825ac65dd4b2f57c5a195d75c9f1ec3ef0f42cef39731861d"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/code/audit_country_population.py",
+    "origin": "PROJECT/upgrade_20261112/code/audit_country_population.py",
+    "source_sha256": "29b94c9f3989d2a2660d0c27cd2b963bfd576e01c739972ef24ab5e9028f983c",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "75d6ebcc522b547690ec7d0261cf935b080da3b7b2a2e25e70fc7e100bd21b7e"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/code/temporal_multiservice_validation.py",
+    "origin": "PROJECT/upgrade_20261112/code/temporal_multiservice_validation.py",
+    "source_sha256": "f3d286fa8872c2eaa437e18153cbad55f3fb8bfd669f098b3a255bf60832e2d6",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "6d5e19c0b66c8b5530e0f92809bb3f39f5527213c5bdea341864d4005f04ab66"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/code/bra_state_boundary.py",
+    "origin": "PROJECT/upgrade_20261112/code/bra_state_boundary.py",
+    "source_sha256": "8f39275c89d679d716ee242a3d5e5744cb8c8b2a32094a165a6feeb039d57934",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "bc89eec85d42c033205987c594aa1dc0b267e3e30c396f9491fa4944f2d1b76a"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/code/mex_hospital_boundary.py",
+    "origin": "PROJECT/upgrade_20261112/code/mex_hospital_boundary.py",
+    "source_sha256": "d9bc45458c6564f64d49cc1bd381b41b09949ba0b1b803a26a6fd5d94e466d90",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "2365071e79b7fd4021fe4d81f821c31f10b886dd6ecca516db5b01d9cc9caa5e"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/code/test_exact_bounds.py",
+    "origin": "PROJECT/upgrade_20261112/code/test_exact_bounds.py",
+    "source_sha256": "d5ef4eee48c38a2550787daedc0ff8857b4eadfc8f8784a6e6dc67f94cc85975",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "240320d827927c746bbb24f9b5826bcbbd67c997d88facb6681e1d79db1a489e"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/code/global_budget_sensitivity_20261113.py",
+    "origin": "PROJECT/upgrade_20261112/code/global_budget_sensitivity_20261113.py",
+    "source_sha256": "ecfd0bd0571ce69bbdd3fab51c89e35c8f8d436e5b4be72ad5b3f4adb8d72afe",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "1b5d5725d634afe7d04773bee030cee3cfdd3e6e522d82cf797669793559ff9f"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/code/extract_exact_cases.py",
+    "origin": "PROJECT/upgrade_20261112/code/extract_exact_cases.py",
+    "source_sha256": "2c3f1cce1aed96a63b344c88f5fe0bbf0c308c02c33fcccd36e7f35fedae9328",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "e8fb2748012d6fc0edc038df797d5176ebf62b9747242d37dfe8c3aade9a8a50"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/code/brazil_spatial_experiment.py",
+    "origin": "PROJECT/upgrade_20261112/code/brazil_spatial_experiment.py",
+    "source_sha256": "be2f69155874c800573c6249c8beb157ee9f01c611e0849669d51bf73e61a30c",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "6963ae2ee8e686280516de64e68dac6d7130c05e41b8e5bc889f1c2c219959ba"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/code/repair_urban_table.py",
+    "origin": "PROJECT/upgrade_20261112/code/repair_urban_table.py",
+    "source_sha256": "aeee8e7b9d384ad08cbe7bc5e94e76907ccbe28910a5874e3439a391a00e06c5",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "750c1471ef42538282d542308fb27b92429b698d0bd1977bcc30ef2938d3f524"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/code/verify_global_witness.py",
+    "origin": "PROJECT/upgrade_20261112/code/verify_global_witness.py",
+    "source_sha256": "58b8989bd65f26efb12cfd8d02be737d103f81ff14cead86c3440f622a0a3f4e",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "fee5632ef4c9364d43734504cac76546887267c2c24f41a7789fcb9c626e24f6"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/code/bra_state_constraints.py",
+    "origin": "PROJECT/upgrade_20261112/code/bra_state_constraints.py",
+    "source_sha256": "b185290d2e9f02dd49d3d35e6826e51e60c9c88db3da7bbd39b31fe96e11463c",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "aa746997c9b5da5756800a7ed3e4af4ab1146a603eacce811b954c1b4c4af5ec"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/code/test_travel_engine.py",
+    "origin": "PROJECT/upgrade_20261112/code/test_travel_engine.py",
+    "source_sha256": "c9b9f618aaae61300b749b40b3f78c92a9d06f7c0387753d3aeeb99ff5343df2",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "b0634ed8752e98e607504b7f9ed98b294e68340bc84f58985691c6fef6c32d7f"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/code/certify_full_population_v2.py",
+    "origin": "PROJECT/upgrade_20261112/code/certify_full_population_v2.py",
+    "source_sha256": "fb910507edef116e189dd639979624e3f55998a7a91129575f9705841976795d",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "863bada76f6f8ef460a3d581e321e5d23fd2383d249aa4a433279c3a2d3266f0"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/code/audit_correction_mask.py",
+    "origin": "PROJECT/upgrade_20261112/code/audit_correction_mask.py",
+    "source_sha256": "9a392b860e0857ccdb8fac0f6990699bca893a80acdd8f683f98982688314f90",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "a27b59f66c3770126d991a0913eb3eefd021d285024d2f05e961d782b80ad198"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/code/mexico_spatial_experiment.py",
+    "origin": "PROJECT/upgrade_20261112/code/mexico_spatial_experiment.py",
+    "source_sha256": "26f39c723c817467fbb9353c28f4387fa6cf0898f0146a6f03245fc75714c3da",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "3828e1929e1d336d79cb29dfbad54eb54f66f851925641ae3c264513e6ac263a"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/code/audit_nominal_composition_curve.py",
+    "origin": "PROJECT/upgrade_20261112/code/audit_nominal_composition_curve.py",
+    "source_sha256": "3636f07b90a81a87ff5993f0f89fcfbfce5cb55fb34d2c595545179f86221b7e",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "10a6c712b40838f9b1069403d6441723abb38eea46d75fd2b0f1300b21060ada"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/code/mex_state_constraints.py",
+    "origin": "PROJECT/upgrade_20261112/code/mex_state_constraints.py",
+    "source_sha256": "310faec3c99f948be37ebd2b771f515225ff91d3839ded7a43e47e90bc3d34d3",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "323e5da47f754debf67b7dacdca2fd302fdd299b05359dca8de4a875ae90f4d7"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/code/mex_state_boundary.py",
+    "origin": "PROJECT/upgrade_20261112/code/mex_state_boundary.py",
+    "source_sha256": "b888c865e0c53b42f920bc1a019da460a459cea32fcb2aa78d1ffc22e00a577c",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "cf84961cd95c86305c4b502dfa0b1254c38292e4e4e52f9aa5ba14f3f2a00dc2"
+  },
+  {
+    "file": "code/analysis/revision_20261113/clinical/code/ttdijkstra_clinical.c",
+    "origin": "PROJECT/revision_20261113/clinical/code/ttdijkstra_clinical.c",
+    "source_sha256": "479d957e8b49bf8083672babff78c376c9d5c9cdbf6983f006d9fd02d69b4a38",
+    "role": "MIT author code; path tokens substituted only"
+  },
+  {
+    "file": "code/analysis/revision_20261113/clinical/code/audit_clinical_selections.py",
+    "origin": "PROJECT/revision_20261113/clinical/code/audit_clinical_selections.py",
+    "source_sha256": "743997753e3529208b095650b3f2eb209a6bb420b19d437d9c1d601f4d6debec",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "743997753e3529208b095650b3f2eb209a6bb420b19d437d9c1d601f4d6debec"
+  },
+  {
+    "file": "code/analysis/revision_20261113/clinical/code/clinical_reanalysis.py",
+    "origin": "PROJECT/revision_20261113/clinical/code/clinical_reanalysis.py",
+    "source_sha256": "4b4e0fea0836ec828ab2a836120bc2d150508429e044e9ed205d64ba7f8d1015",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "df4c152b2cf24a1a0ce88209430248d24cce4671e1bfd5ca37cb6d80702d8dd5"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/derived/bmc_revision_20261113/prediction/code/reanalyse_prediction.py",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/code/reanalyse_prediction.py",
+    "source_sha256": "9b282d9c054e48c65882179c36e66457e9dd8963d7f161b7b083852ad86e9a06",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "9b282d9c054e48c65882179c36e66457e9dd8963d7f161b7b083852ad86e9a06"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/derived/bmc_revision_20261113/prediction/code/supplement_flexible_threshold1.py",
+    "origin": "author final fixed source (matches flexible_n1_fixed manifest)",
+    "source_sha256": "c0355e741ea020b38920d1f5f2a793769b2ee6d305fbdd55b1386b21b54d04be",
+    "role": "MIT final supplement; original bytes unchanged",
+    "released_sha256": "c0355e741ea020b38920d1f5f2a793769b2ee6d305fbdd55b1386b21b54d04be"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/derived/bmc_revision_20261113/prediction/code/binary_temporal_strong.py",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/code/binary_temporal_strong.py",
+    "source_sha256": "dd1a7d5da977ebff6a44630387330bd5c43587d44591e69cc9942a2bc8645723",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "dd1a7d5da977ebff6a44630387330bd5c43587d44591e69cc9942a2bc8645723"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/derived/bmc_revision_20261113/prediction/code/validate_prediction_fits.py",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/code/validate_prediction_fits.py",
+    "source_sha256": "738be3c2435791dc342df8babacfc0cdd5dd74dc8f948ee7da06ad47268a3ea1",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "6d3f5ae420cace20ab3368aaf0855eb797e67c312fd074a3e6e9b19763c94735"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/derived/bmc_revision_20261113/prediction/code/validate_prediction_bootstrap.py",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/code/validate_prediction_bootstrap.py",
+    "source_sha256": "f584b855c63eff4c28447a09969f2804b762453c7826a5aa023dc08b5797eeee",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "f584b855c63eff4c28447a09969f2804b762453c7826a5aa023dc08b5797eeee"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/derived/bmc_revision_20261113/prediction/code/validate_binary_temporal.py",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/code/validate_binary_temporal.py",
+    "source_sha256": "6596ee2dcb279ecc3a06c39b195ec22218d6161c532ebdb001b7203367c58e67",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "6596ee2dcb279ecc3a06c39b195ec22218d6161c532ebdb001b7203367c58e67"
+  },
+  {
+    "file": "code/analysis/upgrade_20261112/derived/bmc_revision_20261113/prediction/code/audit_raw_cholec_vintages.py",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/code/audit_raw_cholec_vintages.py",
+    "source_sha256": "f8233e0ddbf9ff8771f328237f01c3d557c4cda6b2abf6cff51fbe552c4aa5f1",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "f8233e0ddbf9ff8771f328237f01c3d557c4cda6b2abf6cff51fbe552c4aa5f1"
+  },
+  {
+    "file": "code/analysis/revision_20261113/raw_time/code/audit_raw_time.py",
+    "origin": "STAGING/local_sources/audit_raw_time.py",
+    "source_sha256": "d9d4c49c80bd031d37ae7afa0609f6c3b7cb919ff61fdbbab534ba4e12dc16bd",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "c428071c16e6c76f64b7f74595789470d3103546380dd6a08191904331bad763"
+  },
+  {
+    "file": "code/analysis/revision_20261113/global/global_budget_sensitivity.py",
+    "origin": "STAGING/local_sources/global_budget_sensitivity.py",
+    "source_sha256": "ecfd0bd0571ce69bbdd3fab51c89e35c8f8d436e5b4be72ad5b3f4adb8d72afe",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "1b5d5725d634afe7d04773bee030cee3cfdd3e6e522d82cf797669793559ff9f"
+  },
+  {
+    "file": "code/analysis/native/ttdijkstra_crop.c",
+    "origin": "PROJECT/upgrade_20261112/derived/mexico_spatial_v2/ttdijkstra_crop.c",
+    "source_sha256": "479d957e8b49bf8083672babff78c376c9d5c9cdbf6983f006d9fd02d69b4a38",
+    "role": "MIT author code; path tokens substituted only"
+  },
+  {
+    "file": "code/analysis/plotting/plot_main_submission.py",
+    "origin": "STAGING/local_sources/plot_main_submission.py",
+    "source_sha256": "4d954428c82786785adaaee1bc39bf79dae6192ee2ab9e51004fd373c1c641f2",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "1b974360ff863d66b0716aad73cdb40d93feb7d4b7f2a1625fc7ab485f2fb8fa"
+  },
+  {
+    "file": "code/analysis/plotting/plot_revision_figures.py",
+    "origin": "STAGING/local_sources/plot_revision_figures.py",
+    "source_sha256": "021340382d62895404cc86f5b8dbfd874569920e00e1e5ad373f40b8803d3050",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "021340382d62895404cc86f5b8dbfd874569920e00e1e5ad373f40b8803d3050"
+  },
+  {
+    "file": "code/analysis/plotting/plot_supplement_submission.py",
+    "origin": "STAGING/local_sources/plot_supplement_submission.py",
+    "source_sha256": "55c70f496efee12bb5b68427a51a4bd84ce49cc66cfa3fac8cf21c4e3cc751b0",
+    "role": "MIT author code; path tokens substituted only",
+    "released_sha256": "c287b15afa96153e954566ec9438f6d3ed3c0e2b33d3f46a3443620693b3b8f7"
+  },
+  {
+    "file": "data/model_inputs/brazil_municipality_annual.csv",
+    "origin": "PROJECT/upgrade_20261112/inputs/brazil_municipality_annual.csv",
+    "source_sha256": "0148efb816797a675b00c9a553652ef93042d904946a39ece6f28fc70ddc2291",
+    "role": "author-result"
+  },
+  {
+    "file": "data/model_inputs/same_year_admission_municipality_outcomes.csv",
+    "origin": "PROJECT/upgrade_20261112/derived/bmc_revision_20261113/prediction/same_year_admission_municipality_outcomes.csv",
+    "source_sha256": "351cc7cd3a786e6fb18ebab2241e59eb7f4a1e48c99b645f2259313f68c74c4b",
+    "role": "author-result"
+  },
+  {
+    "file": "code/analysis/plotting/plot_main_readable.py",
+    "origin": "author publication figure code",
+    "source_sha256": "e4bc2827d0713ceeacafb75a10a5646b8f4f7fcc0451172e8f79b5930c6af830",
+    "role": "MIT current quantitative figure rendering"
+  },
+  {
+    "file": "code/analysis/plotting/plot_supplement_readable.py",
+    "origin": "author publication figure code",
+    "source_sha256": "1b249c9e52bb7625feff2d35772398195d0d95668dbf95d6f14f9bfe254fdc5e",
+    "role": "MIT current quantitative figure rendering"
+  }
+]

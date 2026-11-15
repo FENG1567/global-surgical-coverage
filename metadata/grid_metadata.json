@@ -1,0 +1,14 @@
+{
+ "nrows": 17400,
+ "ncols": 43200,
+ "left": -180.0,
+ "top": 85.0,
+ "dx": 0.008333333333333333,
+ "dy": -0.008333333333333333,
+ "friction_nodata": -9999.0,
+ "friction_file": "2020_motorized_friction_surface.geotiff",
+ "pop2020_total": 7840952928.221789,
+ "pop2025_total": 8191988517.19999,
+ "countries": 258,
+ "grid": "friction 0.01deg"
+}

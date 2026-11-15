@@ -1,0 +1,10 @@
+Procedure,Validation,Mean ΔAUC,2.5th percentile,97.5th percentile
+chole,Spatial blocks,0.00174,0.00129,0.00230
+chole,Leave region,0.00200,0.00200,0.00200
+chole,Buffered region,0.00156,0.00156,0.00156
+cesarean,Spatial blocks,-0.00013,-0.00039,-0.00001
+cesarean,Leave region,-0.00015,-0.00015,-0.00015
+cesarean,Buffered region,-0.00053,-0.00053,-0.00053
+appendectomy,Spatial blocks,0.00566,0.00460,0.00702
+appendectomy,Leave region,0.00643,0.00643,0.00643
+appendectomy,Buffered region,0.00915,0.00915,0.00915

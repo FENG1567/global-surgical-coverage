@@ -1,0 +1,388 @@
+{
+  "started_at_utc": "2026-11-13T09:04:05+00:00",
+  "result_dir": "__PROJECT_ROOT__/revision_20261113/clinical/results_reconciled_20261113",
+  "analysis": "Brazil 2025 CNES structure screens for three procedures plus 2024 SUS AIH cholecystectomy label masking",
+  "cnes_source": {
+    "path": "__BRAZIL_SOURCE_ROOT__/01_data/raw/cnes/cnes_estabelecimentos.csv",
+    "source_url": "https://s3.sa-east-1.amazonaws.com/ckan.saude.gov.br/CNES/cnes_estabelecimentos_csv.zip",
+    "snapshot": "CNES 2025 establishment snapshot, from surgical_desert project contract",
+    "size_bytes": 232608258,
+    "sha256_from_source_manifest": "308372de39054d0dc4a26108ff5e96e4abd8a1da6a730e82343a8c84d40d7f73",
+    "raw_rows_scanned": 642268,
+    "candidate_records_matched": 8444,
+    "candidate_ids_matched": 8444
+  },
+  "candidate_points": {
+    "path": "__PROJECT_ROOT__/upgrade_20261112/inputs/brazil_hospital_points.csv",
+    "rows": 8444,
+    "sha256": "d8f4f6a15c976c0f33a60e6a3e145980fa9c98e82d81ff11acdde46a994a2466",
+    "size_bytes": 920529
+  },
+  "activity_aggregate": {
+    "path": "__PROJECT_ROOT__/upgrade_20261112/inputs/brazil_hospital_annual.csv",
+    "sha256": "18900bc9c6c17ae8f2f45cb1c5fdb2a5dc4bf89638938e6ee1ca1f2942300d44",
+    "size_bytes": 789435,
+    "label_definition": "facility has >=1 2024 SUS-funded AIH record in the named procedure group",
+    "not_gold_standard_for": "all-provider capability, private activity, need, or full clinical eligibility"
+  },
+  "spatial_inputs": {
+    "grid_directory": "__PROJECT_ROOT__/work/grid",
+    "population": "pop2025.f32",
+    "country_mask": "country.i16",
+    "motorized_friction": "friction.f32",
+    "settlement_masks": [
+      "urban.u8",
+      "rural.u8"
+    ],
+    "municipality_shapes": "__BRAZIL_SOURCE_ROOT__/river/data/official/ibge_malha/extracted/BR_Municipios_2022.shp",
+    "crop_margin_degrees": 4,
+    "single_thread_c_engine": "__PROJECT_ROOT__/revision_20261113/clinical/code/ttdijkstra_clinical"
+  },
+  "population_denominators": {
+    "country": "BRA",
+    "country_mask_grid_population": 215906931.03836212,
+    "country_scope_reference_population": 215906931.0383622,
+    "country_mask_relative_difference_from_reference": -4.440892098500626e-16,
+    "country_mask_grid_pixels": 10182277,
+    "state_polygon_assigned_population": 215341989.9370165,
+    "state_polygon_assigned_share_of_country_mask_population": 0.9973834045130989,
+    "state_polygon_assigned_grid_pixels": 10167487,
+    "unmatched_country_mask_population": 564941.1013455379,
+    "unmatched_share_of_country_mask_population": 0.0026165954869006025,
+    "unmatched_country_mask_grid_pixels": 14790,
+    "state_population_by_code": [
+      {
+        "state_code": 11,
+        "state": "RO",
+        "polygon_assigned_population": 1789784.5013170666,
+        "share_of_full_country_mask_population": 0.00828961114267823
+      },
+      {
+        "state_code": 12,
+        "state": "AC",
+        "polygon_assigned_population": 956017.8733543613,
+        "share_of_full_country_mask_population": 0.004427916550694229
+      },
+      {
+        "state_code": 13,
+        "state": "AM",
+        "polygon_assigned_population": 4598009.525039582,
+        "share_of_full_country_mask_population": 0.0212962571554621
+      },
+      {
+        "state_code": 14,
+        "state": "RR",
+        "polygon_assigned_population": 629709.5771643678,
+        "share_of_full_country_mask_population": 0.002916578796872814
+      },
+      {
+        "state_code": 15,
+        "state": "PA",
+        "polygon_assigned_population": 8911238.240130696,
+        "share_of_full_country_mask_population": 0.041273516312208415
+      },
+      {
+        "state_code": 16,
+        "state": "AP",
+        "polygon_assigned_population": 869353.1667488243,
+        "share_of_full_country_mask_population": 0.004026518104665934
+      },
+      {
+        "state_code": 17,
+        "state": "TO",
+        "polygon_assigned_population": 1748184.8027489185,
+        "share_of_full_country_mask_population": 0.008096936927135067
+      },
+      {
+        "state_code": 21,
+        "state": "MA",
+        "polygon_assigned_population": 7563564.74726212,
+        "share_of_full_country_mask_population": 0.03503159769298112
+      },
+      {
+        "state_code": 22,
+        "state": "PI",
+        "polygon_assigned_population": 3482689.0015831348,
+        "share_of_full_country_mask_population": 0.01613051042332835
+      },
+      {
+        "state_code": 23,
+        "state": "CE",
+        "polygon_assigned_population": 9562014.551143028,
+        "share_of_full_country_mask_population": 0.044287668326145856
+      },
+      {
+        "state_code": 24,
+        "state": "RN",
+        "polygon_assigned_population": 3729252.900420226,
+        "share_of_full_country_mask_population": 0.01727250201040381
+      },
+      {
+        "state_code": 25,
+        "state": "PB",
+        "polygon_assigned_population": 4133816.28691071,
+        "share_of_full_country_mask_population": 0.019146288018777026
+      },
+      {
+        "state_code": 26,
+        "state": "PE",
+        "polygon_assigned_population": 9966384.844937366,
+        "share_of_full_country_mask_population": 0.04616056000150615
+      },
+      {
+        "state_code": 27,
+        "state": "AL",
+        "polygon_assigned_population": 3313603.991551449,
+        "share_of_full_country_mask_population": 0.015347372016337407
+      },
+      {
+        "state_code": 28,
+        "state": "SE",
+        "polygon_assigned_population": 2529843.1470094454,
+        "share_of_full_country_mask_population": 0.011717285475008422
+      },
+      {
+        "state_code": 29,
+        "state": "BA",
+        "polygon_assigned_population": 15038458.29922032,
+        "share_of_full_country_mask_population": 0.06965250363615377
+      },
+      {
+        "state_code": 31,
+        "state": "MG",
+        "polygon_assigned_population": 21963934.788253203,
+        "share_of_full_country_mask_population": 0.10172871562122604
+      },
+      {
+        "state_code": 32,
+        "state": "ES",
+        "polygon_assigned_population": 3885458.741426414,
+        "share_of_full_country_mask_population": 0.017995988932546357
+      },
+      {
+        "state_code": 33,
+        "state": "RJ",
+        "polygon_assigned_population": 17164068.19827066,
+        "share_of_full_country_mask_population": 0.07949753218075693
+      },
+      {
+        "state_code": 35,
+        "state": "SP",
+        "polygon_assigned_population": 45713618.08596139,
+        "share_of_full_country_mask_population": 0.2117283491831906
+      },
+      {
+        "state_code": 41,
+        "state": "PR",
+        "polygon_assigned_population": 11363153.086350106,
+        "share_of_full_country_mask_population": 0.05262986709922301
+      },
+      {
+        "state_code": 42,
+        "state": "SC",
+        "polygon_assigned_population": 7241864.831952885,
+        "share_of_full_country_mask_population": 0.033541604232548504
+      },
+      {
+        "state_code": 43,
+        "state": "RS",
+        "polygon_assigned_population": 11174672.246594016,
+        "share_of_full_country_mask_population": 0.05175689447694716
+      },
+      {
+        "state_code": 50,
+        "state": "MS",
+        "polygon_assigned_population": 2976852.535097546,
+        "share_of_full_country_mask_population": 0.013787665457430924
+      },
+      {
+        "state_code": 51,
+        "state": "MT",
+        "polygon_assigned_population": 3745904.4854170238,
+        "share_of_full_country_mask_population": 0.01734962591243287
+      },
+      {
+        "state_code": 52,
+        "state": "GO",
+        "polygon_assigned_population": 7816101.657307839,
+        "share_of_full_country_mask_population": 0.03620125402977027
+      },
+      {
+        "state_code": 53,
+        "state": "DF",
+        "polygon_assigned_population": 3474435.8238437832,
+        "share_of_full_country_mask_population": 0.016092284796667546
+      }
+    ],
+    "country_metric_denominator": "all population cells in the established Brazil country mask",
+    "state_metric_denominator": "population in the Brazil country mask assigned to rasterized 2022 IBGE municipality polygons and grouped by state; unmatched cells are excluded from state denominators and are not redistributed"
+  },
+  "eligibility_rules": {
+    "A_affirmative_structure_only": "relevant CNES structure flag is an unambiguous positive; missing, unknown, conflict, and explicit zero are outside this affirmative-only subset, not recoded as negative",
+    "B_structure_positive_or_unknown": "relevant CNES structure flag is positive, missing/unrecognized, or internally conflicting; only explicit zero without another status is excluded",
+    "chole_and_appendectomy": "ST_CENTRO_CIRURGICO",
+    "cesarean": "ST_CENTRO_OBSTETRICO",
+    "observed_positive_override": false,
+    "hospital_type_codes_descriptive": [
+      "05",
+      "07",
+      "15",
+      "20",
+      "21"
+    ],
+    "unavailable_in_source": [
+      "procedure-specific anesthesia record",
+      "procedure-specific named surgical service"
+    ]
+  },
+  "quota_definition": "within each selected candidate set, preserve observed-active 2024 hospital counts in state \u00d7 above/below full-original-candidate median of local 3\u00d73 population \u00d7 facility-point SMOD urban/rural cells",
+  "m2": {
+    "procedures": [
+      "chole",
+      "cesarean",
+      "appendectomy"
+    ],
+    "repetitions_per_eligible_set_and_procedure": 8
+  },
+  "m1": {
+    "procedure": "chole",
+    "random_repetitions_per_set": 12,
+    "rules": [
+      "uniform random assignment within exact state\u00d7joint quota cells",
+      "highest continuous local-population density first within the same exact quota cells",
+      "lowest continuous local-population density first within the same exact quota cells"
+    ],
+    "reference": "observed SUS-funded procedure-activity configuration, a source-specific activity reference rather than a capability gold standard",
+    "reported_subnational_unit": "Brazilian state; coverage permits cross-state travel to any selected facility",
+    "interpretation": "descriptive empirical masking; 30 minutes is a measurement threshold, not a clinical or WHO adequacy target for elective cholecystectomy"
+  },
+  "seed": 20261113,
+  "outputs_are_aggregate_only": true,
+  "finished_at_utc": "2026-11-13T09:08:44+00:00",
+  "status": "complete",
+  "observed_reference_comparison": {
+    "prior_country_all_30": 0.8583181239883125,
+    "recomputed_country_all_30": 0.8583181239883125,
+    "difference_percentage_points": 0.0,
+    "prior_state_reference_reused": false,
+    "recomputed_state_reference_denominator": "population in the Brazil country mask assigned to rasterized 2022 IBGE municipality polygons and grouped by state; unmatched cells are excluded from state denominators and are not redistributed"
+  },
+  "selection_deduplication": "exact sorted-CNES-set SHA-256 cache; identical spatial selections reuse coverage across candidate sets, procedures and estimators",
+  "result_files": [
+    "boundary120_audit.json",
+    "boundary120_recomputed.csv",
+    "boundary120_recomputed_states.csv",
+    "eligibility_status.csv",
+    "full_original_all9_bounds.csv",
+    "m1_scenario_metrics.csv",
+    "m1_scenarios.csv",
+    "m1_state_coverage.csv",
+    "m1_state_rank_change.csv",
+    "m2_bounds.csv",
+    "m2_combined_screen_bounds.csv",
+    "m2_scenarios.csv",
+    "m2_state_coverage.csv",
+    "observed_reference_comparison.json",
+    "population_denominator_audit.json",
+    "run_manifest.json",
+    "selection_group_quota_audit.csv",
+    "selection_quota_audit.csv",
+    "selection_quota_audit.json",
+    "state_population_denominators.csv"
+  ],
+  "selection_quota_audit": {
+    "status": "complete",
+    "created_at_utc": "2026-11-13T10:03:25+00:00",
+    "selection_regenerated_from_manifest_seed": 20261113,
+    "dijkstra_run": false,
+    "audit_scenario_count": 84,
+    "m1_scenario_count": 30,
+    "m2_scenario_count": 54,
+    "selection_hash_matches": 84,
+    "selection_hash_failures": 0,
+    "budget_and_saved_count_failures": 0,
+    "duplicate_id_scenarios": 0,
+    "unique_source_pixel_failures": 0,
+    "group_quota_cells_checked": 6716,
+    "group_quota_cell_failures": 0,
+    "scenario_failures": 0,
+    "cnes_source_rows_scanned": 642268,
+    "id_handling": "facility CNES identifiers were used in-memory to recreate SHA-256 selection hashes; raw identifiers were not written to audit outputs"
+  },
+  "m2_combined_screen_bounds": [
+    {
+      "service": "chole",
+      "candidate_count_A": 8000,
+      "candidate_count_B": 8000,
+      "observed_active_hospitals_A": 2292,
+      "observed_active_hospitals_B": 2292,
+      "candidate_universe_identical_A_B": true,
+      "observed_active_set_identical_A_B": true,
+      "unknown_flag_candidates": 0,
+      "conflicted_flag_candidates": 0,
+      "raw_M2_rows_A_plus_B": 18,
+      "unique_selection_hashes": 17,
+      "duplicate_rows_removed": 1,
+      "unique_observed_reference_all_30": 0.8583181239883125,
+      "minimum_all_30": 0.5814351017088522,
+      "maximum_all_30": 0.8583181239883125,
+      "combined_unique_width_30_pp": 27.68830222794604,
+      "minimum_all_120": 0.9437672397608079,
+      "maximum_all_120": 0.9844797030331865,
+      "combined_unique_width_120_pp": 4.071246327237866,
+      "interpretation": "union of A/B scenario rows deduplicated by exact sorted-CNES-set SHA-256; candidate sets are compared separately in eligibility_status.csv"
+    },
+    {
+      "service": "cesarean",
+      "candidate_count_A": 4693,
+      "candidate_count_B": 4693,
+      "observed_active_hospitals_A": 1991,
+      "observed_active_hospitals_B": 1991,
+      "candidate_universe_identical_A_B": true,
+      "observed_active_set_identical_A_B": true,
+      "unknown_flag_candidates": 0,
+      "conflicted_flag_candidates": 0,
+      "raw_M2_rows_A_plus_B": 18,
+      "unique_selection_hashes": 17,
+      "duplicate_rows_removed": 1,
+      "unique_observed_reference_all_30": 0.8647010561915818,
+      "minimum_all_30": 0.7145022070158884,
+      "maximum_all_30": 0.8647010561915818,
+      "combined_unique_width_30_pp": 15.019884917569337,
+      "minimum_all_120": 0.9642198653314701,
+      "maximum_all_120": 0.9870020339157496,
+      "combined_unique_width_120_pp": 2.2782168584279505,
+      "interpretation": "union of A/B scenario rows deduplicated by exact sorted-CNES-set SHA-256; candidate sets are compared separately in eligibility_status.csv"
+    },
+    {
+      "service": "appendectomy",
+      "candidate_count_A": 8000,
+      "candidate_count_B": 8000,
+      "observed_active_hospitals_A": 1697,
+      "observed_active_hospitals_B": 1697,
+      "candidate_universe_identical_A_B": true,
+      "observed_active_set_identical_A_B": true,
+      "unknown_flag_candidates": 0,
+      "conflicted_flag_candidates": 0,
+      "raw_M2_rows_A_plus_B": 18,
+      "unique_selection_hashes": 17,
+      "duplicate_rows_removed": 1,
+      "unique_observed_reference_all_30": 0.8143131222661265,
+      "minimum_all_30": 0.5150881440194461,
+      "maximum_all_30": 0.8143131222661265,
+      "combined_unique_width_30_pp": 29.92249782466804,
+      "minimum_all_120": 0.9105112269719059,
+      "maximum_all_120": 0.9824318215650747,
+      "combined_unique_width_120_pp": 7.19205945931688,
+      "interpretation": "union of A/B scenario rows deduplicated by exact sorted-CNES-set SHA-256; candidate sets are compared separately in eligibility_status.csv"
+    }
+  ],
+  "boundary120_audit": {
+    "status": "complete",
+    "services_rechecked": 3,
+    "minimum_witnesses_reproduced_within_0_01_pp": 3,
+    "dijkstra_scenarios_run": 3,
+    "sum_dijkstra_seconds": 7.674,
+    "scope_note": "One original minimum-120 witness per service was rerun at crop margin 4 and compared with the original all-nine output; all other original constructed witnesses were left untouched."
+  }
+}

@@ -1,0 +1,11 @@
+-r requirements-validated.lock.txt
+# Optional raw/geospatial stages; resolve these in a separate environment.
+rasterio
+geopandas
+pyarrow
+pyproj
+shapely
+requests
+dbfread
+pyreaddbc
+openpyxl

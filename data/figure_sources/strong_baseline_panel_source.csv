@@ -1,0 +1,10 @@
+service,scheme,comparison,mean_delta_auc,repartition_lo,repartition_hi,positive_repartitions,n_repartitions
+chole,spatial_blocks,prior_service_plus_activity minus prior_service_baseline,0.0017366306982352,0.00128893891085,0.0022991878306942,50,50
+chole,leave_region_out,prior_service_plus_activity minus prior_service_baseline,0.0020024850322147,0.0020024850322147,0.0020024850322147,1,1
+chole,leave_region_out_buffered,prior_service_plus_activity minus prior_service_baseline,0.0015625804143191,0.0015625804143191,0.0015625804143191,1,1
+cesarean,spatial_blocks,prior_service_plus_activity minus prior_service_baseline,-0.0001338588749698,-0.0003940933568497,-7.81690093623056e-06,0,50
+cesarean,leave_region_out,prior_service_plus_activity minus prior_service_baseline,-0.0001539070254028,-0.0001539070254028,-0.0001539070254028,0,1
+cesarean,leave_region_out_buffered,prior_service_plus_activity minus prior_service_baseline,-0.0005339802569811,-0.0005339802569811,-0.0005339802569811,0,1
+appendectomy,spatial_blocks,prior_service_plus_activity minus prior_service_baseline,0.0056585237685726,0.0045994687348304,0.0070169488682894,50,50
+appendectomy,leave_region_out,prior_service_plus_activity minus prior_service_baseline,0.0064288489472061,0.0064288489472061,0.0064288489472061,1,1
+appendectomy,leave_region_out_buffered,prior_service_plus_activity minus prior_service_baseline,0.009151326718762,0.009151326718762,0.009151326718762,1,1

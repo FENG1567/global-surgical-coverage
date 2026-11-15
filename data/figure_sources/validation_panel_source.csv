@@ -1,0 +1,7 @@
+scheme,comparison,mean_delta_auc,repartition_lo,repartition_hi,positive_repartitions,n_repartitions
+spatial_blocks,population_urban_activity minus population_urban,0.01182722899302278,0.010553293402901235,0.012891208769663886,50,50
+leave_region_out,population_urban_activity minus population_urban,0.012635923174763364,0.012635923174763364,0.012635923174763364,1,1
+leave_region_out_buffered,population_urban_activity minus population_urban,0.013212823158343712,0.013212823158343712,0.013212823158343712,1,1
+spatial_blocks,prior_service_plus_activity minus prior_service_baseline,0.0017356504093931347,0.0012640763350922264,0.0022634869364258486,50,50
+leave_region_out,prior_service_plus_activity minus prior_service_baseline,0.001908377303372455,0.001908377303372455,0.001908377303372455,1,1
+leave_region_out_buffered,prior_service_plus_activity minus prior_service_baseline,0.0014099004271607152,0.0014099004271607152,0.0014099004271607152,1,1

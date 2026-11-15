@@ -1,0 +1,49 @@
+{
+  "objective": "supplement only the four flexible grouped-binomial models for the n>=1 2024 cohort and merge with completed primary outputs",
+  "cohort": "spatial-valid municipalities with at least one resident procedure AIH record in 2024",
+  "services": [
+    "chole",
+    "cesarean",
+    "appendectomy"
+  ],
+  "models_fit": [
+    "flexible_population_urban",
+    "flexible_population_urban_plus_activity",
+    "flexible_strong_baseline",
+    "flexible_strong_baseline_plus_activity"
+  ],
+  "repartitions": 10,
+  "folds_per_repartition": 5,
+  "seed": 20261111,
+  "merge_keys": [
+    "service",
+    "threshold",
+    "repartition",
+    "m6",
+    "fold"
+  ],
+  "source_analysis_dir": "__PROJECT_ROOT__/upgrade_20261112/derived/bmc_revision_20261113/prediction/attempt3/analysis",
+  "outcome_path": "__PROJECT_ROOT__/upgrade_20261112/inputs/brazil_municipality_annual.csv",
+  "executables": {
+    "supplement_script_sha256": "c0355e741ea020b38920d1f5f2a793769b2ee6d305fbdd55b1386b21b54d04be",
+    "prediction_helper_sha256": "9b282d9c054e48c65882179c36e66457e9dd8963d7f161b7b083852ad86e9a06"
+  },
+  "source_files": {
+    "denominator_spatial_oof_predictions.csv.gz": "faa5321fe6e71793e1fb74216dcf4e6964614ee972704560c7db90d80a4f8bd2",
+    "denominator_spatial_scores_by_repartition.csv": "b700cef49a753d877ccfb09c8eb9498a0eb048781e93647d48a68c21505dffdc",
+    "denominator_glm_fold_diagnostics.csv": "5174b6e2fba25af53c8ae774ccb07bfdf297a73bec5dc651cddc02f94e1ead4e",
+    "denominator_spatial_block_bootstrap.csv": "afaaaf4e9554f852ce363b75a3e07d7fd60fbb7eeaba2a6bc61fe6ac49c02f16"
+  },
+  "fit_counts": {
+    "flexible_glm_fits": 600,
+    "supplemental_prediction_rows": 163770,
+    "merged_prediction_rows": 500580,
+    "merged_score_rows": 840,
+    "merged_fold_diagnostic_rows": 4200
+  },
+  "diagnostic_summary": {
+    "all_fits_converged": true,
+    "rank_drops": 600
+  },
+  "uncertainty": "the threshold-1 block bootstrap is recomputed on merged nine-model OOF data; threshold-10 bootstrap is retained from the primary analysis"
+}

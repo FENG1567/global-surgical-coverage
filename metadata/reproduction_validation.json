@@ -1,0 +1,102 @@
+{
+  "status": "pass",
+  "date": "2026-11-14",
+  "figures": {
+    "status": "pass",
+    "figures": [
+      "Figure_1",
+      "Figure_2",
+      "Figure_3",
+      "Figure_4",
+      "Figure_5",
+      "Figure_6",
+      "Figure_S1",
+      "Figure_S2",
+      "Figure_S3",
+      "Figure_S4"
+    ],
+    "input": "released aggregate figure sources",
+    "method": "released matplotlib plotting programs; no PDF copying",
+    "TIFF": "600 dpi RGB LZW",
+    "PNG": "300 dpi preview"
+  },
+  "tables": {
+    "status": "pass",
+    "main_tables_2_to_4": "recomputed checks from underlying analysis aggregates",
+    "table_1": "seven-statistic summary derived from all 27 certified country rows in Table_S2.csv",
+    "supplementary_tables": "source-table export; underlying analyses are separate",
+    "tables": 27,
+    "source_csv_files": 28,
+    "display": "Native publication table strings, including paired AUC columns; underlying analytical CSVs also exported"
+  },
+  "municipal_denominator_refit": {
+    "status": "pass",
+    "analyses": [
+      {
+        "service": "chole",
+        "threshold": 1,
+        "repartitions": 10,
+        "models": 9,
+        "max_absolute_score_difference": {
+          "auc": 0.0,
+          "brier": 0.0,
+          "log_loss": 0.0
+        }
+      },
+      {
+        "service": "cesarean",
+        "threshold": 1,
+        "repartitions": 10,
+        "models": 9,
+        "max_absolute_score_difference": {
+          "auc": 0.0,
+          "brier": 0.0,
+          "log_loss": 0.0
+        }
+      },
+      {
+        "service": "appendectomy",
+        "threshold": 1,
+        "repartitions": 10,
+        "models": 9,
+        "max_absolute_score_difference": {
+          "auc": 0.0,
+          "brier": 0.0,
+          "log_loss": 0.0
+        }
+      }
+    ],
+    "scope": "refitting from released city-level analytical inputs; not raw SIH or raster regeneration"
+  },
+  "regression_tests": {
+    "final_flexible_source_two_partitions": "pass",
+    "native_C_heap_reference_3_grids": "pass",
+    "MILP_exhaustive_5_instances": "pass",
+    "path_materialization_and_C_compilation": "pass"
+  },
+  "publication_scope": {
+    "raw_SIH_reread_in_packaging": false,
+    "complete_global_raster_pipeline_rerun": false,
+    "third_party_raw_data_redistributed": false,
+    "github_repository_created_or_pushed": false,
+    "cloud_actions_executed": false
+  },
+  "presentation_checks": {
+    "figure_pdf_renders_identical_to_reproduction": [
+      "Figure_1",
+      "Figure_2",
+      "Figure_3",
+      "Figure_4",
+      "Figure_5",
+      "Figure_6",
+      "Figure_S1",
+      "Figure_S2",
+      "Figure_S3",
+      "Figure_S4"
+    ],
+    "published_unit_tests": "pass",
+    "document_runtime": "python-docx and LibreOffice headless",
+    "DOCX_actual_final_validation": "pass",
+    "source_numerical_cells_preserved": 1234
+  }
+}

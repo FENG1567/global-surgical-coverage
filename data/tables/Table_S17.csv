@@ -1,0 +1,16 @@
+service,group,municipalities,median_population,median_urban_share,prior_local_service_fraction,median_historical_activity_30min_access
+chole,no_record_outcome_unknown,49,4524.081446605327,0.0,0.1224489795918367,0.7495077465558462
+chole,recorded_below_threshold,1352,4303.084826791484,0.0,0.0436390532544378,0.3573125076442223
+chole,threshold_met_missing_spatial_covariates,0,,,,
+chole,included_in_spatial_validation,4169,17002.393761824816,0.5279564089535734,0.3655552890381386,0.890539278556425
+cesarean,no_record_outcome_unknown,8,3693.78896691234,0.0,0.0,0.8840535091618149
+cesarean,recorded_below_threshold,413,2947.427598035661,0.0,0.0508474576271186,0.8535542637285514
+cesarean,threshold_met_missing_spatial_covariates,0,,,,
+cesarean,included_in_spatial_validation,5149,13464.719284311404,0.4427012490397861,0.3763837638376384,0.8969168292660363
+appendectomy,no_record_outcome_unknown,276,4384.986397049361,0.0,0.0326086956521739,0.3079973702678549
+appendectomy,recorded_below_threshold,3222,7327.139360947185,0.0,0.0946617008069522,0.4992459561003515
+appendectomy,threshold_met_missing_spatial_covariates,0,,,,
+appendectomy,included_in_spatial_validation,2072,33008.34760410356,0.6841067148366824,0.5704633204633205,0.9504718057898148
+appendectomy,outside_spatial_population_frame,0,,,,
+cesarean,outside_spatial_population_frame,1,,,,
+chole,outside_spatial_population_frame,1,,,,

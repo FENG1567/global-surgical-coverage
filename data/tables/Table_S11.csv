@@ -1,0 +1,10 @@
+Procedure,Set,N,Active retained,Active excluded,Records excluded,Active explicit zero
+Cholecystectomy,Original,8444,2292,0,0,0
+Cholecystectomy,A,8000,2292,0,0,0
+Cholecystectomy,B,8000,2292,0,0,0
+Cesarean delivery,Original,8444,2050,0,0,59
+Cesarean delivery,A,4693,1991,59,18480,59
+Cesarean delivery,B,4693,1991,59,18480,59
+Appendectomy,Original,8444,1697,0,0,0
+Appendectomy,A,8000,1697,0,0,0
+Appendectomy,B,8000,1697,0,0,0

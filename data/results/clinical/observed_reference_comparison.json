@@ -1,0 +1,7 @@
+{
+  "prior_country_all_30": 0.8583181239883125,
+  "recomputed_country_all_30": 0.8583181239883125,
+  "difference_percentage_points": 0.0,
+  "prior_state_reference_reused": false,
+  "recomputed_state_reference_denominator": "population in the Brazil country mask assigned to rasterized 2022 IBGE municipality polygons and grouped by state; unmatched cells are excluded from state denominators and are not redistributed"
+}

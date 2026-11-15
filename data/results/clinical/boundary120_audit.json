@@ -1,0 +1,66 @@
+{
+  "summary": {
+    "status": "complete",
+    "services_rechecked": 3,
+    "minimum_witnesses_reproduced_within_0_01_pp": 3,
+    "dijkstra_scenarios_run": 3,
+    "sum_dijkstra_seconds": 7.674,
+    "scope_note": "One original minimum-120 witness per service was rerun at crop margin 4 and compared with the original all-nine output; all other original constructed witnesses were left untouched."
+  },
+  "results": [
+    {
+      "service": "chole",
+      "original_all9_minimum_scenario": "chole_state_joint_cluster_01",
+      "original_all9_minimum_120": 0.9465369808993134,
+      "margin4_recomputed_minimum_scenario_120": "margin4_recheck_chole_original_min120",
+      "margin4_recomputed_minimum_120": 0.9465369808993134,
+      "recomputed_minus_original_minimum_120_pp": 0.0,
+      "original_all9_observed_maximum_scenario": "chole_observed",
+      "original_all9_observed_maximum_120": 0.9844797030331865,
+      "original_all9_width_120_pp": 3.7942722133873175,
+      "width_with_margin4_recomputed_minimum_pp": 3.7942722133873175,
+      "minimum_reproduced_within_0_01_pp": true,
+      "selected_hospitals": 2292,
+      "selection_sha256": "344e46fd50335c458a7436992e9ff0daa3115a79e625c1fd5da7f49792261b44",
+      "dijkstra_seconds": 3.97,
+      "selection_file": "__PROJECT_ROOT__/upgrade_20261112/derived/brazil_state_constraints/chole_state_joint_cluster_01_selection.csv",
+      "scope_note": "Only the original minimum-120 witness was rerun at margin 4; the other seven constructed scenarios were not rerun."
+    },
+    {
+      "service": "cesarean",
+      "original_all9_minimum_scenario": "cesarean_state_joint_cluster_04",
+      "original_all9_minimum_120": 0.9318242481803579,
+      "margin4_recomputed_minimum_scenario_120": "margin4_recheck_cesarean_original_min120",
+      "margin4_recomputed_minimum_120": 0.9318242481803579,
+      "recomputed_minus_original_minimum_120_pp": 0.0,
+      "original_all9_observed_maximum_scenario": "cesarean_observed",
+      "original_all9_observed_maximum_120": 0.9872777717391537,
+      "original_all9_width_120_pp": 5.545352355879574,
+      "width_with_margin4_recomputed_minimum_pp": 5.545352355879574,
+      "minimum_reproduced_within_0_01_pp": true,
+      "selected_hospitals": 2050,
+      "selection_sha256": "03035ce4795df21aaa07b93881dd86bec72935ff357ebfb4c585619550ecc829",
+      "dijkstra_seconds": 2.166,
+      "selection_file": "__PROJECT_ROOT__/upgrade_20261112/derived/brazil_state_constraints/cesarean_state_joint_cluster_04_selection.csv",
+      "scope_note": "Only the original minimum-120 witness was rerun at margin 4; the other seven constructed scenarios were not rerun."
+    },
+    {
+      "service": "appendectomy",
+      "original_all9_minimum_scenario": "appendectomy_state_joint_cluster_07",
+      "original_all9_minimum_120": 0.8778396663273993,
+      "margin4_recomputed_minimum_scenario_120": "margin4_recheck_appendectomy_original_min120",
+      "margin4_recomputed_minimum_120": 0.8778396663273993,
+      "recomputed_minus_original_minimum_120_pp": 0.0,
+      "original_all9_observed_maximum_scenario": "appendectomy_observed",
+      "original_all9_observed_maximum_120": 0.9824318215650747,
+      "original_all9_width_120_pp": 10.45921552376754,
+      "width_with_margin4_recomputed_minimum_pp": 10.45921552376754,
+      "minimum_reproduced_within_0_01_pp": true,
+      "selected_hospitals": 1697,
+      "selection_sha256": "4a0070dbde047b606a8ad94b2d45dcca1ca9c1f7c6705a73a12a61860e426ffe",
+      "dijkstra_seconds": 1.538,
+      "selection_file": "__PROJECT_ROOT__/upgrade_20261112/derived/brazil_state_constraints/appendectomy_state_joint_cluster_07_selection.csv",
+      "scope_note": "Only the original minimum-120 witness was rerun at margin 4; the other seven constructed scenarios were not rerun."
+    }
+  ]
+}

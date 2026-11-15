@@ -1,0 +1,315 @@
+path,licence
+.gitattributes,MIT
+.github/workflows/reproduce.yml,MIT
+.gitignore,MIT
+CITATION.cff,MIT
+LICENSE,licence notice; see stated terms
+LICENSE-DATA.md,licence notice; see stated terms
+LICENSES/CC-BY-4.0.txt,licence notice; see stated terms
+LICENSES/MIT.txt,licence notice; see stated terms
+Makefile,MIT
+README.md,MIT
+README_中文.md,MIT
+THIRD_PARTY_NOTICES.md,licence notice; see stated terms
+code/analysis/native/ttdijkstra_crop.c,MIT
+code/analysis/plotting/layout/figure_core_main.py,MIT
+code/analysis/plotting/layout/figure_core_supplement.py,MIT
+code/analysis/plotting/layout/layout_main_1_3.py,MIT
+code/analysis/plotting/layout/layout_main_4_6.py,MIT
+code/analysis/plotting/layout/layout_style.py,MIT
+code/analysis/plotting/layout/layout_supplement.py,MIT
+code/analysis/plotting/layout/reader_main_1_3.py,MIT
+code/analysis/plotting/layout/reader_main_4_6.py,MIT
+code/analysis/plotting/layout/reader_supplement.py,MIT
+code/analysis/plotting/plot_main_readable.py,MIT
+code/analysis/plotting/plot_main_submission.py,MIT
+code/analysis/plotting/plot_revision_figures.py,MIT
+code/analysis/plotting/plot_supplement_readable.py,MIT
+code/analysis/plotting/plot_supplement_submission.py,MIT
+code/analysis/revision_20261113/clinical/code/audit_clinical_selections.py,MIT
+code/analysis/revision_20261113/clinical/code/clinical_reanalysis.py,MIT
+code/analysis/revision_20261113/clinical/code/ttdijkstra_clinical.c,MIT
+code/analysis/revision_20261113/global/global_budget_sensitivity.py,MIT
+code/analysis/revision_20261113/raw_time/code/audit_raw_time.py,MIT
+code/analysis/src/01_build_grid.py,MIT
+code/analysis/src/02_build_sources.py,MIT
+code/analysis/src/03_osm_hospitals.py,MIT
+code/analysis/src/04_validate.py,MIT
+code/analysis/src/05_aggregate.py,MIT
+code/analysis/src/06_capability.py,MIT
+code/analysis/src/09_v12_fixes.py,MIT
+code/analysis/src/10_aggregate_v12.py,MIT
+code/analysis/src/11_sara_pc.py,MIT
+code/analysis/src/12_aggregate_meas.py,MIT
+code/analysis/src/13_osm_precision.py,MIT
+code/analysis/src/14_osm_correction.py,MIT
+code/analysis/src/15_aggregate_corr.py,MIT
+code/analysis/src/16_v15_30min.py,MIT
+code/analysis/src/18_brazil_validation.py,MIT
+code/analysis/src/20_aggregate_spatial.py,MIT
+code/analysis/src/21_tail_validation.py,MIT
+code/analysis/src/22_france_prep.py,MIT
+code/analysis/src/23_flow_validation.py,MIT
+code/analysis/src/24_lagged_mask.py,MIT
+code/analysis/src/25_workforce_and_ranking.py,MIT
+code/analysis/src/26_lagged_masks.py,MIT
+code/analysis/src/27_flow_holdout.py,MIT
+code/analysis/src/28_urban_share_curve.py,MIT
+code/analysis/src/29_framework_analytic.py,MIT
+code/analysis/src/30_conditional_set.py,MIT
+code/analysis/src/32_greedy_bounds_brazil.py,MIT
+code/analysis/src/33_bounds_agg.py,MIT
+code/analysis/src/41_certified_bounds.py,MIT
+code/analysis/src/42_voi.py,MIT
+code/analysis/src/43_certify_many.py,MIT
+code/analysis/src/44_frag.py,MIT
+code/analysis/src/44b_frag.py,MIT
+code/analysis/src/45_diag.py,MIT
+code/analysis/src/46_stress.py,MIT
+code/analysis/src/47_spatial_auc.py,MIT
+code/analysis/src/48_urban_profile.py,MIT
+code/analysis/src/54_cluster_budget.py,MIT
+code/analysis/src/59_export_selection.py,MIT
+code/analysis/src/ttdijkstra.c,MIT
+code/analysis/upgrade_20261112/code/audit_activity_vintages.py,MIT
+code/analysis/upgrade_20261112/code/audit_correction_mask.py,MIT
+code/analysis/upgrade_20261112/code/audit_country_population.py,MIT
+code/analysis/upgrade_20261112/code/audit_nominal_composition_curve.py,MIT
+code/analysis/upgrade_20261112/code/bra_state_boundary.py,MIT
+code/analysis/upgrade_20261112/code/bra_state_constraints.py,MIT
+code/analysis/upgrade_20261112/code/brazil_boundary_check.py,MIT
+code/analysis/upgrade_20261112/code/brazil_extract.py,MIT
+code/analysis/upgrade_20261112/code/brazil_multiservice_validation.py,MIT
+code/analysis/upgrade_20261112/code/brazil_spatial_experiment.py,MIT
+code/analysis/upgrade_20261112/code/certify_full_population_v2.py,MIT
+code/analysis/upgrade_20261112/code/exact_information_value.py,MIT
+code/analysis/upgrade_20261112/code/extract_exact_cases.py,MIT
+code/analysis/upgrade_20261112/code/finalize_certification.py,MIT
+code/analysis/upgrade_20261112/code/global_budget_sensitivity_20261113.py,MIT
+code/analysis/upgrade_20261112/code/local_sigtap_contract.py,MIT
+code/analysis/upgrade_20261112/code/mex_hospital_boundary.py,MIT
+code/analysis/upgrade_20261112/code/mex_state_boundary.py,MIT
+code/analysis/upgrade_20261112/code/mex_state_constraints.py,MIT
+code/analysis/upgrade_20261112/code/mexico_candidates.py,MIT
+code/analysis/upgrade_20261112/code/mexico_spatial_experiment.py,MIT
+code/analysis/upgrade_20261112/code/prepare_brazil_spatial.py,MIT
+code/analysis/upgrade_20261112/code/prepare_exact_cases.py,MIT
+code/analysis/upgrade_20261112/code/prepare_followup_boundary_checks.py,MIT
+code/analysis/upgrade_20261112/code/prepare_scope_repair.py,MIT
+code/analysis/upgrade_20261112/code/prepare_state_constraint_experiments.py,MIT
+code/analysis/upgrade_20261112/code/repair_urban_table.py,MIT
+code/analysis/upgrade_20261112/code/summarize_upgrade.py,MIT
+code/analysis/upgrade_20261112/code/temporal_multiservice_validation.py,MIT
+code/analysis/upgrade_20261112/code/test_exact_bounds.py,MIT
+code/analysis/upgrade_20261112/code/test_travel_engine.py,MIT
+code/analysis/upgrade_20261112/code/validate_spatial_auc.py,MIT
+code/analysis/upgrade_20261112/code/validation_extensions.py,MIT
+code/analysis/upgrade_20261112/code/verify_global_witness.py,MIT
+code/analysis/upgrade_20261112/derived/bmc_revision_20261113/prediction/code/audit_raw_cholec_vintages.py,MIT
+code/analysis/upgrade_20261112/derived/bmc_revision_20261113/prediction/code/binary_temporal_strong.py,MIT
+code/analysis/upgrade_20261112/derived/bmc_revision_20261113/prediction/code/reanalyse_prediction.py,MIT
+code/analysis/upgrade_20261112/derived/bmc_revision_20261113/prediction/code/supplement_flexible_threshold1.py,MIT
+code/analysis/upgrade_20261112/derived/bmc_revision_20261113/prediction/code/validate_binary_temporal.py,MIT
+code/analysis/upgrade_20261112/derived/bmc_revision_20261113/prediction/code/validate_prediction_bootstrap.py,MIT
+code/analysis/upgrade_20261112/derived/bmc_revision_20261113/prediction/code/validate_prediction_fits.py,MIT
+config/paths.example.json,MIT
+data/exact_cases/BLZ.npz,CC-BY-4.0 (authors contributions only)
+data/exact_cases/DJI.npz,CC-BY-4.0 (authors contributions only)
+data/exact_cases/GNB.npz,CC-BY-4.0 (authors contributions only)
+data/exact_cases/design.json,CC-BY-4.0 (authors contributions only)
+data/exact_cases/exhaustive_endpoints.csv,CC-BY-4.0 (authors contributions only)
+data/figure_sources/Figure_1_source_data.csv,CC-BY-4.0 (authors contributions only)
+data/figure_sources/Figure_2_budget_sensitivity.csv,CC-BY-4.0 (authors contributions only)
+data/figure_sources/Figure_2_country_exact_composition.csv,CC-BY-4.0 (authors contributions only)
+data/figure_sources/Figure_2_original_assignments.csv,CC-BY-4.0 (authors contributions only)
+data/figure_sources/Figure_3_source_data.csv,CC-BY-4.0 (authors contributions only)
+data/figure_sources/Figure_4_source_data.csv,CC-BY-4.0 (authors contributions only)
+data/figure_sources/Figure_5_spatial_source_data.csv,CC-BY-4.0 (authors contributions only)
+data/figure_sources/Figure_5_temporal_source_data.csv,CC-BY-4.0 (authors contributions only)
+data/figure_sources/Figure_6_errors_source_data.csv,CC-BY-4.0 (authors contributions only)
+data/figure_sources/Figure_6_rank_source_data.csv,CC-BY-4.0 (authors contributions only)
+data/figure_sources/brazil_panel_source.csv,CC-BY-4.0 (authors contributions only)
+data/figure_sources/information_value_panel_source.csv,CC-BY-4.0 (authors contributions only)
+data/figure_sources/mexico_panel_source.csv,CC-BY-4.0 (authors contributions only)
+data/figure_sources/multiservice_validation_panel_source.csv,CC-BY-4.0 (authors contributions only)
+data/figure_sources/state_constraint_panel_source.csv,CC-BY-4.0 (authors contributions only)
+data/figure_sources/strong_baseline_panel_source.csv,CC-BY-4.0 (authors contributions only)
+data/figure_sources/stronger_constraint_widths.csv,CC-BY-4.0 (authors contributions only)
+data/figure_sources/temporal_validation.csv,CC-BY-4.0 (authors contributions only)
+data/figure_sources/validation_panel_source.csv,CC-BY-4.0 (authors contributions only)
+data/model_inputs/appendectomy_municipality_features.csv,CC-BY-4.0 (authors contributions only)
+data/model_inputs/brazil_municipality_annual.csv,CC-BY-4.0 (authors contributions only)
+data/model_inputs/cesarean_municipality_features.csv,CC-BY-4.0 (authors contributions only)
+data/model_inputs/chole_municipality_features.csv,CC-BY-4.0 (authors contributions only)
+data/model_inputs/same_year_admission_municipality_outcomes.csv,CC-BY-4.0 (authors contributions only)
+data/predictions/binary_appendectomy_n10.csv.gz,CC-BY-4.0 (authors contributions only)
+data/predictions/binary_cesarean_n10.csv.gz,CC-BY-4.0 (authors contributions only)
+data/predictions/binary_chole_n10.csv.gz,CC-BY-4.0 (authors contributions only)
+data/predictions/denominator_appendectomy_n1.csv.gz,CC-BY-4.0 (authors contributions only)
+data/predictions/denominator_appendectomy_n10.csv.gz,CC-BY-4.0 (authors contributions only)
+data/predictions/denominator_appendectomy_n20.csv.gz,CC-BY-4.0 (authors contributions only)
+data/predictions/denominator_appendectomy_n5.csv.gz,CC-BY-4.0 (authors contributions only)
+data/predictions/denominator_cesarean_n1.csv.gz,CC-BY-4.0 (authors contributions only)
+data/predictions/denominator_cesarean_n10.csv.gz,CC-BY-4.0 (authors contributions only)
+data/predictions/denominator_cesarean_n20.csv.gz,CC-BY-4.0 (authors contributions only)
+data/predictions/denominator_cesarean_n5.csv.gz,CC-BY-4.0 (authors contributions only)
+data/predictions/denominator_chole_n1.csv.gz,CC-BY-4.0 (authors contributions only)
+data/predictions/denominator_chole_n10.csv.gz,CC-BY-4.0 (authors contributions only)
+data/predictions/denominator_chole_n20.csv.gz,CC-BY-4.0 (authors contributions only)
+data/predictions/denominator_chole_n5.csv.gz,CC-BY-4.0 (authors contributions only)
+data/results/clinical/boundary120_audit.json,CC-BY-4.0 (authors contributions only)
+data/results/clinical/boundary120_recomputed.csv,CC-BY-4.0 (authors contributions only)
+data/results/clinical/boundary120_recomputed_states.csv,CC-BY-4.0 (authors contributions only)
+data/results/clinical/eligibility_status.csv,CC-BY-4.0 (authors contributions only)
+data/results/clinical/full_original_all9_bounds.csv,CC-BY-4.0 (authors contributions only)
+data/results/clinical/m1_scenario_metrics.csv,CC-BY-4.0 (authors contributions only)
+data/results/clinical/m1_scenarios.csv,CC-BY-4.0 (authors contributions only)
+data/results/clinical/m1_state_coverage.csv,CC-BY-4.0 (authors contributions only)
+data/results/clinical/m1_state_rank_change.csv,CC-BY-4.0 (authors contributions only)
+data/results/clinical/m2_bounds.csv,CC-BY-4.0 (authors contributions only)
+data/results/clinical/m2_combined_screen_bounds.csv,CC-BY-4.0 (authors contributions only)
+data/results/clinical/m2_scenarios.csv,CC-BY-4.0 (authors contributions only)
+data/results/clinical/m2_state_coverage.csv,CC-BY-4.0 (authors contributions only)
+data/results/clinical/observed_reference_comparison.json,CC-BY-4.0 (authors contributions only)
+data/results/clinical/population_denominator_audit.json,CC-BY-4.0 (authors contributions only)
+data/results/clinical/run_manifest.json,CC-BY-4.0 (authors contributions only)
+data/results/clinical/selection_group_quota_audit.csv,CC-BY-4.0 (authors contributions only)
+data/results/clinical/selection_quota_audit.csv,CC-BY-4.0 (authors contributions only)
+data/results/clinical/selection_quota_audit.json,CC-BY-4.0 (authors contributions only)
+data/results/clinical/state_population_denominators.csv,CC-BY-4.0 (authors contributions only)
+data/results/global/all_country_coverages.csv,CC-BY-4.0 (authors contributions only)
+data/results/global/all_country_quota_checks.csv,CC-BY-4.0 (authors contributions only)
+data/results/global/central_cluster_country_exact_q_selection_design.csv.gz,CC-BY-4.0 (authors contributions only)
+data/results/global/central_cluster_selection_design.csv.gz,CC-BY-4.0 (authors contributions only)
+data/results/global/central_random_selection_design.csv.gz,CC-BY-4.0 (authors contributions only)
+data/results/global/country_budget_provenance.csv,CC-BY-4.0 (authors contributions only)
+data/results/global/country_budget_reference.csv,CC-BY-4.0 (authors contributions only)
+data/results/global/global_sensitivity_summary.csv,CC-BY-4.0 (authors contributions only)
+data/results/global/input_script_hashes.csv,CC-BY-4.0 (authors contributions only)
+data/results/global/lower_cluster_selection_design.csv.gz,CC-BY-4.0 (authors contributions only)
+data/results/global/lower_random_selection_design.csv.gz,CC-BY-4.0 (authors contributions only)
+data/results/global/scenario_budget.csv,CC-BY-4.0 (authors contributions only)
+data/results/global/scenario_budget_final.csv,CC-BY-4.0 (authors contributions only)
+data/results/global/scenario_budget_final.json,CC-BY-4.0 (authors contributions only)
+data/results/global/selection_cluster_budget.csv,CC-BY-4.0 (authors contributions only)
+data/results/global/selection_cluster_design.csv.gz,CC-BY-4.0 (authors contributions only)
+data/results/global/selection_rand_budget.csv,CC-BY-4.0 (authors contributions only)
+data/results/global/selection_rand_design.csv.gz,CC-BY-4.0 (authors contributions only)
+data/results/global/upper_cluster_selection_design.csv.gz,CC-BY-4.0 (authors contributions only)
+data/results/global/upper_random_selection_design.csv.gz,CC-BY-4.0 (authors contributions only)
+data/results/prediction/flexible_n1_fixed/denominator_glm_fold_diagnostics_merged.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/flexible_n1_fixed/denominator_spatial_absolute_performance_merged.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/flexible_n1_fixed/denominator_spatial_block_bootstrap_merged.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/flexible_n1_fixed/denominator_spatial_increment_summary_merged.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/flexible_n1_fixed/denominator_spatial_scores_by_repartition_merged.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/flexible_n1_fixed/flexible_threshold1_fold_diagnostics.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/flexible_n1_fixed/flexible_threshold1_scores_by_repartition.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/flexible_n1_fixed/result_manifest.json,CC-BY-4.0 (authors contributions only)
+data/results/prediction/primary/annual_hospital_CNES2025_linkage.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/primary/binary_spatial_absolute_performance.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/primary/binary_spatial_fold_manifest.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/primary/binary_spatial_increment_summary.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/primary/binary_spatial_scores_by_repartition.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/primary/denominator_glm_fold_diagnostics.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/primary/denominator_spatial_absolute_performance.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/primary/denominator_spatial_block_bootstrap.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/primary/denominator_spatial_increment_summary.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/primary/denominator_spatial_scores_by_repartition.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/primary/feature_source_paths.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/primary/historical_union_survivorship_by_active_years.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/primary/inclusion_characteristics.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/primary/inclusion_counts.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/primary/observed_denominator_rates.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/primary/temporal_denominator_absolute_performance.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/primary/temporal_denominator_block_bootstrap.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/temporal_processing/analysis_design.json,CC-BY-4.0 (authors contributions only)
+data/results/prediction/temporal_processing/binary_temporal_absolute_performance.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/temporal_processing/binary_temporal_block_bootstrap.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/temporal_processing/denominator_temporal_absolute_performance.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/temporal_processing/denominator_temporal_block_bootstrap.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/temporal_same_admission/analysis_design.json,CC-BY-4.0 (authors contributions only)
+data/results/prediction/temporal_same_admission/binary_temporal_absolute_performance.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/temporal_same_admission/binary_temporal_block_bootstrap.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/temporal_same_admission/denominator_temporal_absolute_performance.csv,CC-BY-4.0 (authors contributions only)
+data/results/prediction/temporal_same_admission/denominator_temporal_block_bootstrap.csv,CC-BY-4.0 (authors contributions only)
+data/results/record_time/aggregate_reconciliation.json,CC-BY-4.0 (authors contributions only)
+data/results/record_time/audit_summary.json,CC-BY-4.0 (authors contributions only)
+data/results/record_time/cross_year_identifier_overlap_counts.csv,CC-BY-4.0 (authors contributions only)
+data/results/record_time/date_lag_summary.csv,CC-BY-4.0 (authors contributions only)
+data/results/record_time/input_completeness.csv,CC-BY-4.0 (authors contributions only)
+data/results/record_time/input_manifest.csv,CC-BY-4.0 (authors contributions only)
+data/results/record_time/within_year_duplicate_summary.csv,CC-BY-4.0 (authors contributions only)
+data/tables/Main_Table_1.csv,CC BY 4.0
+data/tables/Main_Table_1_full_fields.csv,CC-BY-4.0 (authors contributions only)
+data/tables/Main_Table_2.csv,CC-BY-4.0 (authors contributions only)
+data/tables/Main_Table_3.csv,CC-BY-4.0 (authors contributions only)
+data/tables/Main_Table_4.csv,CC-BY-4.0 (authors contributions only)
+data/tables/Table_S1.csv,CC-BY-4.0 (authors contributions only)
+data/tables/Table_S10.csv,CC-BY-4.0 (authors contributions only)
+data/tables/Table_S11.csv,CC-BY-4.0 (authors contributions only)
+data/tables/Table_S12.csv,CC-BY-4.0 (authors contributions only)
+data/tables/Table_S13.csv,CC-BY-4.0 (authors contributions only)
+data/tables/Table_S14.csv,CC-BY-4.0 (authors contributions only)
+data/tables/Table_S15.csv,CC-BY-4.0 (authors contributions only)
+data/tables/Table_S16.csv,CC-BY-4.0 (authors contributions only)
+data/tables/Table_S17.csv,CC-BY-4.0 (authors contributions only)
+data/tables/Table_S18.csv,CC-BY-4.0 (authors contributions only)
+data/tables/Table_S19.csv,CC-BY-4.0 (authors contributions only)
+data/tables/Table_S2.csv,CC-BY-4.0 (authors contributions only)
+data/tables/Table_S20.csv,CC-BY-4.0 (authors contributions only)
+data/tables/Table_S21.csv,CC-BY-4.0 (authors contributions only)
+data/tables/Table_S22.csv,CC-BY-4.0 (authors contributions only)
+data/tables/Table_S23.csv,CC-BY-4.0 (authors contributions only)
+data/tables/Table_S3.csv,CC-BY-4.0 (authors contributions only)
+data/tables/Table_S4.csv,CC-BY-4.0 (authors contributions only)
+data/tables/Table_S5.csv,CC-BY-4.0 (authors contributions only)
+data/tables/Table_S6.csv,CC-BY-4.0 (authors contributions only)
+data/tables/Table_S7.csv,CC-BY-4.0 (authors contributions only)
+data/tables/Table_S8.csv,CC-BY-4.0 (authors contributions only)
+data/tables/Table_S9.csv,CC-BY-4.0 (authors contributions only)
+docs/DATA_AVAILABILITY_DRAFT.md,MIT
+docs/DATA_SOURCES.md,MIT
+docs/FIGURE_MAP.csv,MIT
+docs/FULL_ANALYSIS.md,MIT
+docs/GITHUB_UPLOAD_中文.md,MIT
+docs/TABLE_MAP.csv,MIT
+environment/geospatial-observed.lock.txt,MIT
+environment/observed_versions.json,MIT
+environment/python-version.txt,MIT
+environment/requirements-analysis.txt,MIT
+environment/requirements-validated.lock.txt,MIT
+metadata/HOTOSM_snapshot_manifest.csv,CC BY 4.0 (author-generated metadata; third-party source terms unchanged)
+metadata/budget_scenario_parameters.csv,CC-BY-4.0 (authors contributions only)
+metadata/country_report_source_inventory.csv,CC-BY-4.0 (authors contributions only)
+metadata/data_dictionary.csv,CC-BY-4.0 (authors contributions only)
+metadata/external_data_manifest.csv,CC-BY-4.0 (authors contributions only)
+metadata/file_schemas.csv,CC-BY-4.0 (authors contributions only)
+metadata/grid_metadata.json,CC-BY-4.0 (authors contributions only)
+metadata/legacy_absolute_path_references.csv,CC-BY-4.0 (authors contributions only)
+metadata/licence_map.csv,MIT
+metadata/original_data_inventory.csv,CC-BY-4.0 (authors contributions only)
+metadata/presentation_manifest.json,CC BY 4.0
+metadata/publication_table_crosswalk.csv,CC BY 4.0 (author-generated metadata; third-party source terms unchanged)
+metadata/release_manifest.json,MIT
+metadata/reproduction_validation.json,MIT
+metadata/retained_solver_environment.json,CC BY 4.0 (author-generated metadata; third-party source terms unchanged)
+metadata/source_provenance.json,CC-BY-4.0 (authors contributions only)
+metadata/table_display_spec.json,CC BY 4.0
+reference/figures/Figure_1.pdf,CC-BY-4.0 (authors contributions only)
+reference/figures/Figure_2.pdf,CC-BY-4.0 (authors contributions only)
+reference/figures/Figure_3.pdf,CC-BY-4.0 (authors contributions only)
+reference/figures/Figure_4.pdf,CC-BY-4.0 (authors contributions only)
+reference/figures/Figure_5.pdf,CC-BY-4.0 (authors contributions only)
+reference/figures/Figure_6.pdf,CC-BY-4.0 (authors contributions only)
+reference/figures/Figure_S1.pdf,CC-BY-4.0 (authors contributions only)
+reference/figures/Figure_S2.pdf,CC-BY-4.0 (authors contributions only)
+reference/figures/Figure_S3.pdf,CC-BY-4.0 (authors contributions only)
+reference/figures/Figure_S4.pdf,CC-BY-4.0 (authors contributions only)
+requirements.txt,MIT
+scripts/fetch_external.py,MIT
+scripts/materialize_analysis.py,MIT
+scripts/reproduce_figures.py,MIT
+scripts/reproduce_models.py,MIT
+scripts/reproduce_tables.py,MIT
+scripts/verify_release.py,MIT
+tests/test_reproduction.py,MIT

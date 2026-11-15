@@ -1,0 +1,8 @@
+Measure,Value,Scope
+Certified country instances,27,Computationally selected
+Candidate facilities per country,8–39,All mapped candidates
+Median width (pp),4.06,All 27 countries
+90th percentile width (pp),23.60,All 27 countries
+Maximum width (pp),41.23,Comoros (COM)
+Median width: all-facility coverage <90% (pp),14.33,11 countries
+Median width: all-facility coverage ≥90% (pp),0.23,16 countries

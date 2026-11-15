@@ -1,0 +1,5 @@
+source_panel,scenario,iso3,n_country,k_c,n_selected,u_country,source_file,scenario_label,coverage_30_percent,coverage_120_percent,realized_global_q,facilities_selected,countries,u,thr,all,urban,rural,nominal_mix_u,actual_global_q,sum_country_k,reconstructed_source_mask_matches,coverage30,actual_q_in_045_068
+scenario coverage and q,rand,,,,,,work/scenario_budget_final.csv + work/scenario_budget_final.json,Random,83.97747278213501,97.43692874908449,0.499,184367.0,216.0,,,,,,,,,,,
+scenario coverage and q,urban,,,,,,work/scenario_budget_final.csv + work/scenario_budget_final.json,High local-pop.,82.58497714996338,97.2784161567688,0.577,184367.0,216.0,,,,,,,,,,,
+scenario coverage and q,rural,,,,,,work/scenario_budget_final.csv + work/scenario_budget_final.json,Low local-pop.,84.51123237609863,97.48941659927368,0.422,184367.0,216.0,,,,,,,,,,,
+scenario coverage and q,cluster,,,,,,work/scenario_budget_final.csv + work/scenario_budget_final.json,Clustered,78.3938467502594,96.59088850021362,0.506,184367.0,216.0,,,,,,,,,,,

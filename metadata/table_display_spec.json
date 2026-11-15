@@ -1,0 +1,3157 @@
+{
+  "numbering": "current manuscript R5; analytical CSV paths retain their original names",
+  "tables": {
+    "Main_Table_1": {
+      "columns": [
+        "Measure",
+        "Value",
+        "Scope"
+      ],
+      "rows": [
+        [
+          "Certified country instances",
+          "27",
+          "Computationally selected"
+        ],
+        [
+          "Candidate facilities per country",
+          "8–39",
+          "All mapped candidates"
+        ],
+        [
+          "Median width (pp)",
+          "4.06",
+          "All 27 countries"
+        ],
+        [
+          "90th percentile width (pp)",
+          "23.60",
+          "All 27 countries"
+        ],
+        [
+          "Maximum width (pp)",
+          "41.23",
+          "Comoros (COM)"
+        ],
+        [
+          "Median width: all-facility coverage <90% (pp)",
+          "14.33",
+          "11 countries"
+        ],
+        [
+          "Median width: all-facility coverage ≥90% (pp)",
+          "0.23",
+          "16 countries"
+        ]
+      ]
+    },
+    "Main_Table_2": {
+      "columns": [
+        "Procedure",
+        "Frame",
+        "N",
+        "k",
+        "30-min low (%)",
+        "30-min high (%)",
+        "30-min width ≥ (pp)",
+        "120-min width ≥ (pp)"
+      ],
+      "rows": [
+        [
+          "Cholecystectomy",
+          "Original",
+          "8,444",
+          "2,292",
+          "59.58",
+          "85.83",
+          "26.25",
+          "3.79"
+        ],
+        [
+          "Cholecystectomy",
+          "Screened",
+          "8,000",
+          "2,292",
+          "58.14",
+          "85.83",
+          "27.69",
+          "4.07"
+        ],
+        [
+          "Cesarean delivery",
+          "Original",
+          "8,444",
+          "2,050",
+          "56.08",
+          "86.84",
+          "30.77",
+          "5.55"
+        ],
+        [
+          "Cesarean delivery",
+          "Screened",
+          "4,693",
+          "1,991",
+          "71.45",
+          "86.47",
+          "15.02",
+          "2.28"
+        ],
+        [
+          "Appendectomy",
+          "Original",
+          "8,444",
+          "1,697",
+          "50.38",
+          "81.43",
+          "31.05",
+          "10.46"
+        ],
+        [
+          "Appendectomy",
+          "Screened",
+          "8,000",
+          "1,697",
+          "51.51",
+          "81.43",
+          "29.92",
+          "7.19"
+        ]
+      ]
+    },
+    "Main_Table_3": {
+      "columns": [
+        "Procedure",
+        "Municipalities",
+        "Resident AIHs",
+        "Local AIHs (%)",
+        "Population/urban AUC\nbaseline → +activity",
+        "Strong AUC\nbaseline → +activity"
+      ],
+      "rows": [
+        [
+          "Cholecystectomy",
+          "5,521",
+          "317,655",
+          "60.96",
+          "0.82437 → 0.82527",
+          "0.87909 → 0.88633"
+        ],
+        [
+          "Cesarean delivery",
+          "5,562",
+          "884,624",
+          "67.64",
+          "0.83635 → 0.83632",
+          "0.89976 → 0.90104"
+        ],
+        [
+          "Appendectomy",
+          "5,294",
+          "116,951",
+          "61.45",
+          "0.85038 → 0.85169",
+          "0.92499 → 0.92658"
+        ]
+      ]
+    },
+    "Main_Table_4": {
+      "columns": [
+        "Frame",
+        "Rule",
+        "Assignments",
+        "National MAE (pp)",
+        "State MAE (pp)",
+        "State rank ρ",
+        "Lowest-five overlap"
+      ],
+      "rows": [
+        [
+          "Original",
+          "Random",
+          "12",
+          "4.214",
+          "5.380",
+          "0.955",
+          "4.000"
+        ],
+        [
+          "Original",
+          "High local pop.",
+          "1",
+          "9.949",
+          "10.547",
+          "0.910",
+          "3.000"
+        ],
+        [
+          "Original",
+          "Low local pop.",
+          "1",
+          "5.520",
+          "7.731",
+          "0.932",
+          "3.000"
+        ],
+        [
+          "Screened (B)",
+          "Random",
+          "12",
+          "4.297",
+          "5.402",
+          "0.959",
+          "4.167"
+        ],
+        [
+          "Screened (B)",
+          "High local pop.",
+          "1",
+          "9.920",
+          "10.772",
+          "0.922",
+          "3.000"
+        ],
+        [
+          "Screened (B)",
+          "Low local pop.",
+          "1",
+          "5.142",
+          "6.290",
+          "0.929",
+          "3.000"
+        ]
+      ]
+    },
+    "Table_S1": {
+      "columns": [
+        "Country",
+        "Facility definition",
+        "Total (%)",
+        "Urban (%)",
+        "Rural (%)"
+      ],
+      "rows": [
+        [
+          "BRA",
+          "OSM hospital",
+          "89.49",
+          "96.09",
+          "67.01"
+        ],
+        [
+          "BRA",
+          "CNES registered",
+          "93.77",
+          "99.24",
+          "75.14"
+        ],
+        [
+          "BRA",
+          "CNES surgical centre",
+          "92.86",
+          "98.88",
+          "72.37"
+        ],
+        [
+          "BRA",
+          "CNES chole >=1",
+          "85.84",
+          "94.82",
+          "55.21"
+        ],
+        [
+          "BRA",
+          "CNES chole >=10",
+          "84.63",
+          "93.97",
+          "52.79"
+        ],
+        [
+          "FRA",
+          "OSM hospital",
+          "96.24",
+          "95.76",
+          "97.01"
+        ],
+        [
+          "FRA",
+          "SAE any theatre",
+          "96.70",
+          "99.66",
+          "92.08"
+        ],
+        [
+          "FRA",
+          "SAE 24h theatre",
+          "92.75",
+          "98.05",
+          "84.47"
+        ]
+      ]
+    },
+    "Table_S2": {
+      "columns": [
+        "iso3",
+        "Input p",
+        "OSM hospitals",
+        "Source sample size",
+        "Comparability",
+        "Source locator"
+      ],
+      "rows": [
+        [
+          "UGA",
+          "0.92000",
+          "2,395",
+          "187 hospital-level facilities",
+          "Rounded strata",
+          "Table 13, printed p.26 (PDF p.54)"
+        ],
+        [
+          "TZA",
+          "0.79000",
+          "1,204",
+          "52 hospitals",
+          "Exact",
+          "Table 4.17.1, printed p.68 (PDF p.81)"
+        ],
+        [
+          "KEN",
+          "0.68000",
+          "1,128",
+          "411 hospitals",
+          "Exact",
+          "Figure 178, printed p.198 (PDF p.234)"
+        ],
+        [
+          "BFA",
+          "0.65000",
+          "702",
+          "17 hospital-level establishments",
+          "Exact",
+          "Section 8.1.1, printed p.162 (PDF p.174)"
+        ],
+        [
+          "COD",
+          "0.98000",
+          "685",
+          "485 hospitals",
+          "Exact hospital row",
+          "Tableau 21, printed p.137 (PDF p.139)"
+        ],
+        [
+          "GHA",
+          "0.85000",
+          "493",
+          "297 hospitals; 85% applies to subgroup N=132",
+          "Subtype only",
+          "Table 3.4.2.1, printed pp.76-77 (PDF pp.77-78); overview Table 1.2.2.7, printed p.74 (PDF p.75)"
+        ],
+        [
+          "ETH",
+          "0.97000",
+          "416",
+          "303 hospitals",
+          "Exact",
+          "Figure 3.10.2.1, printed p.83 (PDF p.105)"
+        ],
+        [
+          "MLI",
+          "0.58000",
+          "240",
+          "16 in figure caption",
+          "Scope ambiguous",
+          "Graphique 54, printed p.164 (PDF p.164)"
+        ],
+        [
+          "ZWE",
+          "0.80000",
+          "213",
+          "91 hospitals",
+          "Exact",
+          "Figure 59, printed p.127 (PDF p.127)"
+        ],
+        [
+          "MOZ",
+          "0.93000",
+          "200",
+          "68 hospitals",
+          "Exact",
+          "Surgery service-availability text, printed p.~118 (PDF p.101)"
+        ],
+        [
+          "TCD",
+          "0.79400",
+          "197",
+          "97 hospitals",
+          "Exact",
+          "Graphique 47, printed p.119 (PDF p.133)"
+        ],
+        [
+          "NER",
+          "0.90000",
+          "173",
+          "76 hospitals",
+          "Exact",
+          "Surgery availability text / figure, printed p.123 (PDF p.134)"
+        ]
+      ]
+    },
+    "Table_S3": {
+      "columns": [
+        "budget",
+        "threshold minutes",
+        "Selected facilities",
+        "Random (%)",
+        "Clustered (%)",
+        "Spread ≥ (pp)"
+      ],
+      "rows": [
+        [
+          "lower",
+          "30",
+          "148,954",
+          "82.21300",
+          "69.91642",
+          "12.29658"
+        ],
+        [
+          "lower",
+          "120",
+          "148,954",
+          "97.13488",
+          "95.56051",
+          "1.57437"
+        ],
+        [
+          "central",
+          "30",
+          "184,367",
+          "83.91849",
+          "79.22325",
+          "4.69524"
+        ],
+        [
+          "central",
+          "120",
+          "184,367",
+          "97.35378",
+          "96.72623",
+          "0.62755"
+        ],
+        [
+          "upper",
+          "30",
+          "201,131",
+          "84.55749",
+          "82.58412",
+          "1.97337"
+        ],
+        [
+          "upper",
+          "120",
+          "201,131",
+          "97.46479",
+          "97.20926",
+          "0.25554"
+        ]
+      ]
+    },
+    "Table_S4": {
+      "columns": [
+        "Country/territory",
+        "n",
+        "k",
+        "All n (%)",
+        "Min k (%)",
+        "Max k (%)",
+        "Width (pp)",
+        "Min/max gap"
+      ],
+      "rows": [
+        [
+          "Comoros (COM)",
+          "31",
+          "25",
+          "94.55",
+          "53.32",
+          "94.55",
+          "41.23",
+          "0 / 0"
+        ],
+        [
+          "Eritrea (ERI)",
+          "22",
+          "16",
+          "62.52",
+          "32.74",
+          "62.51",
+          "29.77",
+          "0 / 0"
+        ],
+        [
+          "Greenland (GRL)",
+          "29",
+          "28",
+          "71.91",
+          "46.19",
+          "71.91",
+          "25.72",
+          "0 / 0"
+        ],
+        [
+          "Solomon Islands (SLB)",
+          "10",
+          "8",
+          "24.85",
+          "2.66",
+          "24.85",
+          "22.19",
+          "0 / 0"
+        ],
+        [
+          "Tonga (TON)",
+          "9",
+          "8",
+          "97.62",
+          "77.29",
+          "97.62",
+          "20.33",
+          "0 / 0"
+        ],
+        [
+          "Guinea-Bissau (GNB)",
+          "23",
+          "17",
+          "56.14",
+          "36.66",
+          "56.14",
+          "19.48",
+          "0 / 0"
+        ],
+        [
+          "Vanuatu (VUT)",
+          "31",
+          "25",
+          "53.42",
+          "37.36",
+          "53.42",
+          "16.07",
+          "0 / 0"
+        ],
+        [
+          "Belize (BLZ)",
+          "18",
+          "16",
+          "82.42",
+          "68.09",
+          "82.42",
+          "14.33",
+          "0 / 0"
+        ],
+        [
+          "Samoa (WSM)",
+          "17",
+          "15",
+          "86.38",
+          "74.22",
+          "86.38",
+          "12.17",
+          "0 / 0"
+        ],
+        [
+          "Micronesia (FSM)",
+          "8",
+          "7",
+          "78.31",
+          "68.17",
+          "78.31",
+          "10.15",
+          "0 / 0"
+        ],
+        [
+          "Iceland (ISL)",
+          "32",
+          "30",
+          "93.94",
+          "84.02",
+          "93.94",
+          "9.92",
+          "0 / 0"
+        ],
+        [
+          "Djibouti (DJI)",
+          "26",
+          "21",
+          "87.82",
+          "78.05",
+          "87.82",
+          "9.77",
+          "0 / 0"
+        ],
+        [
+          "Suriname (SUR)",
+          "15",
+          "13",
+          "85.69",
+          "80.43",
+          "85.69",
+          "5.25",
+          "0 / 0"
+        ],
+        [
+          "French Polynesia (PYF)",
+          "20",
+          "19",
+          "83.73",
+          "79.67",
+          "83.73",
+          "4.06",
+          "0 / 0"
+        ],
+        [
+          "New Caledonia (NCL)",
+          "39",
+          "37",
+          "93.48",
+          "91.01",
+          "93.48",
+          "2.46",
+          "9.76e-16 / 0"
+        ],
+        [
+          "Brunei (BRN)",
+          "28",
+          "27",
+          "98.26",
+          "96.24",
+          "98.26",
+          "2.02",
+          "0 / 0"
+        ],
+        [
+          "Luxembourg (LUX)",
+          "15",
+          "14",
+          "100.00",
+          "98.30",
+          "100.00",
+          "1.70",
+          "0 / 0"
+        ],
+        [
+          "Saint Lucia (LCA)",
+          "9",
+          "8",
+          "99.99",
+          "98.63",
+          "99.99",
+          "1.35",
+          "0 / 0"
+        ],
+        [
+          "Bahamas (BHS)",
+          "15",
+          "14",
+          "90.86",
+          "90.60",
+          "90.86",
+          "0.26",
+          "0 / 0"
+        ],
+        [
+          "Equatorial Guinea (GNQ)",
+          "12",
+          "11",
+          "92.69",
+          "92.48",
+          "92.69",
+          "0.20",
+          "0 / 0"
+        ],
+        [
+          "São Tomé and Príncipe (STP)",
+          "16",
+          "13",
+          "98.67",
+          "98.58",
+          "98.67",
+          "0.10",
+          "0 / 0"
+        ],
+        [
+          "Dominica (DMA)",
+          "9",
+          "8",
+          "99.94",
+          "99.87",
+          "99.94",
+          "0.08",
+          "0 / 0"
+        ],
+        [
+          "Seychelles (SYC)",
+          "13",
+          "12",
+          "99.59",
+          "99.59",
+          "99.59",
+          "0.00",
+          "0 / 0"
+        ],
+        [
+          "Andorra (AND)",
+          "11",
+          "10",
+          "99.98",
+          "99.98",
+          "99.98",
+          "0.00",
+          "0 / 0"
+        ],
+        [
+          "Barbados (BRB)",
+          "11",
+          "10",
+          "100.00",
+          "100.00",
+          "100.00",
+          "0.00",
+          "0 / 0"
+        ],
+        [
+          "Curaçao (CUW)",
+          "8",
+          "8",
+          "99.56",
+          "99.56",
+          "99.56",
+          "0.00",
+          "0 / 0"
+        ],
+        [
+          "Malta (MLT)",
+          "14",
+          "13",
+          "100.00",
+          "100.00",
+          "100.00",
+          "0.00",
+          "0 / 0"
+        ]
+      ]
+    },
+    "Table_S5": {
+      "columns": [
+        "ISO3",
+        "Initial information",
+        "Audit order",
+        "Remaining width (pp)"
+      ],
+      "rows": [
+        [
+          "BLZ",
+          "Count + exact composition",
+          "Largest catchment",
+          "3.443"
+        ],
+        [
+          "BLZ",
+          "Count + exact composition",
+          "Random",
+          "2.457"
+        ],
+        [
+          "BLZ",
+          "Count only",
+          "Largest catchment",
+          "5.318"
+        ],
+        [
+          "BLZ",
+          "Count only",
+          "Random",
+          "3.445"
+        ],
+        [
+          "DJI",
+          "Count + exact composition",
+          "Largest catchment",
+          "7.640"
+        ],
+        [
+          "DJI",
+          "Count + exact composition",
+          "Random",
+          "1.704"
+        ],
+        [
+          "DJI",
+          "Count only",
+          "Largest catchment",
+          "8.124"
+        ],
+        [
+          "DJI",
+          "Count only",
+          "Random",
+          "2.649"
+        ],
+        [
+          "GNB",
+          "Count + exact composition",
+          "Largest catchment",
+          "0.483"
+        ],
+        [
+          "GNB",
+          "Count + exact composition",
+          "Random",
+          "5.073"
+        ],
+        [
+          "GNB",
+          "Count only",
+          "Largest catchment",
+          "0.483"
+        ],
+        [
+          "GNB",
+          "Count only",
+          "Random",
+          "6.564"
+        ]
+      ]
+    },
+    "Table_S6": {
+      "columns": [
+        "Year",
+        "Procedure",
+        "AIH records",
+        "Active facilities"
+      ],
+      "rows": [
+        [
+          "2017",
+          "Append.",
+          "113,961",
+          "1,797"
+        ],
+        [
+          "2017",
+          "Cesarean",
+          "844,018",
+          "2,210"
+        ],
+        [
+          "2017",
+          "Chole.",
+          "201,107",
+          "1,991"
+        ],
+        [
+          "2018",
+          "Append.",
+          "116,575",
+          "1,773"
+        ],
+        [
+          "2018",
+          "Cesarean",
+          "892,887",
+          "2,165"
+        ],
+        [
+          "2018",
+          "Chole.",
+          "218,221",
+          "2,029"
+        ],
+        [
+          "2019",
+          "Append.",
+          "122,879",
+          "1,735"
+        ],
+        [
+          "2019",
+          "Cesarean",
+          "899,259",
+          "2,131"
+        ],
+        [
+          "2019",
+          "Chole.",
+          "225,703",
+          "2,047"
+        ],
+        [
+          "2023",
+          "Append.",
+          "115,432",
+          "1,711"
+        ],
+        [
+          "2023",
+          "Cesarean",
+          "902,457",
+          "2,046"
+        ],
+        [
+          "2023",
+          "Chole.",
+          "304,757",
+          "2,214"
+        ],
+        [
+          "2024",
+          "Append.",
+          "116,956",
+          "1,697"
+        ],
+        [
+          "2024",
+          "Cesarean",
+          "884,677",
+          "2,051"
+        ],
+        [
+          "2024",
+          "Chole.",
+          "317,670",
+          "2,296"
+        ]
+      ]
+    },
+    "Table_S7": {
+      "columns": [
+        "Procedure",
+        "Processing year",
+        "active hospitals",
+        "active hospitals linked to CNES2025 candidate",
+        "hospital linkage fraction",
+        "resident procedure AIHS",
+        "volume weighted linkage fraction"
+      ],
+      "rows": [
+        [
+          "Append.",
+          "2017",
+          "1,797",
+          "1,783",
+          "0.99221",
+          "113,961",
+          "0.99440"
+        ],
+        [
+          "Append.",
+          "2018",
+          "1,773",
+          "1,766",
+          "0.99605",
+          "116,575",
+          "0.99519"
+        ],
+        [
+          "Append.",
+          "2019",
+          "1,735",
+          "1,733",
+          "0.99885",
+          "122,879",
+          "0.99654"
+        ],
+        [
+          "Append.",
+          "2023",
+          "1,711",
+          "1,711",
+          "1.00000",
+          "115,432",
+          "1.00000"
+        ],
+        [
+          "Append.",
+          "2024",
+          "1,697",
+          "1,697",
+          "1.00000",
+          "116,956",
+          "1.00000"
+        ],
+        [
+          "Cesarean",
+          "2017",
+          "2,210",
+          "2,172",
+          "0.98281",
+          "844,018",
+          "0.99299"
+        ],
+        [
+          "Cesarean",
+          "2018",
+          "2,165",
+          "2,141",
+          "0.98891",
+          "892,887",
+          "0.99528"
+        ],
+        [
+          "Cesarean",
+          "2019",
+          "2,131",
+          "2,122",
+          "0.99578",
+          "899,259",
+          "0.99753"
+        ],
+        [
+          "Cesarean",
+          "2023",
+          "2,046",
+          "2,045",
+          "0.99951",
+          "902,457",
+          "0.99856"
+        ],
+        [
+          "Cesarean",
+          "2024",
+          "2,051",
+          "2,050",
+          "0.99951",
+          "884,677",
+          "0.99832"
+        ],
+        [
+          "Chole.",
+          "2017",
+          "1,991",
+          "1,972",
+          "0.99046",
+          "201,107",
+          "0.99472"
+        ],
+        [
+          "Chole.",
+          "2018",
+          "2,029",
+          "2,013",
+          "0.99211",
+          "218,221",
+          "0.99594"
+        ],
+        [
+          "Chole.",
+          "2019",
+          "2,047",
+          "2,042",
+          "0.99756",
+          "225,703",
+          "0.99908"
+        ],
+        [
+          "Chole.",
+          "2023",
+          "2,214",
+          "2,210",
+          "0.99819",
+          "304,757",
+          "0.99564"
+        ],
+        [
+          "Chole.",
+          "2024",
+          "2,296",
+          "2,292",
+          "0.99826",
+          "317,670",
+          "0.99530"
+        ]
+      ]
+    },
+    "Table_S8": {
+      "columns": [
+        "Year",
+        "Expected files",
+        "Read files",
+        "States",
+        "Missing pairs",
+        "Duplicate pairs",
+        "Complete"
+      ],
+      "rows": [
+        [
+          "2017",
+          "324",
+          "324",
+          "27",
+          "0",
+          "0",
+          "True"
+        ],
+        [
+          "2018",
+          "324",
+          "324",
+          "27",
+          "0",
+          "0",
+          "True"
+        ],
+        [
+          "2019",
+          "324",
+          "324",
+          "27",
+          "0",
+          "0",
+          "True"
+        ],
+        [
+          "2023",
+          "324",
+          "324",
+          "27",
+          "0",
+          "0",
+          "True"
+        ],
+        [
+          "2024",
+          "324",
+          "324",
+          "27",
+          "0",
+          "0",
+          "True"
+        ]
+      ]
+    },
+    "Table_S9": {
+      "columns": [
+        "Procedure",
+        "Set",
+        "N",
+        "Active retained",
+        "Active excluded",
+        "Records excluded",
+        "Active explicit zero"
+      ],
+      "rows": [
+        [
+          "Chole.",
+          "Original",
+          "8,444",
+          "2,292",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "Chole.",
+          "A",
+          "8,000",
+          "2,292",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "Chole.",
+          "B",
+          "8,000",
+          "2,292",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "Cesarean",
+          "Original",
+          "8,444",
+          "2,050",
+          "0",
+          "0",
+          "59"
+        ],
+        [
+          "Cesarean",
+          "A",
+          "4,693",
+          "1,991",
+          "59",
+          "18,480",
+          "59"
+        ],
+        [
+          "Cesarean",
+          "B",
+          "4,693",
+          "1,991",
+          "59",
+          "18,480",
+          "59"
+        ],
+        [
+          "Append.",
+          "Original",
+          "8,444",
+          "1,697",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "Append.",
+          "A",
+          "8,000",
+          "1,697",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "Append.",
+          "B",
+          "8,000",
+          "1,697",
+          "0",
+          "0",
+          "0"
+        ]
+      ]
+    },
+    "Table_S10": {
+      "columns": [
+        "Country",
+        "Procedure",
+        "Constraint",
+        "k",
+        "Minimum (%)",
+        "Maximum (%)",
+        "Lower bound (pp)"
+      ],
+      "rows": [
+        [
+          "BRA",
+          "Append.",
+          "State joint",
+          "1,697",
+          "50.38",
+          "81.43",
+          "31.05"
+        ],
+        [
+          "BRA",
+          "Cesarean",
+          "State joint",
+          "2,050",
+          "56.08",
+          "86.84",
+          "30.77"
+        ],
+        [
+          "BRA",
+          "Chole.",
+          "State joint",
+          "2,292",
+          "59.58",
+          "85.83",
+          "26.25"
+        ],
+        [
+          "MEX",
+          "Cesarean",
+          "State joint",
+          "760",
+          "87.99",
+          "90.28",
+          "2.29"
+        ],
+        [
+          "MEX",
+          "Chole.",
+          "State joint",
+          "613",
+          "81.55",
+          "87.78",
+          "6.23"
+        ],
+        [
+          "MEX",
+          "Cesarean",
+          "Hospital type, national joint",
+          "734",
+          "83.35",
+          "89.97",
+          "6.62"
+        ],
+        [
+          "MEX",
+          "Chole.",
+          "Hospital type, national joint",
+          "604",
+          "75.65",
+          "87.64",
+          "11.99"
+        ]
+      ]
+    },
+    "Table_S11": {
+      "columns": [
+        "Procedure",
+        "Search",
+        "30 min low (%)",
+        "30 min high (%)",
+        "30 min width (pp)",
+        "120 min low (%)",
+        "120 min high (%)",
+        "120 min width (pp)"
+      ],
+      "rows": [
+        [
+          "Chole.",
+          "Search A",
+          "58.14",
+          "85.83",
+          "27.69",
+          "94.38",
+          "98.45",
+          "4.07"
+        ],
+        [
+          "Chole.",
+          "Search B",
+          "60.00",
+          "85.83",
+          "25.84",
+          "94.93",
+          "98.45",
+          "3.52"
+        ],
+        [
+          "Cesarean",
+          "Search A",
+          "71.45",
+          "86.47",
+          "15.02",
+          "96.42",
+          "98.70",
+          "2.28"
+        ],
+        [
+          "Cesarean",
+          "Search B",
+          "72.65",
+          "86.47",
+          "13.82",
+          "96.63",
+          "98.70",
+          "2.07"
+        ],
+        [
+          "Append.",
+          "Search A",
+          "51.51",
+          "81.43",
+          "29.92",
+          "91.82",
+          "98.24",
+          "6.42"
+        ],
+        [
+          "Append.",
+          "Search B",
+          "54.72",
+          "81.43",
+          "26.71",
+          "91.05",
+          "98.24",
+          "7.19"
+        ]
+      ]
+    },
+    "Table_S12": {
+      "columns": [
+        "Candidate set",
+        "Rule",
+        "Assignments",
+        "National MAE (pp)",
+        "State MAE (pp)",
+        "State rank correlation",
+        "Lowest five overlap"
+      ],
+      "rows": [
+        [
+          "Original",
+          "Random",
+          "12",
+          "4.21385",
+          "5.38017",
+          "0.95452",
+          "4.00000"
+        ],
+        [
+          "Original",
+          "High local pop.",
+          "1",
+          "9.94861",
+          "10.54728",
+          "0.91026",
+          "3.00000"
+        ],
+        [
+          "Original",
+          "Low local pop.",
+          "1",
+          "5.51997",
+          "7.73055",
+          "0.93162",
+          "3.00000"
+        ],
+        [
+          "Screened (B)",
+          "Random",
+          "12",
+          "4.29672",
+          "5.40175",
+          "0.95879",
+          "4.16667"
+        ],
+        [
+          "Screened (B)",
+          "High local pop.",
+          "1",
+          "9.92002",
+          "10.77197",
+          "0.92247",
+          "3.00000"
+        ],
+        [
+          "Screened (B)",
+          "Low local pop.",
+          "1",
+          "5.14222",
+          "6.28978",
+          "0.92857",
+          "3.00000"
+        ]
+      ]
+    },
+    "Table_S13": {
+      "columns": [
+        "Procedure",
+        "Group",
+        "Municipalities",
+        "Median population",
+        "Median urban share",
+        "Prior-service fraction",
+        "Median historical 30-min access"
+      ],
+      "rows": [
+        [
+          "Chole.",
+          "No resident records",
+          "49",
+          "4524.08145",
+          "0.00000",
+          "0.12245",
+          "0.74951"
+        ],
+        [
+          "Chole.",
+          "<10 resident records",
+          "1,352",
+          "4303.08483",
+          "0.00000",
+          "0.04364",
+          "0.35731"
+        ],
+        [
+          "Chole.",
+          "≥10; missing spatial inputs",
+          "0",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Chole.",
+          "Included",
+          "4,169",
+          "17002.39376",
+          "0.52796",
+          "0.36556",
+          "0.89054"
+        ],
+        [
+          "Cesarean",
+          "No resident records",
+          "8",
+          "3693.78897",
+          "0.00000",
+          "0.00000",
+          "0.88405"
+        ],
+        [
+          "Cesarean",
+          "<10 resident records",
+          "413",
+          "2947.42760",
+          "0.00000",
+          "0.05085",
+          "0.85355"
+        ],
+        [
+          "Cesarean",
+          "≥10; missing spatial inputs",
+          "0",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Cesarean",
+          "Included",
+          "5,149",
+          "13464.71928",
+          "0.44270",
+          "0.37638",
+          "0.89692"
+        ],
+        [
+          "Append.",
+          "No resident records",
+          "276",
+          "4384.98640",
+          "0.00000",
+          "0.03261",
+          "0.30800"
+        ],
+        [
+          "Append.",
+          "<10 resident records",
+          "3,222",
+          "7327.13936",
+          "0.00000",
+          "0.09466",
+          "0.49925"
+        ],
+        [
+          "Append.",
+          "≥10; missing spatial inputs",
+          "0",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Append.",
+          "Included",
+          "2,072",
+          "33008.34760",
+          "0.68411",
+          "0.57046",
+          "0.95047"
+        ],
+        [
+          "Append.",
+          "Outside population frame",
+          "0",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Cesarean",
+          "Outside population frame",
+          "1",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Chole.",
+          "Outside population frame",
+          "1",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "Table_S14": {
+      "columns": [
+        "Procedure",
+        "Model",
+        "Municipalities",
+        "AUC",
+        "Brier",
+        "Log loss"
+      ],
+      "rows": [
+        [
+          "Append.",
+          "Flex P+U",
+          "2,072",
+          "0.80219",
+          "0.18191",
+          "0.54199"
+        ],
+        [
+          "Append.",
+          "Flex P+U + A",
+          "2,072",
+          "0.81964",
+          "0.17304",
+          "0.52097"
+        ],
+        [
+          "Append.",
+          "Flex strong",
+          "2,072",
+          "0.96076",
+          "0.07001",
+          "0.23954"
+        ],
+        [
+          "Append.",
+          "Flex strong + A",
+          "2,072",
+          "0.96637",
+          "0.06836",
+          "0.23067"
+        ],
+        [
+          "Append.",
+          "P+U",
+          "2,072",
+          "0.80010",
+          "0.18388",
+          "0.54967"
+        ],
+        [
+          "Append.",
+          "P+U+OSM",
+          "2,072",
+          "0.80355",
+          "0.18232",
+          "0.54622"
+        ],
+        [
+          "Append.",
+          "P+U activity",
+          "2,072",
+          "0.81791",
+          "0.17526",
+          "0.52919"
+        ],
+        [
+          "Append.",
+          "Strong",
+          "2,072",
+          "0.96070",
+          "0.07045",
+          "0.24086"
+        ],
+        [
+          "Append.",
+          "Strong + A",
+          "2,072",
+          "0.96636",
+          "0.06856",
+          "0.23086"
+        ],
+        [
+          "Cesarean",
+          "Flex P+U",
+          "5,149",
+          "0.88894",
+          "0.12358",
+          "0.39111"
+        ],
+        [
+          "Cesarean",
+          "Flex P+U + A",
+          "5,149",
+          "0.90156",
+          "0.11726",
+          "0.37190"
+        ],
+        [
+          "Cesarean",
+          "Flex strong",
+          "5,149",
+          "0.97001",
+          "0.05582",
+          "0.19963"
+        ],
+        [
+          "Cesarean",
+          "Flex strong + A",
+          "5,149",
+          "0.96991",
+          "0.05582",
+          "0.19973"
+        ],
+        [
+          "Cesarean",
+          "P+U",
+          "5,149",
+          "0.88888",
+          "0.12425",
+          "0.39277"
+        ],
+        [
+          "Cesarean",
+          "P+U+OSM",
+          "5,149",
+          "0.89098",
+          "0.12277",
+          "0.38937"
+        ],
+        [
+          "Cesarean",
+          "P+U activity",
+          "5,149",
+          "0.90195",
+          "0.11770",
+          "0.37320"
+        ],
+        [
+          "Cesarean",
+          "Strong",
+          "5,149",
+          "0.97030",
+          "0.05572",
+          "0.19887"
+        ],
+        [
+          "Cesarean",
+          "Strong + A",
+          "5,149",
+          "0.97017",
+          "0.05574",
+          "0.19897"
+        ],
+        [
+          "Chole.",
+          "Flex P+U",
+          "4,169",
+          "0.86072",
+          "0.14244",
+          "0.44620"
+        ],
+        [
+          "Chole.",
+          "Flex P+U + A",
+          "4,169",
+          "0.87294",
+          "0.13622",
+          "0.42963"
+        ],
+        [
+          "Chole.",
+          "Flex strong",
+          "4,169",
+          "0.94725",
+          "0.07537",
+          "0.26206"
+        ],
+        [
+          "Chole.",
+          "Flex strong + A",
+          "4,169",
+          "0.94933",
+          "0.07444",
+          "0.25810"
+        ],
+        [
+          "Chole.",
+          "P+U",
+          "4,169",
+          "0.86129",
+          "0.14357",
+          "0.45087"
+        ],
+        [
+          "Chole.",
+          "P+U+OSM",
+          "4,169",
+          "0.86055",
+          "0.14391",
+          "0.45186"
+        ],
+        [
+          "Chole.",
+          "P+U activity",
+          "4,169",
+          "0.87311",
+          "0.13698",
+          "0.43431"
+        ],
+        [
+          "Chole.",
+          "Strong",
+          "4,169",
+          "0.94739",
+          "0.07587",
+          "0.26310"
+        ],
+        [
+          "Chole.",
+          "Strong + A",
+          "4,169",
+          "0.94913",
+          "0.07465",
+          "0.25832"
+        ]
+      ]
+    },
+    "Table_S15": {
+      "columns": [
+        "Procedure",
+        "Validation",
+        "Mean ΔAUC",
+        "2.5th percentile",
+        "97.5th percentile"
+      ],
+      "rows": [
+        [
+          "Chole.",
+          "Spatial blocks",
+          "0.00174",
+          "0.00129",
+          "0.00230"
+        ],
+        [
+          "Chole.",
+          "Leave region",
+          "0.00200",
+          "0.00200",
+          "0.00200"
+        ],
+        [
+          "Chole.",
+          "Buffered region",
+          "0.00156",
+          "0.00156",
+          "0.00156"
+        ],
+        [
+          "Cesarean",
+          "Spatial blocks",
+          "-0.00013",
+          "-0.00039",
+          "-0.00001"
+        ],
+        [
+          "Cesarean",
+          "Leave region",
+          "-0.00015",
+          "-0.00015",
+          "-0.00015"
+        ],
+        [
+          "Cesarean",
+          "Buffered region",
+          "-0.00053",
+          "-0.00053",
+          "-0.00053"
+        ],
+        [
+          "Append.",
+          "Spatial blocks",
+          "0.00566",
+          "0.00460",
+          "0.00702"
+        ],
+        [
+          "Append.",
+          "Leave region",
+          "0.00643",
+          "0.00643",
+          "0.00643"
+        ],
+        [
+          "Append.",
+          "Buffered region",
+          "0.00915",
+          "0.00915",
+          "0.00915"
+        ]
+      ]
+    },
+    "Table_S16": {
+      "columns": [
+        "Procedure",
+        "Comparison",
+        "Mean ΔAUC",
+        "2.5th percentile",
+        "97.5th percentile",
+        "Positive of 50"
+      ],
+      "rows": [
+        [
+          "Chole.",
+          "+OSM - baseline",
+          "-0.00074",
+          "-0.00190",
+          "-0.00012",
+          "0"
+        ],
+        [
+          "Chole.",
+          "+activity - baseline",
+          "0.01183",
+          "0.01055",
+          "0.01289",
+          "50"
+        ],
+        [
+          "Chole.",
+          "+activity - +OSM",
+          "0.01257",
+          "0.01155",
+          "0.01380",
+          "50"
+        ],
+        [
+          "Cesarean",
+          "+OSM - baseline",
+          "0.00210",
+          "0.00117",
+          "0.00254",
+          "50"
+        ],
+        [
+          "Cesarean",
+          "+activity - baseline",
+          "0.01307",
+          "0.01259",
+          "0.01364",
+          "50"
+        ],
+        [
+          "Cesarean",
+          "+activity - +OSM",
+          "0.01097",
+          "0.01019",
+          "0.01189",
+          "50"
+        ],
+        [
+          "Append.",
+          "+OSM - baseline",
+          "0.00345",
+          "-0.00014",
+          "0.00501",
+          "48"
+        ],
+        [
+          "Append.",
+          "+activity - baseline",
+          "0.01781",
+          "0.01647",
+          "0.01927",
+          "50"
+        ],
+        [
+          "Append.",
+          "+activity - +OSM",
+          "0.01436",
+          "0.01198",
+          "0.01810",
+          "50"
+        ]
+      ]
+    },
+    "Table_S17": {
+      "columns": [
+        "Procedure",
+        "Model",
+        "Municipalities",
+        "resident AIHS",
+        "Local fraction",
+        "AUC",
+        "Brier",
+        "Log loss"
+      ],
+      "rows": [
+        [
+          "Append.",
+          "Flex P+U",
+          "5,294",
+          "116,951",
+          "0.61447",
+          "0.86431",
+          "0.13931",
+          "0.43637"
+        ],
+        [
+          "Append.",
+          "Flex P+U + A",
+          "5,294",
+          "116,951",
+          "0.61447",
+          "0.86590",
+          "0.13715",
+          "0.43024"
+        ],
+        [
+          "Append.",
+          "Flex strong",
+          "5,294",
+          "116,951",
+          "0.61447",
+          "0.92874",
+          "0.08246",
+          "0.29148"
+        ],
+        [
+          "Append.",
+          "Flex strong + A",
+          "5,294",
+          "116,951",
+          "0.61447",
+          "0.92944",
+          "0.08221",
+          "0.29069"
+        ],
+        [
+          "Append.",
+          "P+U",
+          "5,294",
+          "116,951",
+          "0.61447",
+          "0.85038",
+          "0.14793",
+          "0.46327"
+        ],
+        [
+          "Append.",
+          "P+U+OSM",
+          "5,294",
+          "116,951",
+          "0.61447",
+          "0.85067",
+          "0.14779",
+          "0.46271"
+        ],
+        [
+          "Append.",
+          "P+U activity",
+          "5,294",
+          "116,951",
+          "0.61447",
+          "0.85169",
+          "0.14546",
+          "0.45586"
+        ],
+        [
+          "Append.",
+          "Strong",
+          "5,294",
+          "116,951",
+          "0.61447",
+          "0.92499",
+          "0.08309",
+          "0.29562"
+        ],
+        [
+          "Append.",
+          "Strong + A",
+          "5,294",
+          "116,951",
+          "0.61447",
+          "0.92658",
+          "0.08270",
+          "0.29410"
+        ],
+        [
+          "Cesarean",
+          "Flex P+U",
+          "5,562",
+          "884,624",
+          "0.67641",
+          "0.84897",
+          "0.13959",
+          "0.43471"
+        ],
+        [
+          "Cesarean",
+          "Flex P+U + A",
+          "5,562",
+          "884,624",
+          "0.67641",
+          "0.84905",
+          "0.13855",
+          "0.43171"
+        ],
+        [
+          "Cesarean",
+          "Flex strong",
+          "5,562",
+          "884,624",
+          "0.67641",
+          "0.90654",
+          "0.10086",
+          "0.33470"
+        ],
+        [
+          "Cesarean",
+          "Flex strong + A",
+          "5,562",
+          "884,624",
+          "0.67641",
+          "0.90690",
+          "0.10068",
+          "0.33436"
+        ],
+        [
+          "Cesarean",
+          "P+U",
+          "5,562",
+          "884,624",
+          "0.67641",
+          "0.83635",
+          "0.14606",
+          "0.45788"
+        ],
+        [
+          "Cesarean",
+          "P+U+OSM",
+          "5,562",
+          "884,624",
+          "0.67641",
+          "0.83685",
+          "0.14530",
+          "0.45586"
+        ],
+        [
+          "Cesarean",
+          "P+U activity",
+          "5,562",
+          "884,624",
+          "0.67641",
+          "0.83632",
+          "0.14477",
+          "0.45434"
+        ],
+        [
+          "Cesarean",
+          "Strong",
+          "5,562",
+          "884,624",
+          "0.67641",
+          "0.89976",
+          "0.10169",
+          "0.33942"
+        ],
+        [
+          "Cesarean",
+          "Strong + A",
+          "5,562",
+          "884,624",
+          "0.67641",
+          "0.90104",
+          "0.10144",
+          "0.33891"
+        ],
+        [
+          "Chole.",
+          "Flex P+U",
+          "5,521",
+          "317,655",
+          "0.60960",
+          "0.83817",
+          "0.15529",
+          "0.47466"
+        ],
+        [
+          "Chole.",
+          "Flex P+U + A",
+          "5,521",
+          "317,655",
+          "0.60960",
+          "0.83976",
+          "0.15373",
+          "0.47068"
+        ],
+        [
+          "Chole.",
+          "Flex strong",
+          "5,521",
+          "317,655",
+          "0.60960",
+          "0.89117",
+          "0.11943",
+          "0.38685"
+        ],
+        [
+          "Chole.",
+          "Flex strong + A",
+          "5,521",
+          "317,655",
+          "0.60960",
+          "0.89316",
+          "0.11858",
+          "0.38334"
+        ],
+        [
+          "Chole.",
+          "P+U",
+          "5,521",
+          "317,655",
+          "0.60960",
+          "0.82437",
+          "0.16411",
+          "0.49639"
+        ],
+        [
+          "Chole.",
+          "P+U+OSM",
+          "5,521",
+          "317,655",
+          "0.60960",
+          "0.82422",
+          "0.16411",
+          "0.49616"
+        ],
+        [
+          "Chole.",
+          "P+U activity",
+          "5,521",
+          "317,655",
+          "0.60960",
+          "0.82527",
+          "0.16228",
+          "0.49192"
+        ],
+        [
+          "Chole.",
+          "Strong",
+          "5,521",
+          "317,655",
+          "0.60960",
+          "0.87909",
+          "0.12147",
+          "0.39460"
+        ],
+        [
+          "Chole.",
+          "Strong + A",
+          "5,521",
+          "317,655",
+          "0.60960",
+          "0.88633",
+          "0.12052",
+          "0.38986"
+        ]
+      ]
+    },
+    "Table_S18": {
+      "columns": [
+        "Procedure",
+        "Comparison",
+        "Metric",
+        "Mean change",
+        "2.5th percentile",
+        "97.5th percentile",
+        "Repeats"
+      ],
+      "rows": [
+        [
+          "Append.",
+          "P+U activity − P+U",
+          "AUC",
+          "0.00130",
+          "0.00093",
+          "0.00151",
+          "10"
+        ],
+        [
+          "Append.",
+          "P+U activity − P+U",
+          "Log loss",
+          "-0.00741",
+          "-0.00782",
+          "-0.00705",
+          "10"
+        ],
+        [
+          "Append.",
+          "P+U+OSM − P+U",
+          "AUC",
+          "0.00028",
+          "-0.00001",
+          "0.00053",
+          "10"
+        ],
+        [
+          "Append.",
+          "P+U+OSM − P+U",
+          "Log loss",
+          "-0.00056",
+          "-0.00089",
+          "-0.00016",
+          "10"
+        ],
+        [
+          "Append.",
+          "Strong + A − Strong",
+          "AUC",
+          "0.00160",
+          "0.00145",
+          "0.00178",
+          "10"
+        ],
+        [
+          "Append.",
+          "Strong + A − Strong",
+          "Log loss",
+          "-0.00152",
+          "-0.00202",
+          "-0.00072",
+          "10"
+        ],
+        [
+          "Append.",
+          "Flex P+U + A − Flex P+U",
+          "AUC",
+          "0.00159",
+          "0.00108",
+          "0.00191",
+          "10"
+        ],
+        [
+          "Append.",
+          "Flex P+U + A − Flex P+U",
+          "Log loss",
+          "-0.00613",
+          "-0.00660",
+          "-0.00568",
+          "10"
+        ],
+        [
+          "Append.",
+          "Flex strong + A − Flex strong",
+          "AUC",
+          "0.00069",
+          "0.00051",
+          "0.00090",
+          "10"
+        ],
+        [
+          "Append.",
+          "Flex strong + A − Flex strong",
+          "Log loss",
+          "-0.00078",
+          "-0.00121",
+          "0.00006",
+          "10"
+        ],
+        [
+          "Cesarean",
+          "P+U activity − P+U",
+          "AUC",
+          "-0.00003",
+          "-0.00026",
+          "0.00025",
+          "10"
+        ],
+        [
+          "Cesarean",
+          "P+U activity − P+U",
+          "Log loss",
+          "-0.00353",
+          "-0.00379",
+          "-0.00334",
+          "10"
+        ],
+        [
+          "Cesarean",
+          "P+U+OSM − P+U",
+          "AUC",
+          "0.00051",
+          "0.00026",
+          "0.00072",
+          "10"
+        ],
+        [
+          "Cesarean",
+          "P+U+OSM − P+U",
+          "Log loss",
+          "-0.00202",
+          "-0.00211",
+          "-0.00172",
+          "10"
+        ],
+        [
+          "Cesarean",
+          "Strong + A − Strong",
+          "AUC",
+          "0.00127",
+          "0.00113",
+          "0.00142",
+          "10"
+        ],
+        [
+          "Cesarean",
+          "Strong + A − Strong",
+          "Log loss",
+          "-0.00051",
+          "-0.00061",
+          "-0.00038",
+          "10"
+        ],
+        [
+          "Cesarean",
+          "Flex P+U + A − Flex P+U",
+          "AUC",
+          "0.00008",
+          "-0.00020",
+          "0.00050",
+          "10"
+        ],
+        [
+          "Cesarean",
+          "Flex P+U + A − Flex P+U",
+          "Log loss",
+          "-0.00300",
+          "-0.00326",
+          "-0.00275",
+          "10"
+        ],
+        [
+          "Cesarean",
+          "Flex strong + A − Flex strong",
+          "AUC",
+          "0.00036",
+          "0.00024",
+          "0.00049",
+          "10"
+        ],
+        [
+          "Cesarean",
+          "Flex strong + A − Flex strong",
+          "Log loss",
+          "-0.00033",
+          "-0.00041",
+          "-0.00025",
+          "10"
+        ],
+        [
+          "Chole.",
+          "P+U activity − P+U",
+          "AUC",
+          "0.00090",
+          "0.00067",
+          "0.00108",
+          "10"
+        ],
+        [
+          "Chole.",
+          "P+U activity − P+U",
+          "Log loss",
+          "-0.00446",
+          "-0.00457",
+          "-0.00434",
+          "10"
+        ],
+        [
+          "Chole.",
+          "P+U+OSM − P+U",
+          "AUC",
+          "-0.00015",
+          "-0.00071",
+          "0.00009",
+          "10"
+        ],
+        [
+          "Chole.",
+          "P+U+OSM − P+U",
+          "Log loss",
+          "-0.00023",
+          "-0.00053",
+          "0.00030",
+          "10"
+        ],
+        [
+          "Chole.",
+          "Strong + A − Strong",
+          "AUC",
+          "0.00724",
+          "0.00686",
+          "0.00761",
+          "10"
+        ],
+        [
+          "Chole.",
+          "Strong + A − Strong",
+          "Log loss",
+          "-0.00474",
+          "-0.00505",
+          "-0.00456",
+          "10"
+        ],
+        [
+          "Chole.",
+          "Flex P+U + A − Flex P+U",
+          "AUC",
+          "0.00158",
+          "0.00142",
+          "0.00172",
+          "10"
+        ],
+        [
+          "Chole.",
+          "Flex P+U + A − Flex P+U",
+          "Log loss",
+          "-0.00398",
+          "-0.00420",
+          "-0.00373",
+          "10"
+        ],
+        [
+          "Chole.",
+          "Flex strong + A − Flex strong",
+          "AUC",
+          "0.00198",
+          "0.00182",
+          "0.00220",
+          "10"
+        ],
+        [
+          "Chole.",
+          "Flex strong + A − Flex strong",
+          "Log loss",
+          "-0.00350",
+          "-0.00367",
+          "-0.00338",
+          "10"
+        ]
+      ]
+    },
+    "Table_S19": {
+      "columns": [
+        "Procedure",
+        "eligibility threshold resident AIHS",
+        "Municipalities",
+        "resident AIHS",
+        "Local fraction",
+        "AUC",
+        "Brier",
+        "Log loss"
+      ],
+      "rows": [
+        [
+          "Append.",
+          "1",
+          "5,294",
+          "116,951",
+          "0.61447",
+          "0.92658",
+          "0.08270",
+          "0.29410"
+        ],
+        [
+          "Append.",
+          "5",
+          "3,433",
+          "112,389",
+          "0.63897",
+          "0.91951",
+          "0.08550",
+          "0.30297"
+        ],
+        [
+          "Append.",
+          "10",
+          "2,072",
+          "103,381",
+          "0.69000",
+          "0.90313",
+          "0.08966",
+          "0.31567"
+        ],
+        [
+          "Append.",
+          "20",
+          "1,125",
+          "90,618",
+          "0.76778",
+          "0.86526",
+          "0.09277",
+          "0.32561"
+        ],
+        [
+          "Cesarean",
+          "1",
+          "5,562",
+          "884,624",
+          "0.67641",
+          "0.90104",
+          "0.10144",
+          "0.33891"
+        ],
+        [
+          "Cesarean",
+          "5",
+          "5,443",
+          "884,274",
+          "0.67667",
+          "0.90094",
+          "0.10148",
+          "0.33902"
+        ],
+        [
+          "Cesarean",
+          "10",
+          "5,149",
+          "882,145",
+          "0.67831",
+          "0.90020",
+          "0.10170",
+          "0.33970"
+        ],
+        [
+          "Cesarean",
+          "20",
+          "4,388",
+          "871,208",
+          "0.68669",
+          "0.89639",
+          "0.10283",
+          "0.34337"
+        ],
+        [
+          "Chole.",
+          "1",
+          "5,521",
+          "317,655",
+          "0.60960",
+          "0.88633",
+          "0.12052",
+          "0.38986"
+        ],
+        [
+          "Chole.",
+          "5",
+          "5,040",
+          "316,341",
+          "0.61204",
+          "0.88515",
+          "0.12098",
+          "0.39133"
+        ],
+        [
+          "Chole.",
+          "10",
+          "4,169",
+          "310,261",
+          "0.62375",
+          "0.88001",
+          "0.12288",
+          "0.39682"
+        ],
+        [
+          "Chole.",
+          "20",
+          "2,862",
+          "291,927",
+          "0.65965",
+          "0.86403",
+          "0.12774",
+          "0.40988"
+        ]
+      ]
+    },
+    "Table_S20": {
+      "columns": [
+        "Procedure",
+        "Training n",
+        "Test n",
+        "Activity ΔAUC",
+        "Brier improvement"
+      ],
+      "rows": [
+        [
+          "Chole.",
+          "4,069",
+          "4,169",
+          "0.01157",
+          "0.00675"
+        ],
+        [
+          "Cesarean",
+          "5,169",
+          "5,149",
+          "0.01312",
+          "0.00673"
+        ],
+        [
+          "Append.",
+          "2,050",
+          "2,072",
+          "0.01685",
+          "0.00867"
+        ]
+      ]
+    },
+    "Table_S21": {
+      "columns": [
+        "Procedure",
+        "Model",
+        "n train municipalities",
+        "n test municipalities",
+        "test resident AIHS",
+        "auc",
+        "brier",
+        "log loss"
+      ],
+      "rows": [
+        [
+          "Chole.",
+          "P+U",
+          "5,517",
+          "5,521",
+          "317,655",
+          "0.82556",
+          "0.16338",
+          "0.49319"
+        ],
+        [
+          "Chole.",
+          "P+U+OSM",
+          "5,517",
+          "5,521",
+          "317,655",
+          "0.82588",
+          "0.16320",
+          "0.49267"
+        ],
+        [
+          "Chole.",
+          "P+U activity",
+          "5,517",
+          "5,521",
+          "317,655",
+          "0.82504",
+          "0.16187",
+          "0.48941"
+        ],
+        [
+          "Chole.",
+          "Strong",
+          "5,517",
+          "5,521",
+          "317,655",
+          "0.88055",
+          "0.12083",
+          "0.39517"
+        ],
+        [
+          "Chole.",
+          "Strong + A",
+          "5,517",
+          "5,521",
+          "317,655",
+          "0.88790",
+          "0.11999",
+          "0.39054"
+        ],
+        [
+          "Cesarean",
+          "P+U",
+          "5,558",
+          "5,562",
+          "884,624",
+          "0.83763",
+          "0.14534",
+          "0.45461"
+        ],
+        [
+          "Cesarean",
+          "P+U+OSM",
+          "5,558",
+          "5,562",
+          "884,624",
+          "0.83860",
+          "0.14442",
+          "0.45225"
+        ],
+        [
+          "Cesarean",
+          "P+U activity",
+          "5,558",
+          "5,562",
+          "884,624",
+          "0.83744",
+          "0.14400",
+          "0.45087"
+        ],
+        [
+          "Cesarean",
+          "Strong",
+          "5,558",
+          "5,562",
+          "884,624",
+          "0.90281",
+          "0.10118",
+          "0.33761"
+        ],
+        [
+          "Cesarean",
+          "Strong + A",
+          "5,558",
+          "5,562",
+          "884,624",
+          "0.90436",
+          "0.10091",
+          "0.33700"
+        ],
+        [
+          "Append.",
+          "P+U",
+          "5,262",
+          "5,294",
+          "116,951",
+          "0.85412",
+          "0.14624",
+          "0.45737"
+        ],
+        [
+          "Append.",
+          "P+U+OSM",
+          "5,262",
+          "5,294",
+          "116,951",
+          "0.85473",
+          "0.14595",
+          "0.45650"
+        ],
+        [
+          "Append.",
+          "P+U activity",
+          "5,262",
+          "5,294",
+          "116,951",
+          "0.85553",
+          "0.14375",
+          "0.44974"
+        ],
+        [
+          "Append.",
+          "Strong",
+          "5,262",
+          "5,294",
+          "116,951",
+          "0.92660",
+          "0.08227",
+          "0.29438"
+        ],
+        [
+          "Append.",
+          "Strong + A",
+          "5,262",
+          "5,294",
+          "116,951",
+          "0.92828",
+          "0.08181",
+          "0.29224"
+        ]
+      ]
+    },
+    "Table_S22": {
+      "columns": [
+        "Processing year",
+        "Procedure",
+        "records",
+        "Earlier-year records",
+        "Same-year records",
+        "Missing/invalid",
+        "Earlier-year (%)"
+      ],
+      "rows": [
+        [
+          "2017",
+          "Append.",
+          "113,961",
+          "6,192",
+          "107,769",
+          "0",
+          "5.43344"
+        ],
+        [
+          "2017",
+          "Cesarean",
+          "844,018",
+          "36,758",
+          "807,260",
+          "0",
+          "4.35512"
+        ],
+        [
+          "2017",
+          "Chole.",
+          "201,107",
+          "7,183",
+          "193,924",
+          "0",
+          "3.57173"
+        ],
+        [
+          "2018",
+          "Append.",
+          "116,575",
+          "6,439",
+          "110,136",
+          "0",
+          "5.52348"
+        ],
+        [
+          "2018",
+          "Cesarean",
+          "892,887",
+          "41,972",
+          "850,915",
+          "0",
+          "4.70071"
+        ],
+        [
+          "2018",
+          "Chole.",
+          "218,221",
+          "7,976",
+          "210,245",
+          "0",
+          "3.65501"
+        ],
+        [
+          "2019",
+          "Append.",
+          "122,879",
+          "7,087",
+          "115,792",
+          "0",
+          "5.76746"
+        ],
+        [
+          "2019",
+          "Cesarean",
+          "899,259",
+          "42,801",
+          "856,458",
+          "0",
+          "4.75959"
+        ],
+        [
+          "2019",
+          "Chole.",
+          "225,703",
+          "8,002",
+          "217,701",
+          "0",
+          "3.54537"
+        ],
+        [
+          "2023",
+          "Append.",
+          "115,432",
+          "8,140",
+          "107,292",
+          "0",
+          "7.05177"
+        ],
+        [
+          "2023",
+          "Cesarean",
+          "902,457",
+          "44,319",
+          "858,138",
+          "0",
+          "4.91093"
+        ],
+        [
+          "2023",
+          "Chole.",
+          "304,757",
+          "11,529",
+          "293,228",
+          "0",
+          "3.78301"
+        ],
+        [
+          "2024",
+          "Append.",
+          "116,956",
+          "7,808",
+          "109,148",
+          "0",
+          "6.67601"
+        ],
+        [
+          "2024",
+          "Cesarean",
+          "884,677",
+          "42,819",
+          "841,858",
+          "0",
+          "4.84007"
+        ],
+        [
+          "2024",
+          "Chole.",
+          "317,670",
+          "11,152",
+          "306,518",
+          "0",
+          "3.51056"
+        ]
+      ]
+    },
+    "Table_S23": {
+      "columns": [
+        "Record subset",
+        "Outcome",
+        "Procedure",
+        "Strong AUC",
+        "+Activity AUC",
+        "AUC increment",
+        "Strong log loss",
+        "+Activity log loss"
+      ],
+      "rows": [
+        [
+          "processing",
+          "binary",
+          "Append.",
+          "0.96204",
+          "0.96768",
+          "0.00565",
+          "0.23853",
+          "0.22918"
+        ],
+        [
+          "processing",
+          "binary",
+          "Cesarean",
+          "0.97151",
+          "0.97118",
+          "-0.00034",
+          "0.19866",
+          "0.19864"
+        ],
+        [
+          "processing",
+          "binary",
+          "Chole.",
+          "0.94896",
+          "0.94991",
+          "0.00096",
+          "0.26379",
+          "0.25879"
+        ],
+        [
+          "processing",
+          "denominator",
+          "Append.",
+          "0.92660",
+          "0.92828",
+          "0.00168",
+          "0.29438",
+          "0.29224"
+        ],
+        [
+          "processing",
+          "denominator",
+          "Cesarean",
+          "0.90281",
+          "0.90436",
+          "0.00155",
+          "0.33761",
+          "0.33700"
+        ],
+        [
+          "processing",
+          "denominator",
+          "Chole.",
+          "0.88055",
+          "0.88790",
+          "0.00735",
+          "0.39517",
+          "0.39054"
+        ],
+        [
+          "same admission",
+          "binary",
+          "Append.",
+          "0.96179",
+          "0.96780",
+          "0.00600",
+          "0.23966",
+          "0.22896"
+        ],
+        [
+          "same admission",
+          "binary",
+          "Cesarean",
+          "0.97108",
+          "0.97069",
+          "-0.00040",
+          "0.20035",
+          "0.20033"
+        ],
+        [
+          "same admission",
+          "binary",
+          "Chole.",
+          "0.94835",
+          "0.94926",
+          "0.00091",
+          "0.26579",
+          "0.26092"
+        ],
+        [
+          "same admission",
+          "denominator",
+          "Append.",
+          "0.92551",
+          "0.92739",
+          "0.00188",
+          "0.29623",
+          "0.29379"
+        ],
+        [
+          "same admission",
+          "denominator",
+          "Cesarean",
+          "0.90236",
+          "0.90390",
+          "0.00155",
+          "0.33739",
+          "0.33676"
+        ],
+        [
+          "same admission",
+          "denominator",
+          "Chole.",
+          "0.87971",
+          "0.88716",
+          "0.00745",
+          "0.39667",
+          "0.39197"
+        ]
+      ]
+    }
+  }
+}

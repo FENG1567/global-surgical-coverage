@@ -1,0 +1,20 @@
+from pathlib import Path
+
+root=Path('__PROJECT_ROOT__/upgrade_20261112')
+source=(root/'code/certify_rerun.py').read_text(encoding='utf8')
+source=source.replace("'upgrade_20261112/derived/certification'","'upgrade_20261112/derived/certification_full_population_v2'")
+source=source.replace('T = dijkstra(g, indices=nodes)', 'T = dijkstra(g, indices=nodes, limit=TAU)')
+source=source.replace('DETAILS = []',"DETAILS = []\nSCOPE=pd.read_csv(Path(BASE)/'upgrade_20261112/derived/country_scope/population_and_bounds.csv').set_index('iso3')")
+source=source.replace('todo = [iso for iso, n in counts.items() if 8 <= n <= NMAX and iso in idxmap]',"todo = ['BHS','ERI','GRL','PYF','SYC']")
+source=source.replace('fr = FR[r0:r1, c0:c1].astype(np.float64)', '''scope=SCOPE.loc[iso]
+        r0=min(r0,max(0,int(scope.r0)-240));r1=max(r1,min(NR,int(scope.r1)+240))
+        c0=min(c0,max(0,int(scope.c0)-240));c1=max(c1,min(NC,int(scope.c1)+240))
+        print('FULL_POPULATION_WINDOW',iso,r1-r0,c1-c0,(r1-r0)*(c1-c0),flush=True)
+        fr = FR[r0:r1, c0:c1].astype(np.float64)''')
+source=source.replace('if H * W > 12_000_000:', 'if H * W > 30_000_000:')
+source=source.replace("'original facility extent plus 2 degrees, masked to country; whole-country completeness to be checked separately'", "'entire raster country extent plus 2 degrees, includes all masked country population'")
+source=source.replace('int(ni),', 'int(ni),')
+source=source.replace('out.append(rec)', '''out.append(rec)
+        pd.DataFrame(out).to_csv(OUT/'certified_many_rerun.csv',index=False)
+        (OUT/'endpoint_details.json').write_text(json.dumps(DETAILS,indent=2))''')
+(root/'code/certify_full_population.py').write_text(source,encoding='utf8')

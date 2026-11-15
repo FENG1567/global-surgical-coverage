@@ -1,0 +1,71 @@
+{
+  "objective": "predict any local resident procedure AIH among municipalities with at least 10 resident procedure AIHs",
+  "temporal_split": "train on source processing year 2023 and test on source processing year 2024; this is not an admission-calendar-year holdout",
+  "outcome_definition": "one when local resident AIH count is greater than zero; municipality-year outcome aggregated from repeated AIH records",
+  "models": [
+    "population_urban",
+    "population_urban_OSM",
+    "population_urban_activity",
+    "strong_baseline",
+    "strong_baseline_plus_activity"
+  ],
+  "comparisons": [
+    "population_urban_OSM minus population_urban",
+    "population_urban_activity minus population_urban",
+    "strong_baseline_plus_activity minus strong_baseline"
+  ],
+  "metrics": "absolute municipal AUC, Brier score, log loss, and predicted positive probability sum",
+  "grouped_binomial_models": [
+    "population_urban",
+    "population_urban_OSM",
+    "population_urban_activity",
+    "strong_baseline",
+    "strong_baseline_plus_activity"
+  ],
+  "grouped_binomial_thresholds": [
+    1,
+    10
+  ],
+  "uncertainty": "paired percentile intervals resampling whole two-degree blocks in the 2024 test set; these are conditional intervals, not confidence intervals over records or all municipalities",
+  "features": {
+    "population_urban": "log1p(GHSL2025 municipality population) and urban population fraction",
+    "population_urban_OSM": "population_urban plus 30-minute OSM facility access",
+    "population_urban_activity": "population_urban plus 2017-2019 service-active facility access",
+    "strong_baseline": "population_urban plus prior local treatment presence and log1p prior volume",
+    "strong_baseline_plus_activity": "strong_baseline plus 2017-2019 service-active facility access"
+  },
+  "outcome_path": "__PROJECT_ROOT__/upgrade_20261112/derived/bmc_revision_20261113/prediction/same_year_admission_municipality_outcomes.csv",
+  "feature_sources": [
+    {
+      "source_role": "municipality_population",
+      "path": "__PROJECT_ROOT__/upgrade_20261112/derived/brazil_spatial_v1/municipality_population.csv"
+    },
+    {
+      "source_role": "candidate_facilities",
+      "path": "__PROJECT_ROOT__/upgrade_20261112/derived/brazil_spatial_v1/candidate_facilities_with_local_pop.csv"
+    },
+    {
+      "source_role": "coordinates",
+      "path": "__BRAZIL_SOURCE_ROOT__/01_data/interim/municipios_master.csv"
+    },
+    {
+      "source_role": "chole_historical_exposure",
+      "path": "__PROJECT_ROOT__/upgrade_20261112/derived/brazil_spatial_v1/chole_prior_municipality.csv"
+    },
+    {
+      "source_role": "cesarean_historical_exposure",
+      "path": "__PROJECT_ROOT__/upgrade_20261112/derived/brazil_spatial_v1/cesarean_prior_municipality.csv"
+    },
+    {
+      "source_role": "appendectomy_historical_exposure",
+      "path": "__PROJECT_ROOT__/upgrade_20261112/derived/brazil_spatial_v1/appendectomy_prior_municipality.csv"
+    }
+  ],
+  "executables": {
+    "temporal_extension_sha256": "dd1a7d5da977ebff6a44630387330bd5c43587d44591e69cc9942a2bc8645723",
+    "prediction_helper_sha256": "9b282d9c054e48c65882179c36e66457e9dd8963d7f161b7b083852ad86e9a06"
+  },
+  "outcome_input_sha256": "351cc7cd3a786e6fb18ebab2241e59eb7f4a1e48c99b645f2259313f68c74c4b",
+  "n_bootstrap_replicates": 200,
+  "seed": 20261111
+}

@@ -1,0 +1,13 @@
+ISO3,Initial information,Audit order,Remaining width (pp)
+BLZ,count_and_exact_q,largest_catchment,3.443
+BLZ,count_and_exact_q,random,2.457
+BLZ,count_only,largest_catchment,5.318
+BLZ,count_only,random,3.445
+DJI,count_and_exact_q,largest_catchment,7.640
+DJI,count_and_exact_q,random,1.704
+DJI,count_only,largest_catchment,8.124
+DJI,count_only,random,2.649
+GNB,count_and_exact_q,largest_catchment,0.483
+GNB,count_and_exact_q,random,5.073
+GNB,count_only,largest_catchment,0.483
+GNB,count_only,random,6.564

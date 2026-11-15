@@ -1,0 +1,49 @@
+service,threshold_resident_AIHS,group,municipalities,resident_AIHS,local_AIHS,observed_local_rate,outcome_interpretation
+chole,1,no_record_outcome_unknown,49,,,,no record means unknown and is never assigned a zero outcome
+chole,1,recorded_below_threshold,0,,,,observed resident procedure records
+chole,1,threshold_met_missing_spatial_covariates,0,,,,observed resident procedure records
+chole,1,included_in_spatial_validation,5521,317655.0,193641.0,0.6095953156726638,observed resident procedure records
+chole,5,no_record_outcome_unknown,49,,,,no record means unknown and is never assigned a zero outcome
+chole,5,recorded_below_threshold,481,1314.0,27.0,0.02054794520547945,observed resident procedure records
+chole,5,threshold_met_missing_spatial_covariates,0,,,,observed resident procedure records
+chole,5,included_in_spatial_validation,5040,316341.0,193614.0,0.612042068527317,observed resident procedure records
+chole,10,no_record_outcome_unknown,49,,,,no record means unknown and is never assigned a zero outcome
+chole,10,recorded_below_threshold,1352,7394.0,117.0,0.01582364078982959,observed resident procedure records
+chole,10,threshold_met_missing_spatial_covariates,0,,,,observed resident procedure records
+chole,10,included_in_spatial_validation,4169,310261.0,193524.0,0.623745814008206,observed resident procedure records
+chole,20,no_record_outcome_unknown,49,,,,no record means unknown and is never assigned a zero outcome
+chole,20,recorded_below_threshold,2659,25728.0,1072.0,0.041666666666666664,observed resident procedure records
+chole,20,threshold_met_missing_spatial_covariates,0,,,,observed resident procedure records
+chole,20,included_in_spatial_validation,2862,291927.0,192569.0,0.6596477886594937,observed resident procedure records
+cesarean,1,no_record_outcome_unknown,8,,,,no record means unknown and is never assigned a zero outcome
+cesarean,1,recorded_below_threshold,0,,,,observed resident procedure records
+cesarean,1,threshold_met_missing_spatial_covariates,0,,,,observed resident procedure records
+cesarean,1,included_in_spatial_validation,5562,884624.0,598367.0,0.6764082819367324,observed resident procedure records
+cesarean,5,no_record_outcome_unknown,8,,,,no record means unknown and is never assigned a zero outcome
+cesarean,5,recorded_below_threshold,119,350.0,1.0,0.002857142857142857,observed resident procedure records
+cesarean,5,threshold_met_missing_spatial_covariates,0,,,,observed resident procedure records
+cesarean,5,included_in_spatial_validation,5443,884274.0,598366.0,0.6766748767915827,observed resident procedure records
+cesarean,10,no_record_outcome_unknown,8,,,,no record means unknown and is never assigned a zero outcome
+cesarean,10,recorded_below_threshold,413,2479.0,1.0,0.0004033884630899556,observed resident procedure records
+cesarean,10,threshold_met_missing_spatial_covariates,0,,,,observed resident procedure records
+cesarean,10,included_in_spatial_validation,5149,882145.0,598366.0,0.6783079879158188,observed resident procedure records
+cesarean,20,no_record_outcome_unknown,8,,,,no record means unknown and is never assigned a zero outcome
+cesarean,20,recorded_below_threshold,1174,13416.0,116.0,0.0086463923673226,observed resident procedure records
+cesarean,20,threshold_met_missing_spatial_covariates,0,,,,observed resident procedure records
+cesarean,20,included_in_spatial_validation,4388,871208.0,598251.0,0.6866913526964858,observed resident procedure records
+appendectomy,1,no_record_outcome_unknown,276,,,,no record means unknown and is never assigned a zero outcome
+appendectomy,1,recorded_below_threshold,0,,,,observed resident procedure records
+appendectomy,1,threshold_met_missing_spatial_covariates,0,,,,observed resident procedure records
+appendectomy,1,included_in_spatial_validation,5294,116951.0,71863.0,0.6144710177766757,observed resident procedure records
+appendectomy,5,no_record_outcome_unknown,276,,,,no record means unknown and is never assigned a zero outcome
+appendectomy,5,recorded_below_threshold,1861,4562.0,50.0,0.010960105217010083,observed resident procedure records
+appendectomy,5,threshold_met_missing_spatial_covariates,0,,,,observed resident procedure records
+appendectomy,5,included_in_spatial_validation,3433,112389.0,71813.0,0.6389682264278532,observed resident procedure records
+appendectomy,10,no_record_outcome_unknown,276,,,,no record means unknown and is never assigned a zero outcome
+appendectomy,10,recorded_below_threshold,3222,13570.0,530.0,0.039056742815033164,observed resident procedure records
+appendectomy,10,threshold_met_missing_spatial_covariates,0,,,,observed resident procedure records
+appendectomy,10,included_in_spatial_validation,2072,103381.0,71333.0,0.6900010640253045,observed resident procedure records
+appendectomy,20,no_record_outcome_unknown,276,,,,no record means unknown and is never assigned a zero outcome
+appendectomy,20,recorded_below_threshold,4169,26333.0,2288.0,0.08688717578703528,observed resident procedure records
+appendectomy,20,threshold_met_missing_spatial_covariates,0,,,,observed resident procedure records
+appendectomy,20,included_in_spatial_validation,1125,90618.0,69575.0,0.7677834425831512,observed resident procedure records

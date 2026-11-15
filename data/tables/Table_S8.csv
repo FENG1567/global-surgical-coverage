@@ -1,0 +1,9 @@
+Country,Facility definition,Total (%),Urban (%),Rural (%)
+BRA,OSM hospital,89.49,96.09,67.01
+BRA,CNES registered,93.77,99.24,75.14
+BRA,CNES surgical centre,92.86,98.88,72.37
+BRA,CNES chole >=1,85.84,94.82,55.21
+BRA,CNES chole >=10,84.63,93.97,52.79
+FRA,OSM hospital,96.24,95.76,97.01
+FRA,SAE any theatre,96.70,99.66,92.08
+FRA,SAE 24h theatre,92.75,98.05,84.47

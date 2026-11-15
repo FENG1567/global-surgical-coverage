@@ -1,0 +1,13 @@
+service,threshold,municipalities,resident_AIHS,observed_local_AIHS,observed_local_rate,rate_block_bootstrap_p025,rate_block_bootstrap_p975,uncertainty_interpretation
+chole,1,5521,317655,193641,0.6095953156726638,0.5626332977400362,0.6508658805847601,percentile interval from resampling whole 2-degree municipality blocks
+chole,5,5040,316341,193614,0.612042068527317,0.5585425215214557,0.6525994052896257,percentile interval from resampling whole 2-degree municipality blocks
+chole,10,4169,310261,193524,0.623745814008206,0.5711647063144593,0.6706857850646106,percentile interval from resampling whole 2-degree municipality blocks
+chole,20,2862,291927,192569,0.6596477886594937,0.6106154336306687,0.6966954262564927,percentile interval from resampling whole 2-degree municipality blocks
+cesarean,1,5562,884624,598367,0.6764082819367324,0.6236882226252243,0.7249965087376787,percentile interval from resampling whole 2-degree municipality blocks
+cesarean,5,5443,884274,598366,0.6766748767915827,0.6227398047812016,0.7232123129802022,percentile interval from resampling whole 2-degree municipality blocks
+cesarean,10,5149,882145,598366,0.6783079879158188,0.6299492735016944,0.7268707739136705,percentile interval from resampling whole 2-degree municipality blocks
+cesarean,20,4388,871208,598251,0.6866913526964858,0.6424155976734867,0.723098217990215,percentile interval from resampling whole 2-degree municipality blocks
+appendectomy,1,5294,116951,71863,0.6144710177766757,0.5660703656187492,0.6677426490395882,percentile interval from resampling whole 2-degree municipality blocks
+appendectomy,5,3433,112389,71813,0.6389682264278532,0.5743942111674712,0.6763720334419384,percentile interval from resampling whole 2-degree municipality blocks
+appendectomy,10,2072,103381,71333,0.6900010640253045,0.6496904787549551,0.7289352788154984,percentile interval from resampling whole 2-degree municipality blocks
+appendectomy,20,1125,90618,69575,0.7677834425831512,0.7310478369760303,0.7967495069160475,percentile interval from resampling whole 2-degree municipality blocks

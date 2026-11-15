@@ -1,0 +1,19 @@
+{
+  "status": "complete",
+  "created_at_utc": "2026-11-13T10:03:25+00:00",
+  "selection_regenerated_from_manifest_seed": 20261113,
+  "dijkstra_run": false,
+  "audit_scenario_count": 84,
+  "m1_scenario_count": 30,
+  "m2_scenario_count": 54,
+  "selection_hash_matches": 84,
+  "selection_hash_failures": 0,
+  "budget_and_saved_count_failures": 0,
+  "duplicate_id_scenarios": 0,
+  "unique_source_pixel_failures": 0,
+  "group_quota_cells_checked": 6716,
+  "group_quota_cell_failures": 0,
+  "scenario_failures": 0,
+  "cnes_source_rows_scanned": 642268,
+  "id_handling": "facility CNES identifiers were used in-memory to recreate SHA-256 selection hashes; raw identifiers were not written to audit outputs"
+}

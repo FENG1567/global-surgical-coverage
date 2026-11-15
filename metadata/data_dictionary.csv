@@ -1,0 +1,28 @@
+field,definition,unit
+m6,Six-digit Brazilian residence municipality code; read as a string,identifier
+service,chole=cholecystectomy; cesarean=cesarean delivery; appendectomy=appendectomy,category
+n,Observed resident procedure AIH records,record count
+local,Observed AIH records treated in the residence municipality,record count
+has_local,At least one local AIH record,0/1
+pop,Sum of GHSL2025 population in rasterized municipality cells,persons
+urban_population,SMOD-urban GHSL population in municipality,persons
+urban_share,urban_population/pop,fraction
+D1_osm,Population fraction within modeled 30 min of an OSM hospital,fraction
+D2_act_pre,Population fraction within 30 min of any linked procedure-active facility in the 2017–2019 union,fraction
+prior_treatment_count,2017–2019 AIH volume grouped by candidate registered municipality,record count
+prior_local_service,prior_treatment_count > 0,0/1
+logpop,log1p(pop),transformed
+log_prior_treatment_count,log1p(prior_treatment_count),transformed
+latitude,Municipality centroid latitude,degrees
+longitude,Municipality centroid longitude,degrees
+block_id,Two-degree spatial-block identifier,identifier
+repartition,Zero-based repeated spatial partition,index
+fold,Held-out fold identifier,index
+threshold,Minimum observed resident AIH count for model inclusion,record count
+facility_idx,Zero-based facility row index in the fixed candidate snapshot; not stable across new OSM downloads,identifier
+iso3,ISO 3166-1 alpha-3 code,identifier
+k_c,Fixed number selected in country c,facility count
+q,Facility-weighted share above the country candidate local-population median,fraction
+auc,Record-weighted discrimination for denominator models; municipality-level for binary models,unitless
+brier,Brier probability score under the stated weighting,unitless
+log_loss,Natural-log probability loss under the stated weighting,unitless

@@ -1,0 +1,6 @@
+country,folder,service,threshold_minutes,population_group,n_candidates,k,n_feasible_constructions,low_percent,high_percent,width_lower_bound_pp,min_scenario,max_scenario
+BRA,brazil_state_constraints,appendectomy,30,all,8444,1697,9,50.38492999126778,81.43131222661265,31.046382235344872,appendectomy_state_joint_cluster_05,appendectomy_observed
+BRA,brazil_state_constraints,cesarean,30,all,8444,2050,9,56.07581919903267,86.844287037352,30.76846783831933,cesarean_state_joint_cluster_02,cesarean_observed
+BRA,brazil_state_constraints,chole,30,all,8444,2292,9,59.5822223142417,85.83181239883125,26.24959008458956,chole_state_joint_cluster_00,chole_observed
+MEX,mexico_state_constraints,cesarean,30,all,845,760,9,87.99480021222034,90.28110442993078,2.286304217710444,cesarean_state_joint_cluster_01,cesarean_observed
+MEX,mexico_state_constraints,chole,30,all,845,613,9,81.55240250906756,87.78413098255055,6.231728473482978,chole_state_joint_cluster_04,chole_observed

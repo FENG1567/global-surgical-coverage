@@ -1,0 +1,6 @@
+﻿processing_year,expected_month_state_files,observed_successful_files,observed_states,missing_state_month_pairs,duplicate_state_month_pairs,complete_27_states_x_12_months
+2017,324,324,27,0,0,True
+2018,324,324,27,0,0,True
+2019,324,324,27,0,0,True
+2023,324,324,27,0,0,True
+2024,324,324,27,0,0,True

@@ -1,0 +1,17 @@
+{
+  "truths_per_country": 100,
+  "seed": 20261112,
+  "paired_random_orders_across_information_priors": true,
+  "truth_generation": "uniform random fixed-count subsets, simulated labels on real facility and population geometry",
+  "fractions": [
+    0,
+    0.1,
+    0.2,
+    0.4,
+    0.6
+  ],
+  "nested_revelation": true,
+  "targeted_strategy": "descending catchment population using geometry only, no hidden label information",
+  "exact_endpoints": "all fixed-k subsets enumerated; coverage pattern aggregation retains total country population",
+  "meaning": "model-conditional simulation of information acquisition, no measured registry truth or monetary utility"
+}

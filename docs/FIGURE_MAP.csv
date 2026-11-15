@@ -1,0 +1,11 @@
+figure,source_csv_relative_to_data_figure_sources,reproduction_entrypoint,active_plotting_source
+Figure_1,Figure_1_source_data.csv,scripts/reproduce_figures.py,code/analysis/plotting/layout/reader_main_1_3.py
+Figure_2,Figure_2_original_assignments.csv;Figure_2_budget_sensitivity.csv;Figure_2_country_exact_composition.csv,scripts/reproduce_figures.py,code/analysis/plotting/layout/reader_main_1_3.py
+Figure_3,Figure_3_source_data.csv,scripts/reproduce_figures.py,code/analysis/plotting/layout/reader_main_1_3.py
+Figure_4,Figure_4_source_data.csv,scripts/reproduce_figures.py,code/analysis/plotting/layout/reader_main_4_6.py
+Figure_5,Figure_5_spatial_source_data.csv;Figure_5_temporal_source_data.csv,scripts/reproduce_figures.py,code/analysis/plotting/layout/reader_main_4_6.py
+Figure_6,Figure_6_errors_source_data.csv;Figure_6_rank_source_data.csv,scripts/reproduce_figures.py,code/analysis/plotting/layout/reader_main_4_6.py
+Figure_S1,information_value_panel_source.csv;../exact_cases/exhaustive_endpoints.csv,scripts/reproduce_figures.py,code/analysis/plotting/layout/reader_supplement.py
+Figure_S2,validation_panel_source.csv;mexico_panel_source.csv,scripts/reproduce_figures.py,code/analysis/plotting/layout/reader_supplement.py
+Figure_S3,brazil_panel_source.csv;multiservice_validation_panel_source.csv,scripts/reproduce_figures.py,code/analysis/plotting/layout/reader_supplement.py
+Figure_S4,state_constraint_panel_source.csv;strong_baseline_panel_source.csv;multiservice_validation_panel_source.csv;temporal_validation.csv,scripts/reproduce_figures.py,code/analysis/plotting/layout/reader_supplement.py

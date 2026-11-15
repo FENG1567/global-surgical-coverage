@@ -1,0 +1,47 @@
+{
+  "run_started_utc": "2026-11-13T08:56:59+00:00",
+  "run_finished_utc": "2026-11-13T11:08:01+00:00",
+  "input_files_discovered": 1620,
+  "input_files_successful": 1620,
+  "processing_year_order": [
+    2023,
+    2024,
+    2017,
+    2018,
+    2019
+  ],
+  "count_unit": "selected paid AIH records in source processing-year DBCs; no person-level deduplication",
+  "source_ano_cmpt_mismatch_selected_records": 0,
+  "saved_aggregate_reconciliation": [
+    {
+      "aggregate": "hospital",
+      "saved_path": "F:\\分析专用\\global_surg_access_20261108\\upgrade_20261112\\derived\\brazil\\hospital_annual_2017_2018_2019_2023_2024.csv",
+      "status": "compared",
+      "actual_groups": 29893,
+      "saved_groups": 29893,
+      "matched_key_groups": 29893,
+      "actual_only_groups": 0,
+      "saved_only_groups": 0,
+      "groups_with_value_mismatch": 0,
+      "absolute_difference_sum_by_value": {
+        "n": 0
+      }
+    },
+    {
+      "aggregate": "municipality",
+      "saved_path": "F:\\分析专用\\global_surg_access_20261108\\upgrade_20261112\\derived\\brazil\\municipality_annual_2017_2018_2019_2023_2024.csv",
+      "status": "compared",
+      "actual_groups": 81512,
+      "saved_groups": 81512,
+      "matched_key_groups": 81512,
+      "actual_only_groups": 0,
+      "saved_only_groups": 0,
+      "groups_with_value_mismatch": 0,
+      "absolute_difference_sum_by_value": {
+        "n": 0,
+        "local": 0
+      }
+    }
+  ],
+  "all_years_complete_27x12": true
+}

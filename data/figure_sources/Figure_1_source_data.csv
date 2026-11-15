@@ -1,0 +1,29 @@
+source_panel,defn,thr_min,all,urban,rural,series_label,D1_urban_minus_rural_pp,source_file
+threshold curves,D0u,15,0.753851592540741,0.8362536430358887,0.479891836643219,Any health facility (D0u),,work/threshold_curve.csv
+threshold curves,D0u,30,0.8752189874649048,0.9282521605491638,0.698935329914093,Any health facility (D0u),,work/threshold_curve.csv
+threshold curves,D0u,45,0.9245665669441224,0.9621161818504332,0.7997650504112244,Any health facility (D0u),,work/threshold_curve.csv
+threshold curves,D0u,60,0.9489253163337708,0.9767292141914368,0.8565290570259094,Any health facility (D0u),,work/threshold_curve.csv
+threshold curves,D0u,90,0.9717976450920104,0.9883504509925842,0.916808009147644,Any health facility (D0u),,work/threshold_curve.csv
+threshold curves,D0u,120,0.9822051525115968,0.9931158423423768,0.9459718465805054,Any health facility (D0u),,work/threshold_curve.csv
+threshold curves,D0u,180,0.9914332628250122,0.9970924258232116,0.9726452827453612,Any health facility (D0u),,work/threshold_curve.csv
+threshold curves,D1,15,0.7155083417892456,0.8075582385063171,0.4094836115837097,OSM hospital (D1),39.80746269226074,work/threshold_curve.csv
+threshold curves,D1,30,0.8504945635795593,0.9105269908905028,0.6509531736373901,OSM hospital (D1),25.95738172531127,work/threshold_curve.csv
+threshold curves,D1,45,0.9073761701583862,0.9501969814300536,0.7650638818740845,OSM hospital (D1),18.513309955596913,work/threshold_curve.csv
+threshold curves,D1,60,0.9358376264572144,0.9676745533943176,0.8300478458404541,OSM hospital (D1),13.762670755386353,work/threshold_curve.csv
+threshold curves,D1,90,0.9634113311767578,0.9821881055831908,0.9010432362556458,OSM hospital (D1),8.114486932754506,work/threshold_curve.csv
+threshold curves,D1,120,0.975809633731842,0.9878178238868712,0.9359434247016908,OSM hospital (D1),5.187439918518044,work/threshold_curve.csv
+threshold curves,D1,180,0.9867902398109436,0.9924901723861694,0.9678802490234376,OSM hospital (D1),2.4609923362731823,work/threshold_curve.csv
+threshold curves,D2meas_corr,15,0.6752349138259888,0.777212917804718,0.3361955881118774,Budget + local-population filter,,work/threshold_curve.csv
+threshold curves,D2meas_corr,30,0.8217679262161255,0.8913788795471191,0.5903898477554321,Budget + local-population filter,,work/threshold_curve.csv
+threshold curves,D2meas_corr,45,0.8901432752609253,0.9400157928466796,0.7243982553482056,Budget + local-population filter,,work/threshold_curve.csv
+threshold curves,D2meas_corr,60,0.9249208569526672,0.962050199508667,0.8015443682670593,Budget + local-population filter,,work/threshold_curve.csv
+threshold curves,D2meas_corr,90,0.9572408199310304,0.9792121648788452,0.8842566013336182,Budget + local-population filter,,work/threshold_curve.csv
+threshold curves,D2meas_corr,120,0.971928060054779,0.986035406589508,0.9250885248184204,Budget + local-population filter,,work/threshold_curve.csv
+threshold curves,D2meas_corr,180,0.9848491549491882,0.9915434122085572,0.9626393914222716,Budget + local-population filter,,work/threshold_curve.csv
+threshold curves,D1walk,15,0.2618067562580108,0.331916332244873,0.0286990478634834,Walking (D1walk; separate mode),,work/threshold_curve.csv
+threshold curves,D1walk,30,0.3943172395229339,0.4940333962440491,0.0627473443746566,Walking (D1walk; separate mode),,work/threshold_curve.csv
+threshold curves,D1walk,45,0.4786030054092407,0.5901185274124146,0.1077926531434059,Walking (D1walk; separate mode),,work/threshold_curve.csv
+threshold curves,D1walk,60,0.5390306115150452,0.6529390811920166,0.1602686792612075,Walking (D1walk; separate mode),,work/threshold_curve.csv
+threshold curves,D1walk,90,0.6246753931045532,0.732119083404541,0.2674160897731781,Walking (D1walk; separate mode),,work/threshold_curve.csv
+threshold curves,D1walk,120,0.6899325847625732,0.7861275672912598,0.3700867891311645,Walking (D1walk; separate mode),,work/threshold_curve.csv
+threshold curves,D1walk,180,0.7795307636260986,0.8535752892494202,0.5333552956581116,Walking (D1walk; separate mode),,work/threshold_curve.csv

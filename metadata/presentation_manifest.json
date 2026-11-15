@@ -1,0 +1,198 @@
+{
+  "candidate": "GSA-FIGURE-READER-20261115-R5",
+  "date": "2026-11-15",
+  "scope": "reader-facing figure labels, legends and layout; scientific source values unchanged",
+  "figures": [
+    {
+      "figure": "Figure_1",
+      "width_mm": 183,
+      "height_mm": 136,
+      "all_text_Arial_Bold": true,
+      "panel_points": 18,
+      "minimum_pdf_points": 8.5,
+      "scientific_coordinates_unchanged": true,
+      "artist_signature": {
+        "sha256": "cf31b32cec3753ca8a68e72ba5ad83fc9bf82cf1e4eb3085770fd2d6bd3a3167",
+        "lines": 7,
+        "collections": 3,
+        "patches": 0
+      },
+      "outside": 0,
+      "text_overlaps": 0,
+      "TIFF": "RGB 600dpi LZW",
+      "pdf_text": "15\n30\n45\n60\n90\n120\n180\nTravel-time threshold (min)\n0\n20\n40\n60\n80\n100\nPopulation coverage (%)\nPopulation coverage across facility definitions and modes\nAny health facility\nOSM hospitals\nBudget + local population\nWalking mode\n15\n30\n45\n60\n90\n120\n180\nTravel-time threshold (min)\n0\n20\n40\n60\n80\n100\nPopulation coverage (%)\n15 min: 39.8 pp\n30 min: 26.0 pp\n120 min: 5.2 pp\nOSM hospitals: urban and rural coverage\nUrban\nRural\nA\nB\n"
+    },
+    {
+      "figure": "Figure_2",
+      "width_mm": 183,
+      "height_mm": 155,
+      "all_text_Arial_Bold": true,
+      "panel_points": 18,
+      "minimum_pdf_points": 8.5,
+      "scientific_coordinates_unchanged": true,
+      "artist_signature": {
+        "sha256": "2aef1803880f4f1dad5f3a47092d0ce74e62298bee19ce50e98d33a9355b6b71",
+        "lines": 8,
+        "collections": 20,
+        "patches": 0
+      },
+      "outside": 0,
+      "text_overlaps": 0,
+      "TIFF": "RGB 600dpi LZW",
+      "pdf_text": "80\n85\n90\n30-minute coverage (%)\nRandom\nHigh local-pop.\nLow local-pop.\nClustered\n83.98%\n82.58%\n84.51%\n78.39%\nFour central-budget\nconfigurations\n70\n75\n80\n85\n30-minute population coverage (%)\nlower\ncentral\nupper\n12.30 pp\n4.70 pp\n1.97 pp\nPaired budget sensitivity:\n30 min\n95.5\n96.0\n96.5\n97.0\n97.5\n98.0\n120-minute population coverage (%)\nlower\ncentral\nupper\n1.57 pp\n0.63 pp\n0.26 pp\nPaired budget sensitivity:\n120 min\n60\n70\n80\n90\n100\nPopulation coverage (%)\n30 min\n120 min\n4.41 pp\n0.53 pp\nExact country-composition\npairs\nA: random\u2013clustered difference = 5.58 pp.\nA\nB\nC\nD\nRandom\nHigh local-pop.\nLow local-pop.\nClustered\n"
+    },
+    {
+      "figure": "Figure_3",
+      "width_mm": 183,
+      "height_mm": 196,
+      "all_text_Arial_Bold": true,
+      "panel_points": 18,
+      "minimum_pdf_points": 8.5,
+      "scientific_coordinates_unchanged": true,
+      "artist_signature": {
+        "sha256": "72aff803b9b494f331819df52adef84eaf74b0fb93b1d5bdab80774adc1bf818",
+        "lines": 3,
+        "collections": 2,
+        "patches": 27
+      },
+      "outside": 0,
+      "text_overlaps": 0,
+      "TIFF": "RGB 600dpi LZW",
+      "pdf_text": "0\n10\n20\n30\n40\nMaximum \u2212 minimum coverage (pp)\nComoros (COM)\nEritrea (ERI)\nGreenland (GRL)\nSolomon Islands (SLB)\nTonga (TON)\nGuinea-Bissau (GNB)\nVanuatu (VUT)\nBelize (BLZ)\nSamoa (WSM)\nMicronesia (FSM)\nIceland (ISL)\nDjibouti (DJI)\nSuriname (SUR)\nFrench Polynesia (PYF)\nNew Caledonia (NCL)\nBrunei (BRN)\nLuxembourg (LUX)\nSaint Lucia (LCA)\nBahamas (BHS)\nEquatorial Guinea (GNQ)\nS\u00e3o Tom\u00e9 and Pr\u00edncipe (STP)\nDominica (DMA)\nSeychelles (SYC)\nBarbados (BRB)\nCura\u00e7ao (CUW)\nAndorra (AND)\nMalta (MLT)\nMedian 4.06 pp\n90th percentile 23.60 pp\n30-minute coverage ranges by country\n30\n50\n70\n90\n100\nAll-facility coverage (%)\n0\n10\n20\n30\n40\nCoverage range (pp)\nSpearman \u03c1 = -0.77\nCoverage and width\n\u221230\n\u221215\n0\n15\n30\nC(u=0) \u2212 C(u=1) (pp)\n0\n25\n50\n75\n100\nSorted country rank (%)\nCentral African\nRepublic (CAF)\n\u221229.1 pp\nEswatini (SWZ)\n+19.5 pp\nAllocation contrast\n(162 countries)\nA\nB\nC\n"
+    },
+    {
+      "figure": "Figure_4",
+      "width_mm": 183,
+      "height_mm": 155,
+      "all_text_Arial_Bold": true,
+      "panel_points": 18,
+      "minimum_pdf_points": 8.5,
+      "scientific_coordinates_unchanged": true,
+      "artist_signature": {
+        "sha256": "86b767fceb82089fbee6c9536bf47fc9fa0c54b90635d7255e97019a06097782",
+        "lines": 16,
+        "collections": 16,
+        "patches": 0
+      },
+      "outside": 0,
+      "text_overlaps": 0,
+      "TIFF": "RGB 600dpi LZW",
+      "pdf_text": "40\n60\n80\n100\nPopulation coverage (%)\nCholecystectomy \u00b7 original\nCholecystectomy \u00b7 screened\nCesarean \u00b7 original\nCesarean \u00b7 screened\nAppendectomy \u00b7 original\nAppendectomy \u00b7 screened\nMexico \u00b7 Cholecystectomy\nMexico \u00b7 Cesarean\n26.25 pp\n27.69 pp\n30.77 pp\n15.02 pp\n31.05 pp\n29.92 pp\n6.23 pp\n2.29 pp\n30-minute coverage\n80\n90\n100\nPopulation coverage (%)\n3.79 pp\n4.07 pp\n5.55 pp\n2.28 pp\n10.46 pp\n7.19 pp\n0.71 pp\n1.06 pp\n120-minute coverage\nA\nB\nBrazil original\nBrazil screened\nMexico state constraint\n"
+    },
+    {
+      "figure": "Figure_5",
+      "width_mm": 183,
+      "height_mm": 190,
+      "all_text_Arial_Bold": true,
+      "panel_points": 18,
+      "minimum_pdf_points": 8.5,
+      "scientific_coordinates_unchanged": true,
+      "artist_signature": {
+        "sha256": "0c96f2ae2f3c7cc89ecf3e530f8deca0c4b0a3585a6f13e88fd33d3cde16ed45",
+        "lines": 63,
+        "collections": 24,
+        "patches": 0
+      },
+      "outside": 0,
+      "text_overlaps": 0,
+      "TIFF": "RGB 600dpi LZW",
+      "pdf_text": "0.000\n0.002\n0.004\n0.006\n0.008\n\u0394 AUC\nCholecystectomy\nCesarean delivery\nAppendectomy\nAUC increment\n\u22651 resident record\n0.000\n0.002\n0.004\n0.006\n0.008\nBaseline \u2212 extended log loss\nLog-loss improvement\n\u22651 resident record\n1\n5\n10\n20\nMinimum resident AIH records\n0.000\n0.001\n0.002\n0.003\n0.004\n0.005\nBaseline \u2212 extended log loss\nStrong-baseline sensitivity\n0.88\n0.90\n0.92\n0.94\n0.96\n0.98\nAUC in 2024 holdout\nCholecystectomy\nCesarean delivery\nAppendectomy\n\u0394 +0.00735\n\u0394 +0.00155\n\u0394 +0.00168\nTemporal AUC\n\u22651 resident record\nA\nB\nC\nD\nBaseline in panels A and B\nPopulation + urban\nStrong baseline\nFlexible strong baseline\nService\nCholecystectomy\nCesarean delivery\nAppendectomy\n2024 holdout\nStrong baseline\nStrong + activity\n"
+    },
+    {
+      "figure": "Figure_6",
+      "width_mm": 183,
+      "height_mm": 182,
+      "all_text_Arial_Bold": true,
+      "panel_points": 18,
+      "minimum_pdf_points": 8.5,
+      "scientific_coordinates_unchanged": true,
+      "artist_signature": {
+        "sha256": "f32a4362605c5d584da8b8c867f2d48a311720342d7726bbbaafb7bcbc370317",
+        "lines": 2,
+        "collections": 16,
+        "patches": 0
+      },
+      "outside": 0,
+      "text_overlaps": 0,
+      "TIFF": "RGB 600dpi LZW",
+      "pdf_text": "4\n6\n8\n10\nAbsolute error (pp)\nFull \u00b7 random (12)\nFull \u00b7 high priority\nFull \u00b7 low priority\nScreened \u00b7 random (12)\nScreened \u00b7 high priority\nScreened \u00b7 low priority\nNational coverage error\n6\n8\n10\nMean absolute error (pp)\nMean state error\n1\n5\n10\n15\n20\n27\nObserved state rank\n1\n5\n10\n15\n20\n27\nAssigned state rank\nFull candidate set\n1\n5\n10\n15\n20\n27\nObserved state rank\n1\n5\n10\n15\n20\n27\nAssigned state rank\nStructurally screened\nA\nB\nC\nD\nRandom constructions (12)\nHigh-local-population priority\nLow-local-population priority\n"
+    },
+    {
+      "figure": "Figure_S1",
+      "width_mm": 183,
+      "height_mm": 104,
+      "all_text_Arial_Bold": true,
+      "panel_points": 18,
+      "minimum_pdf_points": 8.5,
+      "scientific_coordinates_unchanged": true,
+      "artist_signature": {
+        "sha256": "785bec5b1caf9661d6133a6da1893bf42ad487cdd5dce8ce3bcb0c7e849195ff",
+        "lines": 12,
+        "collections": 6,
+        "patches": 0
+      },
+      "outside": 0,
+      "text_overlaps": 0,
+      "TIFF": "RGB 600dpi LZW",
+      "pdf_text": "0\n10\n20\n40\n60\nLabels revealed (nominal %)\n0.0\n2.5\n5.0\n7.5\n10.0\n12.5\n15.0\n17.5\n20.0\nMean remaining coverage width (pp)\nBelize\nFacilities selected: 16/18\n0\n10\n20\n40\n60\nLabels revealed (nominal %)\nDjibouti\nFacilities selected: 21/26\n0\n10\n20\n40\n60\nLabels revealed (nominal %)\nGuinea-Bissau\nFacilities selected: 17/23\nInformation value of facility labels\nA\nB\nC\nRandom | count only\nLargest catchment | count only\nRandom | count + exact composition\nLargest catchment | count + exact composition\n"
+    },
+    {
+      "figure": "Figure_S2",
+      "width_mm": 183,
+      "height_mm": 133,
+      "all_text_Arial_Bold": true,
+      "panel_points": 18,
+      "minimum_pdf_points": 8.5,
+      "scientific_coordinates_unchanged": true,
+      "artist_signature": {
+        "sha256": "dc18b2d85ca641a18d6215cf76172b0e1001d4c40a0374c8c2affed78d9796cf",
+        "lines": 7,
+        "collections": 14,
+        "patches": 0
+      },
+      "outside": 0,
+      "text_overlaps": 0,
+      "TIFF": "RGB 600dpi LZW",
+      "pdf_text": "0.000\n0.005\n0.010\n0.015\nIncremental AUC (activity model - baseline)\nSpatial blocks\nPop. + urban baseline\nLeave-region-out\nPop. + urban baseline\nBuffered holdout\nPop. + urban baseline\nSpatial blocks\nPrior-service baseline\nLeave-region-out\nPrior-service baseline\nBuffered holdout\nPrior-service baseline\nBrazil: strict cholecystectomy\n65\n75\n85\n95\n30-minute population coverage (%)\nCholecystectomy\nCesarean delivery\nAt least 12.71 pp\nAt least 6.33 pp\nMexico: two services\nA\nB\nPanel B: coverage configurations\nObserved\nRandom, fixed joint composition\nClustered minimum\n"
+    },
+    {
+      "figure": "Figure_S3",
+      "width_mm": 183,
+      "height_mm": 92,
+      "all_text_Arial_Bold": true,
+      "panel_points": 18,
+      "minimum_pdf_points": 8.5,
+      "scientific_coordinates_unchanged": true,
+      "artist_signature": {
+        "sha256": "2fccf49a2a36fb61c58eceb027574b56098fb0149e62fd85747b4370e731ddd3",
+        "lines": 10,
+        "collections": 15,
+        "patches": 0
+      },
+      "outside": 0,
+      "text_overlaps": 0,
+      "TIFF": "RGB 600dpi LZW",
+      "pdf_text": "30\n40\n50\n60\n70\n80\n90\n30-minute population\ncoverage (%)\nCholecystectomy\nCesarean delivery\nAppendectomy\nConstructed spread: 37.69 pp\nConstructed spread: 42.13 pp\nConstructed spread: 44.34 pp\nBrazil: national joint-\ncomposition counts\n0.000\n0.005\n0.010\n0.015\n0.020\nIncremental AUC\n(activity - baseline)\nCholecystectomy\nCesarean delivery\nAppendectomy\nRepeated spatial-\nblock validation\nA\nB\nPanel A: coverage configurations\nObserved\nRandom, fixed joint composition\nClustered minimum\n"
+    },
+    {
+      "figure": "Figure_S4",
+      "width_mm": 183,
+      "height_mm": 105,
+      "all_text_Arial_Bold": true,
+      "panel_points": 18,
+      "minimum_pdf_points": 8.5,
+      "scientific_coordinates_unchanged": true,
+      "artist_signature": {
+        "sha256": "9ccdbd29f08330a6538ff307ee908559d73b481cc0c99cdfdf36f4b423b2c4c1",
+        "lines": 19,
+        "collections": 24,
+        "patches": 0
+      },
+      "outside": 0,
+      "text_overlaps": 0,
+      "TIFF": "RGB 600dpi LZW",
+      "pdf_text": "40\n50\n60\n70\n80\n90\n30-minute population\ncoverage (%)\nCholecystectomy\nBrazil\nCesarean delivery\nBrazil\nAppendectomy\nBrazil\nCholecystectomy\nMexico\nCesarean delivery\nMexico\n\u2265 26.25 pp\n\u2265 30.77 pp\n\u2265 31.05 pp\n\u2265 6.23 pp\n\u2265 2.29 pp\nConstructed coverage\nbounds\n0.000 0.005 0.010 0.015 0.020\nIncremental AUC\n(activity - baseline)\nCholecystectomy\nCesarean delivery\nAppendectomy\nValidation\ncomparisons\nA\nB\nPanel A: endpoints\nLower endpoint\nUpper endpoint\nPanel B: comparisons\nPopulation + urban\nPrior-service adjusted\nTemporal holdout (point)\n"
+    }
+  ],
+  "portable_reproduction": "all 10 TIFFs pixel-identical"
+}

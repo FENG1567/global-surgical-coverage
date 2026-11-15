@@ -1,0 +1,10 @@
+service,structure_indicator,candidate_set,candidate_count,active_hospitals_2024_in_set,activity_records_2024_in_set,active_hospitals_excluded,activity_records_excluded,flag_positive_candidates,flag_conflicted_candidates,flag_unknown_candidates,flag_explicit_zero_candidates,active_with_explicit_zero,active_with_conflicted_metadata,active_with_unknown_metadata,candidate_rows_missing_from_raw_CNES,candidate_with_hospital_type_support,candidate_with_hospital_type_unknown,raw_indicator_missing_fields_in_set,raw_indicator_unrecognized_fields_in_set
+chole,surgical_center,full_original,8444,2292,316178,0,0,8000,0,0,444,0,0,0,0,8444,0,0,0
+chole,surgical_center,A_affirmative_structure_only,8000,2292,316178,0,0,8000,0,0,444,0,0,0,0,8000,0,0,0
+chole,surgical_center,B_structure_positive_or_unknown,8000,2292,316178,0,0,8000,0,0,444,0,0,0,0,8000,0,0,0
+cesarean,obstetric_center,full_original,8444,2050,883191,0,0,4693,0,0,3751,59,0,0,0,8444,0,0,0
+cesarean,obstetric_center,A_affirmative_structure_only,4693,1991,864711,59,18480,4693,0,0,3751,59,0,0,0,4693,0,0,0
+cesarean,obstetric_center,B_structure_positive_or_unknown,4693,1991,864711,59,18480,4693,0,0,3751,59,0,0,0,4693,0,0,0
+appendectomy,surgical_center,full_original,8444,1697,116956,0,0,8000,0,0,444,0,0,0,0,8444,0,0,0
+appendectomy,surgical_center,A_affirmative_structure_only,8000,1697,116956,0,0,8000,0,0,444,0,0,0,0,8000,0,0,0
+appendectomy,surgical_center,B_structure_positive_or_unknown,8000,1697,116956,0,0,8000,0,0,444,0,0,0,0,8000,0,0,0

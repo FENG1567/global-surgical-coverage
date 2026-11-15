@@ -1,0 +1,7 @@
+Candidate set,Rule,Assignments,National MAE (pp),State MAE (pp),State rank correlation,Lowest-five overlap
+Original universe,Random (12 assignments),12,4.21384935374324,5.380174555112842,0.9545177045177047,4.0
+Original universe,High local population,1,9.948611830767772,10.547280106126683,0.9102564102564104,3.0
+Original universe,Low local population,1,5.519965163595375,7.730545419283453,0.9316239316239318,3.0
+B: positive or unknown,Random (12 assignments),12,4.296723054731689,5.401746721884725,0.958791208791209,4.166666666666667
+B: positive or unknown,High local population,1,9.920019764863298,10.771972924256673,0.9224664224664229,3.0
+B: positive or unknown,Low local population,1,5.14221642835756,6.28977517392518,0.9285714285714288,3.0

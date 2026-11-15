@@ -1,0 +1,179 @@
+{
+  "country": "BRA",
+  "country_mask_grid_population": 215906931.03836212,
+  "country_scope_reference_population": 215906931.0383622,
+  "country_mask_relative_difference_from_reference": -4.440892098500626e-16,
+  "country_mask_grid_pixels": 10182277,
+  "state_polygon_assigned_population": 215341989.9370165,
+  "state_polygon_assigned_share_of_country_mask_population": 0.9973834045130989,
+  "state_polygon_assigned_grid_pixels": 10167487,
+  "unmatched_country_mask_population": 564941.1013455379,
+  "unmatched_share_of_country_mask_population": 0.0026165954869006025,
+  "unmatched_country_mask_grid_pixels": 14790,
+  "state_population_by_code": [
+    {
+      "state_code": 11,
+      "state": "RO",
+      "polygon_assigned_population": 1789784.5013170666,
+      "share_of_full_country_mask_population": 0.00828961114267823
+    },
+    {
+      "state_code": 12,
+      "state": "AC",
+      "polygon_assigned_population": 956017.8733543613,
+      "share_of_full_country_mask_population": 0.004427916550694229
+    },
+    {
+      "state_code": 13,
+      "state": "AM",
+      "polygon_assigned_population": 4598009.525039582,
+      "share_of_full_country_mask_population": 0.0212962571554621
+    },
+    {
+      "state_code": 14,
+      "state": "RR",
+      "polygon_assigned_population": 629709.5771643678,
+      "share_of_full_country_mask_population": 0.002916578796872814
+    },
+    {
+      "state_code": 15,
+      "state": "PA",
+      "polygon_assigned_population": 8911238.240130696,
+      "share_of_full_country_mask_population": 0.041273516312208415
+    },
+    {
+      "state_code": 16,
+      "state": "AP",
+      "polygon_assigned_population": 869353.1667488243,
+      "share_of_full_country_mask_population": 0.004026518104665934
+    },
+    {
+      "state_code": 17,
+      "state": "TO",
+      "polygon_assigned_population": 1748184.8027489185,
+      "share_of_full_country_mask_population": 0.008096936927135067
+    },
+    {
+      "state_code": 21,
+      "state": "MA",
+      "polygon_assigned_population": 7563564.74726212,
+      "share_of_full_country_mask_population": 0.03503159769298112
+    },
+    {
+      "state_code": 22,
+      "state": "PI",
+      "polygon_assigned_population": 3482689.0015831348,
+      "share_of_full_country_mask_population": 0.01613051042332835
+    },
+    {
+      "state_code": 23,
+      "state": "CE",
+      "polygon_assigned_population": 9562014.551143028,
+      "share_of_full_country_mask_population": 0.044287668326145856
+    },
+    {
+      "state_code": 24,
+      "state": "RN",
+      "polygon_assigned_population": 3729252.900420226,
+      "share_of_full_country_mask_population": 0.01727250201040381
+    },
+    {
+      "state_code": 25,
+      "state": "PB",
+      "polygon_assigned_population": 4133816.28691071,
+      "share_of_full_country_mask_population": 0.019146288018777026
+    },
+    {
+      "state_code": 26,
+      "state": "PE",
+      "polygon_assigned_population": 9966384.844937366,
+      "share_of_full_country_mask_population": 0.04616056000150615
+    },
+    {
+      "state_code": 27,
+      "state": "AL",
+      "polygon_assigned_population": 3313603.991551449,
+      "share_of_full_country_mask_population": 0.015347372016337407
+    },
+    {
+      "state_code": 28,
+      "state": "SE",
+      "polygon_assigned_population": 2529843.1470094454,
+      "share_of_full_country_mask_population": 0.011717285475008422
+    },
+    {
+      "state_code": 29,
+      "state": "BA",
+      "polygon_assigned_population": 15038458.29922032,
+      "share_of_full_country_mask_population": 0.06965250363615377
+    },
+    {
+      "state_code": 31,
+      "state": "MG",
+      "polygon_assigned_population": 21963934.788253203,
+      "share_of_full_country_mask_population": 0.10172871562122604
+    },
+    {
+      "state_code": 32,
+      "state": "ES",
+      "polygon_assigned_population": 3885458.741426414,
+      "share_of_full_country_mask_population": 0.017995988932546357
+    },
+    {
+      "state_code": 33,
+      "state": "RJ",
+      "polygon_assigned_population": 17164068.19827066,
+      "share_of_full_country_mask_population": 0.07949753218075693
+    },
+    {
+      "state_code": 35,
+      "state": "SP",
+      "polygon_assigned_population": 45713618.08596139,
+      "share_of_full_country_mask_population": 0.2117283491831906
+    },
+    {
+      "state_code": 41,
+      "state": "PR",
+      "polygon_assigned_population": 11363153.086350106,
+      "share_of_full_country_mask_population": 0.05262986709922301
+    },
+    {
+      "state_code": 42,
+      "state": "SC",
+      "polygon_assigned_population": 7241864.831952885,
+      "share_of_full_country_mask_population": 0.033541604232548504
+    },
+    {
+      "state_code": 43,
+      "state": "RS",
+      "polygon_assigned_population": 11174672.246594016,
+      "share_of_full_country_mask_population": 0.05175689447694716
+    },
+    {
+      "state_code": 50,
+      "state": "MS",
+      "polygon_assigned_population": 2976852.535097546,
+      "share_of_full_country_mask_population": 0.013787665457430924
+    },
+    {
+      "state_code": 51,
+      "state": "MT",
+      "polygon_assigned_population": 3745904.4854170238,
+      "share_of_full_country_mask_population": 0.01734962591243287
+    },
+    {
+      "state_code": 52,
+      "state": "GO",
+      "polygon_assigned_population": 7816101.657307839,
+      "share_of_full_country_mask_population": 0.03620125402977027
+    },
+    {
+      "state_code": 53,
+      "state": "DF",
+      "polygon_assigned_population": 3474435.8238437832,
+      "share_of_full_country_mask_population": 0.016092284796667546
+    }
+  ],
+  "country_metric_denominator": "all population cells in the established Brazil country mask",
+  "state_metric_denominator": "population in the Brazil country mask assigned to rasterized 2022 IBGE municipality polygons and grouped by state; unmatched cells are excluded from state denominators and are not redistributed"
+}

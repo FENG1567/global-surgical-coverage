@@ -1,0 +1,17 @@
+{
+  "scope": "Retained original project-environment artifact plus recorded endpoint re-evaluation settings; artifact recovery is distinct from a contemporaneous runtime-version log.",
+  "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+  "scipy": "1.18.1",
+  "numpy": "2.5.4",
+  "highs_version": "1.12.0",
+  "solver_binary_sha256": "33fb5a6a86b8fb914b26e69f8f046274b0b043d202511109365d3fde180c540d",
+  "observed_utc": "2026-11-14T21:06:33Z",
+  "endpoint_re_evaluation": {
+    "time_limit_seconds": 120,
+    "relative_mip_gap": 1e-06,
+    "threads": 1,
+    "countries": 27
+  },
+  "original_solver_build": "HiGHS 1.12.0 recovered from retained original project-environment binary, checked against SciPy installation RECORD; not a contemporaneous runtime-version banner",
+  "solver_provenance": "Retained original binary SHA256 matches the verified 1.12.0 artifact; original binary timestamps predate the endpoint analysis."
+}

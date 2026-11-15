@@ -1,0 +1,10 @@
+Procedure,Comparison,Mean ΔAUC,2.5th percentile,97.5th percentile,Positive of 50
+chole,+OSM - baseline,-0.00074,-0.00190,-0.00012,0
+chole,+activity - baseline,0.01183,0.01055,0.01289,50
+chole,+activity - +OSM,0.01257,0.01155,0.01380,50
+cesarean,+OSM - baseline,0.00210,0.00117,0.00254,50
+cesarean,+activity - baseline,0.01307,0.01259,0.01364,50
+cesarean,+activity - +OSM,0.01097,0.01019,0.01189,50
+appendectomy,+OSM - baseline,0.00345,-0.00014,0.00501,48
+appendectomy,+activity - baseline,0.01781,0.01647,0.01927,50
+appendectomy,+activity - +OSM,0.01436,0.01198,0.01810,50
