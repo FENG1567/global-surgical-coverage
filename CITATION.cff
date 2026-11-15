@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Please cite the paper and this versioned code and aggregate-data release."
 title: "Geographic surgical coverage when facility-level capability is unobserved: global bounds and analyses of cholecystectomy and other procedures in Brazil and Mexico"
 type: software
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-11-15
 license:
   - MIT
@@ -32,4 +32,4 @@ keywords:
   - Mexico
 
 repository-code: https://github.com/FENG1567/global-surgical-coverage
-url: https://github.com/FENG1567/global-surgical-coverage/releases/tag/v1.0.0
+url: https://github.com/FENG1567/global-surgical-coverage/releases/tag/v1.0.1

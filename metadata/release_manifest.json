@@ -1,12 +1,12 @@
 {
-  "release": "1.0.0",
+  "release": "1.0.1",
   "date": "2026-11-15",
   "candidate": "GSA-FIGURE-READER-20261115-R5",
   "files": [
     {
       "path": ".gitattributes",
-      "bytes": 131,
-      "sha256": "114bfe376ac5dcbdec0ad7bd0d727827b8cadb1242656ba34d0db6840f2ee1be"
+      "bytes": 78,
+      "sha256": "960c17d925022b6dc8034b8ef17faa60e480ee12e6b11cb02204852f3e7448fc"
     },
     {
       "path": ".github/workflows/reproduce.yml",
@@ -21,7 +21,7 @@
     {
       "path": "CITATION.cff",
       "bytes": 1215,
-      "sha256": "697f27bd4f57aa3894d271592b915cf00ea5fca082026adbafcb793fd3e6b879"
+      "sha256": "c117affcfea6f6250c22915d79e6426b70c308eced925dfcd24c38b4f6f260c5"
     },
     {
       "path": "LICENSE",
@@ -51,12 +51,12 @@
     {
       "path": "README.md",
       "bytes": 7322,
-      "sha256": "a744a1f21683d8d38035b39b65114a3f2a652db55ff9986770933da55869bbee"
+      "sha256": "1897868a2d4f9635c4c8f8ddb83fc489264a3ba537f5efe9320b9e349637320a"
     },
     {
       "path": "README_\u4e2d\u6587.md",
       "bytes": 3756,
-      "sha256": "675944884b2bcc6fb20ead1e023d853e7145e13da463e5aa2b86023981fcff9e"
+      "sha256": "3ff813202c234d4cbed5d055035e77945e1fdbaacce0aa48ac66aa7fdd6ca362"
     },
     {
       "path": "THIRD_PARTY_NOTICES.md",
@@ -1346,7 +1346,7 @@
     {
       "path": "docs/DATA_AVAILABILITY_DRAFT.md",
       "bytes": 1517,
-      "sha256": "78032b2e148959985de3a7aa8999938ae1c0c8d4d8166b5b41ce8636ae572e70"
+      "sha256": "3e763463d8423dda734cc7c64d9da8e73164d749fe880aea4db181abba8a74fe"
     },
     {
       "path": "docs/DATA_SOURCES.md",
@@ -1366,7 +1366,7 @@
     {
       "path": "docs/GITHUB_UPLOAD_\u4e2d\u6587.md",
       "bytes": 604,
-      "sha256": "cd3d84624b7e73f5513951bf4ac9871bc7de9556bc36079cafa95f471475a8cc"
+      "sha256": "c28b840b80d180962ad560e7ed2f1d43668ccfe8e9f733b4210dcc72e087c140"
     },
     {
       "path": "docs/TABLE_MAP.csv",
@@ -1572,5 +1572,5 @@
   "scientific_candidate_before_presentation_revision": "GSA-20261114-0271770aff71",
   "presentation_revision_date": "2026-11-15",
   "repository": "https://github.com/FENG1567/global-surgical-coverage",
-  "release_tag": "v1.0.0"
+  "release_tag": "v1.0.1"
 }

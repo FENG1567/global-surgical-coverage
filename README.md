@@ -73,7 +73,7 @@ Author code and software documentation: **MIT** (`LICENSE`).
 Authors' original aggregate results and figures: **CC BY 4.0** (`LICENSE-DATA.md`).
 Third-party source data are not relicensed or redistributed; see
 `THIRD_PARTY_NOTICES.md` and `metadata/external_data_manifest.csv`.
-Cite the paper and version v1.0.0 of this repository using `CITATION.cff`: https://github.com/FENG1567/global-surgical-coverage/releases/tag/v1.0.0.
+Cite the paper and version v1.0.1 of this repository using `CITATION.cff`: https://github.com/FENG1567/global-surgical-coverage/releases/tag/v1.0.1.
 
 Contact: Xianzhi Meng, mengxianzhi@hrbmu.edu.cn.
 
@@ -98,6 +98,6 @@ Figure reader review: all ten figures use explicit difference units and panel-sp
 
 ## Code availability
 
-Author-developed analysis and reproduction code is publicly available under the MIT License at https://github.com/FENG1567/global-surgical-coverage, version v1.0.0. The repository includes aggregate inputs, figure and table reproduction scripts, municipality-level model-refitting code, environment specifications and source-data provenance. Authors' aggregate results and figures are licensed under CC BY 4.0. Reconstructing the full spatial analyses requires the third-party geographic and registry inputs listed in the external-data manifest, obtained under provider terms.
+Author-developed analysis and reproduction code is publicly available under the MIT License at https://github.com/FENG1567/global-surgical-coverage, version v1.0.1. The repository includes aggregate inputs, figure and table reproduction scripts, municipality-level model-refitting code, environment specifications and source-data provenance. Authors' aggregate results and figures are licensed under CC BY 4.0. Reconstructing the full spatial analyses requires the third-party geographic and registry inputs listed in the external-data manifest, obtained under provider terms.
 
 The automated GitHub workflow validates the release, reproduces tables and runs regression tests. Exact figure rendering additionally requires legally installed Arial Regular and Bold fonts; it is run through the documented local figure command rather than an unlicensed font download in CI.

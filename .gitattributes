@@ -1,9 +1,2 @@
-* text=auto
-*.csv text eol=lf
-*.py text eol=lf
-*.c text eol=lf
-*.sh text eol=lf
-*.pdf binary
-*.png binary
-*.gz binary
-*.npz binary
+# Preserve release-file bytes and SHA-256 checksums across platforms.
+* -text

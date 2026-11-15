@@ -20,7 +20,7 @@
 ## 上传和授权
 
 自编代码采用MIT，自有汇总结果和图采用CC BY 4.0。不要另传原始入院行、账号配置、虚拟环境或工作栅格。
-公开GitHub仓库：https://github.com/FENG1567/global-surgical-coverage；引用版本v1.0.0。
+公开GitHub仓库：https://github.com/FENG1567/global-surgical-coverage；引用版本v1.0.1。
 
 ## 图表展示与复现
 
@@ -43,6 +43,6 @@
 
 ## 代码可用性
 
-自编分析与复现代码以MIT许可公开于https://github.com/FENG1567/global-surgical-coverage，版本v1.0.0。仓库含汇总输入、图表复现脚本、市级模型重新拟合代码、环境要求与源数据记录。作者汇总结果和图稿采用CC BY 4.0。完整空间分析的重建需要按原提供方条款另行获取外部数据清单中的地理和登记输入。
+自编分析与复现代码以MIT许可公开于https://github.com/FENG1567/global-surgical-coverage，版本v1.0.1。仓库含汇总输入、图表复现脚本、市级模型重新拟合代码、环境要求与源数据记录。作者汇总结果和图稿采用CC BY 4.0。完整空间分析的重建需要按原提供方条款另行获取外部数据清单中的地理和登记输入。
 
 GitHub自动工作流核验发布文件、复现表格并运行回归测试。精确复画另需合法安装Arial Regular与Bold，按文档在本地运行绘图命令，不在CI中下载未授权字体。
